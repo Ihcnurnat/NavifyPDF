@@ -1,31 +1,61 @@
-offset: 0
-chapters:
-  - title: "Introduction"
+offset: 0  # Optional page number adjustment
+contents:
+
+  - title: "Contents"
     page_number: 1
-    sections:
-      - title: "Background"
-        page_number: 2
-        subsections:
-          - title: "Historical Context"
-            page_number: 3
-          - title: "Key Concepts"
+    children: []
+
+  - title: "Introduction"
+    page_number: 2
+    children: 
+      - title: "Notation and conventions"
+        page_number: 3
+      - title: "Acknoledgements"
+        page_number: 4
+
+  - title: "Moduli problems"
+    page_number: 4
+    children: 
+      - title: "Functors of points"
+        page_number: 4 
+        children: 
+          - title: "Remark 2.1."
+            page_number: 4 
+            children: []
+          - title: "Definition 2.2."
             page_number: 4
-      - title: "Motivation"
-        page_number: 5
-  - title: "Main Content"
-    page_number: 10
-    sections:
-      - title: "Theory"
-        page_number: 11
-        subsections:
-          - title: "Fundamental Theories"
-            page_number: 12
-          - title: "Advanced Topics"
-            page_number: 14
-      - title: "Applications"
-        page_number: 16
-        subsections:
-          - title: "Practical Use Cases"
-            page_number: 17
-  - title: "Conclusion"
-    page_number: 20
+          - title: "Example 2.3."
+            page_number: 5
+            children: []
+      - title: "Moduli problem"
+        page_number: 6
+
+  - title: "Algebraic group actions and quotients"
+    page_number: 11
+    children: 
+      - title: "Affine Algebraic groups"
+        page_number: 12
+  
+  - title: "Aﬃne Geometric Invariant Theory"
+    page_number: 23
+    children: []
+
+  - title: "Projective GIT quotients"
+    page_number: 34
+    children: []
+
+  - title: "Criteria for (semi)stability"
+    page_number: 43
+    children: []
+  
+  - title: "Moduli of projective hypersurfaces"
+    page_number: 50
+    children: []
+
+  - title: "Moduli of vector bundles on a curve"
+    page_number: 60
+    children: []
+
+  - title: "References"
+    page_number: 86
+    children: []

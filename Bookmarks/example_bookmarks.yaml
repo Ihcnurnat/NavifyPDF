@@ -1,21 +1,22 @@
-offset: 0
-chapters:
-  - title: "Introduction"
+offset: 0  # Optional page number adjustment
+contents:
+  - title: "Contents"
     page_number: 1
-  - title: "Chapter 1"
-    page_number: 10
-    sections:
+    children: []
+
+  - title: "Introduction"
+    page_number: 2
+    children: []
       - title: "Section 1.1"
         page_number: 11
+        children:
+          - title: "Subsection 1.1.1"
+            page_number: 12
+            children: []
       - title: "Section 1.2"
         page_number: 15
-  - title: "Chapter 2"
-    page_number: 25
-    sections:
-      - title: "Section 2.1"
-        page_number: 26
-        subsections:
-          - title: "Subsection 2.1.1"
-            page_number: 27
-          - title: "Subsection 2.1.2"
-            page_number: 29
+        children: []
+
+  - title: "References"
+    page_number: 30
+    children: []
