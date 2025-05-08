@@ -21,3 +21,15 @@ AnGQmAQ6zp77bJ42NogfGPKfAXa0TLK3+eEJu8e/
 =22TK
 -----END PGP MESSAGE-----
 
+
+```bash
+    python main.py "/Users/runchitan/Desktop/2025 Spring/MATH-497-Homotopy/HomotopyTheory2022.pdf" "/Users/runchitan/Desktop/2025 Spring/MATH-497-Homotopy/HomotopyTheory2022.pdf" "/Users/runchitan/Desktop/NavifyPDF/Bookmarks/HomotopyTheory2022.yaml"
+```
+
+```bash
+    python main.py "/Users/runchitan/Desktop/2025 Spring/SemesterProjectAlineRunchi/VICTORIA_HOSKINS_NotesGIT.pdf" "/Users/runchitan/Desktop/2025 Spring/SemesterProjectAlineRunchi/VICTORIA_HOSKINS_NotesGIT.pdf" "/Users/runchitan/Desktop/NavifyPDF/Bookmarks/VICTORIA_HOSKINS_NotesGIT.yaml"
+```
+
+```bash
+    python main.py "/Users/runchitan/Desktop/2025 Spring/MATH-497-Homotopy/HomotopyTheory2022.pdf" "/Users/runchitan/Desktop/2025 Spring/MATH-497-Homotopy/HomotopyTheory2022.pdf" "/Users/runchitan/Desktop/NavifyPDF/Bookmarks/HomotopyTheory2022.yaml"
+```

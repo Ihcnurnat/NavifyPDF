@@ -10,56 +10,123 @@ contents:
 
   - title: "Chapter 1. Topological complements"
     page_number: 7
-    children: []
-  
+    children: 
+      - title: "1. Compact-open topology"
+        page_number: 7
+        children: []
+      - title: "2. The exponential law"
+        page_number: 8
+        children: []
+      - title: "3. Some remarks on possible improvements"
+        page_number: 12
+        children: []
+      - title: "4. Pointed mapping spaces"
+        page_number: 13
+        children: []
+      - title: "5. Loop and suspension"
+        page_number: 17
+        children: []
+
   - title: "Chapter 2. Homotopy groups"
     page_number: 19
-    children: []
+    children:
+      - title: "1. Higher homotopy groups"
+        page_number: 19
+        children: []
+      - title: "2. H-spaces and co-H-spaces"
+        page_number: 21
+        children: []
+      - title: "3. The Eckmann-Hilton argument"
+        page_number: 24
+        children: []
+      - title: "4. Relative homotopy groups"
+        page_number: 26
+        children: []
 
   - title: "Chapter 3. The cellular approximation"
     page_number: 33
-    children: []
+    children:
+      - title: "1. CW-complexes and polyhedra"
+        page_number: 33
+        children: []
+      - title: "2. Cellular approximation"
+        page_number: 35
+        children: []
+      - title: "3. CW-approximation"
+        page_number: 39
+        children: []
+      - title: "4. Postnikov sections"
+        page_number: 44
+        children: []
 
   - title: "Chapter 4. Fibrations and cofibrations"
     page_number: 47
     children: 
-    - title: "1. Mapping cylinders and mapping cones"
-      page_number: 47
-      children: []
-    - title: "2. Path spaces and loop spaces"
-      page_number: 53
-      children: []
-    - title: "3. The homotopy extension property"
-      page_number: 54
-      children: []
-    - title: "4. Turning maps into cofibrations and applications"
-      page_number: 59
-      children: []
-    - title: "5. Properties of cofibrations"
-      page_number: 62
-      children: []
-    - title: "6. Homotopy pushouts"
-      page_number: 67
-      children: []
-    - title: "7. Playing with homotopy pushouts"
-      page_number: 71
-      children: []
-    - title: "8. Fibrations"
-      page_number: 75
-      children: []
-    - title: "9. Properties and examples of fibrations"
-      page_number: 79
-      children: []
-
+      - title: "1. Mapping cylinders and mapping cones"
+        page_number: 47
+        children: []
+      - title: "2. Path spaces and loop spaces"
+        page_number: 53
+        children: []
+      - title: "3. The homotopy extension property"
+        page_number: 54
+        children: []
+      - title: "4. Turning maps into cofibrations and applications"
+        page_number: 59
+        children: []
+      - title: "5. Properties of cofibrations"
+        page_number: 62
+        children: []
+      - title: "6. Homotopy pushouts"
+        page_number: 67
+        children: []
+      - title: "7. Playing with homotopy pushouts"
+        page_number: 71
+        children: []
+      - title: "8. Fibrations"
+        page_number: 75
+        children: []
+      - title: "9. Properties and examples of fibrations"
+        page_number: 79
+        children: []
 
   - title: "Chapter 5. The Hurewicz homomorphism"
     page_number: 85
-    children: []
+    children:
+      - title: "1. CW-complexes and homology"
+        page_number: 85
+        children: []
+      - title: "2. The Hurewicz homomorphism"
+        page_number: 87
+        children: []
+      - title: "3. Eilenberg-Mac Lane spaces"
+        page_number: 92
+        children: []
+      - title: "4. The Milnor sequence"
+        page_number: 95
+        children: []
+      - title: "5. Cohomology of arbitrary CW-complexes"
+        page_number: 98
+        children: []
 
   - title: "Chapter 6. More adavanced topics"
     page_number: 103
-    children: []
-      
+    children:
+      - title: "1. Postnikov invariants"
+        page_number: 103
+        children: []
+      - title: "2. Poincaré sphere"
+        page_number: 105
+        children: []
+      - title: "3. James construction and infinite symmetric products"
+        page_number: 106
+        children: []
+      - title: "4. Puppe's Theorem"
+        page_number: 107
+        children: []
+      - title: "5. Blakers-Massey and Freudenthal Theorems"
+        page_number: 109
+        children: []
 
   - title: "Bibliography"
     page_number: 111
