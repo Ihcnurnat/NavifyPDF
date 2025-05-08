@@ -1,0 +1,66 @@
+offset: 0  # Optional page number adjustment
+contents:
+  - title: "Contents"
+    page_number: 3
+    children: []
+
+  - title: "Introduction"
+    page_number: 5
+    children: []
+
+  - title: "Chapter 1. Topological complements"
+    page_number: 7
+    children: []
+  
+  - title: "Chapter 2. Homotopy groups"
+    page_number: 19
+    children: []
+
+  - title: "Chapter 3. The cellular approximation"
+    page_number: 33
+    children: []
+
+  - title: "Chapter 4. Fibrations and cofibrations"
+    page_number: 47
+    children: 
+    - title: "1. Mapping cylinders and mapping cones"
+      page_number: 47
+      children: []
+    - title: "2. Path spaces and loop spaces"
+      page_number: 53
+      children: []
+    - title: "3. The homotopy extension property"
+      page_number: 54
+      children: []
+    - title: "4. Turning maps into cofibrations and applications"
+      page_number: 59
+      children: []
+    - title: "5. Properties of cofibrations"
+      page_number: 62
+      children: []
+    - title: "6. Homotopy pushouts"
+      page_number: 67
+      children: []
+    - title: "7. Playing with homotopy pushouts"
+      page_number: 71
+      children: []
+    - title: "8. Fibrations"
+      page_number: 75
+      children: []
+    - title: "9. Properties and examples of fibrations"
+      page_number: 79
+      children: []
+
+
+  - title: "Chapter 5. The Hurewicz homomorphism"
+    page_number: 85
+    children: []
+
+  - title: "Chapter 6. More adavanced topics"
+    page_number: 103
+    children: []
+      
+
+  - title: "Bibliography"
+    page_number: 111
+    children: []

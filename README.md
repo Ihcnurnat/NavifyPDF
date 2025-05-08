@@ -11,19 +11,15 @@ pip install -r requirements.txt
 ```
 
 ## 3. Run the Command
-
+You'll specify both the input and output. Then define the offset you want. Here offset is the distance between the first page of .pdf and the first page printed, under the assumption that .pdf increase exactly at the same speed of the printed page number. 
 ```bash
-python main.py input.pdf output.pdf toc.yaml
+python main.py <input.pdf> <output.pdf> <bookmarks_toc.yaml>
 ```
 
 ### Examples 
 
 ```bash
-    python main.py "/Users/runchitan/Desktop/NavifyPDF/OriginalBooks/VICTORIA_HOSKINS_NotesGIT.pdf" "/Users/runchitan/Desktop/NavifyPDF/OriginalBooks/VICTORIA_HOSKINS_NotesGIT_newtest1.pdf" "/Users/runchitan/Desktop/NavifyPDF/Bookmarks/example_bookmarks.yaml"
-```
-
-```bash
-    python main.py "/Users/runchitan/Desktop/NavifyPDF/OriginalBooks/VICTORIA_HOSKINS_NotesGIT.pdf" "/Users/runchitan/Desktop/NavifyPDF/OriginalBooks/VICTORIA_HOSKINS_NotesGIT_newtest1.pdf" "/Users/runchitan/Desktop/NavifyPDF/Bookmarks/VICTORIA_HOSKINS_NotesGIT.yaml"
+    python main.py "VICTORIA_HOSKINS_NotesGIT.pdf" "VICTORIA_HOSKINS_NotesGIT_new.pdf" "VICTORIA_HOSKINS_NotesGIT.yaml"
 ```
 
 ## 🚀 Workflow
