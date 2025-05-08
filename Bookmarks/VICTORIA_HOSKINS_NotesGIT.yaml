@@ -1,0 +1,31 @@
+offset: 0
+chapters:
+  - title: "Introduction"
+    page_number: 1
+    sections:
+      - title: "Background"
+        page_number: 2
+        subsections:
+          - title: "Historical Context"
+            page_number: 3
+          - title: "Key Concepts"
+            page_number: 4
+      - title: "Motivation"
+        page_number: 5
+  - title: "Main Content"
+    page_number: 10
+    sections:
+      - title: "Theory"
+        page_number: 11
+        subsections:
+          - title: "Fundamental Theories"
+            page_number: 12
+          - title: "Advanced Topics"
+            page_number: 14
+      - title: "Applications"
+        page_number: 16
+        subsections:
+          - title: "Practical Use Cases"
+            page_number: 17
+  - title: "Conclusion"
+    page_number: 20
