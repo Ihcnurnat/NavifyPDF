@@ -1,0 +1,169 @@
+offset: 10  # Optional page number adjustment
+contents:
+  - title: "Contents"
+    page_number: -5
+    children: []
+
+  - title: "Preface"
+    page_number: -3
+    children: []
+
+  - title: "Acknowledgments"
+    page_number: -1
+    children: []
+
+  - title: "I Fundamentals"
+    page_number: 1
+    children: 
+      - title: "Lecture 1. Matrix-Vector Multiplication"
+        page_number: 1
+        chidlren: []
+      
+      - title: "Lecture 2. Orthogonal Vectors and Matrices"
+        page_number: 11
+        chidlren: []
+
+      - title: "Lecture 3. Norms"
+        page_number: 17
+        chidlren: []
+
+      - title: "Lecture 4. The Singular Value Decomposition"
+        page_number: 25
+        children: []
+
+      - title: "Lecture 5. More on the SVD"
+        page_number: 32
+        children: []
+
+  - title: "II QR Factorization and Least Square"
+    page_number: 39
+    children: 
+      - title: "Lecture 6. Projectors"
+        page_number: 7
+        children: []
+      - title: "Lecture 7. QR Factorization "
+        page_number: 48
+        children: []
+      - title: "Lecture 8. Gram-Schmidt Orthogonalization"
+        page_number: 56
+        children: []
+      - title: "Lecture 9. MATLAB"
+        page_number: 63
+        children: []
+      - title: "Lecture 10. Householder Triangularization"
+        page_number: 69
+        children: []
+      - title: "Lecture 11. Least Squares Problems"
+        page_number: 77
+        children: []
+
+  - title: "III Conditioning and Stability"
+    page_number: 87
+    children:
+      - title: "Lecture 12. Conditioning and Condition Numbers"
+        page_number: 89
+        children: []
+      - title: "Lecture 13. Floating Point Arithmetic"
+        page_number: 97
+        children: []
+      - title: "Lecture 14. Stability"
+        page_number: 102
+        children: []
+      - title: "Lecture 15. More on Stability"
+        page_number: 108
+        children: []
+      - title: "Lecture 16. Stability of Householder Triangularization"
+        page_number: 114
+        children: []
+      - title: "Lecture 17. Stability of Back Substitution"
+        page_number: 121
+        children: []
+      - title: "Lecture 18. Conditioning of Least Squares Problems"
+        page_number: 129
+        children: []
+      - title: "Lecture 19. Stability of Least Squares Algorithms"
+        page_number: 137
+        children: []
+
+  - title: "IV Systems of Equations"
+    page_number: 145
+    children:
+      - title: "Lecture 20. Gaussian Elimination"
+        page_number: 147
+        children: []
+      - title: "Lecture 21. Pivoting"
+        page_number: 155
+        children: []
+      - title: "Lecture 22. Stability of Gaussian Elimination"
+        page_number: 163
+        children: []
+      - title: "Lecture 23. Cholesky Factorization"
+        page_number: 172
+        children: []
+
+  - title: "V Eigenvalues"
+    page_number: 179
+    children: 
+      - title: "Lecture 24. Eigenvalues Problems"
+        page_number: 181
+        children: []
+      - title: "Lecture 25. Overview of Eigenvalues Algorithms"
+        page_number: 190
+        children: []
+      - title: "Lecture 26. Reduction to Hessenberg or Tridiagonal Form"
+        page_number: 196
+        children: []
+      - title: "Lecture 27. Rayleigh Quotient, Inverse Iteration"
+        page_number: 202
+        children: []
+      - title: "Lecture 28. QR Algorithm without Shifts"
+        page_number: 211
+        children: []
+      - title: "Lecture 29. QR Algorithm with Shifts"
+        page_number: 219
+        children: []
+      - title: "Lecture 30. Other Eigenvalue Algorithms"
+        page_number: 225
+        children: []
+      - title: "Lecture 31. Computing the SVD"
+        page_number: 234
+        children: []
+
+  - title: "VI Iterative Methods"
+    page_number: 241
+    children:
+      - title: "Lecture 32. Overview of Iterative Methods"
+        page_number: 243
+        children: []
+      - title: "Lecture 33. The Arnoldi Iteration"
+        page_number: 250
+        children: []
+      - title: "Lecture 34. How Arnoldi Locates Eigenvalues"
+        page_number: 257
+        children: []
+      - title: "Lecture 35. GMRES"
+        page_number: 266
+        children: []
+      - title: "Lecture 36. The Lanczos Iteration"
+        page_number: 276
+        children: []
+      - title: "Lecture 37. From Lanczos to Gauss Quadrature"
+        page_number: 285
+        children: []
+      - title: "Lecture 38. Conjugate Gradients"
+        page_number: 293
+      - title: "Lecture 39. Biorthogonalization Methods"
+        page_number: 303
+      - title: "Lecture 40. Preconditioning"
+        page_number: 313
+
+
+  - title: "Appendix"
+    page_number: 321
+  - title: "Notes"
+    page_number: 329
+  - title: "Bibliography"
+    page_number: 343
+  - title: "Index"
+    page_number: 353
+    children: []
