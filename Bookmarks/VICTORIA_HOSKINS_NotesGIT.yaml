@@ -1,60 +1,175 @@
 offset: 0  # Optional page number adjustment
 contents:
-
   - title: "Contents"
     page_number: 1
     children: []
 
   - title: "Introduction"
     page_number: 2
-    children: 
+    children:
       - title: "Notation and conventions"
         page_number: 3
-      - title: "Acknoledgements"
+        children: []
+      - title: "Acknowledgements"
         page_number: 4
+        children: []
 
   - title: "Moduli problems"
     page_number: 4
-    children: 
-      - title: "Functors of points"
-        page_number: 4 
-        children: 
-          - title: "Remark 2.1."
-            page_number: 4 
-            children: []
-          - title: "Definition 2.2."
-            page_number: 4
-          - title: "Example 2.3."
-            page_number: 5
-            children: []
-      - title: "Moduli problem"
+    children:
+      - title: "2.1. Functors of points"
+        page_number: 4
+        children: []
+      - title: "2.2. Moduli problem"
         page_number: 6
+        children: []
+      - title: "2.3. Fine moduli spaces"
+        page_number: 7
+        children: []
+      - title: "2.4. Pathological behaviour"
+        page_number: 9
+        children: []
+      - title: "2.5. Coarse moduli spaces"
+        page_number: 10
+        children: []
+      - title: "2.6. The construction of moduli spaces"
+        page_number: 11
+        children: []
 
   - title: "Algebraic group actions and quotients"
     page_number: 11
-    children: 
-      - title: "Affine Algebraic groups"
+    children:
+      - title: "3.1. Affine Algebraic groups"
         page_number: 12
-  
-  - title: "Aﬃne Geometric Invariant Theory"
+        children: []
+      - title: "3.2. Group actions"
+        page_number: 14
+        children: []
+      - title: "3.3. Orbits and stabilisers"
+        page_number: 18
+        children: []
+      - title: "3.4. First notions of quotients"
+        page_number: 20
+        children: []
+      - title: "3.5. Second notions of quotient"
+        page_number: 20
+        children: []
+      - title: "3.6. Moduli spaces and quotients"
+        page_number: 23
+        children: []
+
+  - title: "Affine Geometric Invariant Theory"
     page_number: 23
-    children: []
+    children:
+      - title: "4.1. Hilbert’s 14th problem"
+        page_number: 24
+        children: []
+      - title: "4.2. Reductive groups"
+        page_number: 24
+        children: []
+      - title: "4.3. Nagata’s theorem"
+        page_number: 28
+        children: []
+      - title: "4.4. Reynolds operators"
+        page_number: 28
+        children: []
+      - title: "4.5. Construction of the affine GIT quotient"
+        page_number: 30
+        children: []
+      - title: "4.6. Geometric quotients on open subsets"
+        page_number: 32
+        children: []
 
   - title: "Projective GIT quotients"
     page_number: 34
-    children: []
+    children:
+      - title: "5.1. Construction of the projective GIT quotient"
+        page_number: 35
+        children: []
+      - title: "5.2. A description of the k-points of the GIT quotient"
+        page_number: 39
+        children: []
+      - title: "5.3. Linearisations"
+        page_number: 39
+        children: []
+      - title: "5.4. Projective GIT with respect to an ample linearisation"
+        page_number: 41
+        children: []
+      - title: "5.5. GIT for general varieties with linearisations"
+        page_number: 43
+        children: []
 
   - title: "Criteria for (semi)stability"
     page_number: 43
-    children: []
-  
+    children:
+      - title: "6.1. A topological criterion"
+        page_number: 44
+        children: []
+      - title: "6.2. The Hilbert–Mumford Criterion"
+        page_number: 44
+        children: []
+      - title: "6.3. The Hilbert–Mumford Criterion for ample linearisations"
+        page_number: 48
+        children: []
+      - title: "6.4. Proof of the Fundamental Theorem in GIT"
+        page_number: 48
+        children: []
+
   - title: "Moduli of projective hypersurfaces"
     page_number: 50
-    children: []
+    children:
+      - title: "7.1. The moduli problem"
+        page_number: 50
+        children: []
+      - title: "7.2. Singularities of hypersurfaces"
+        page_number: 51
+        children: []
+      - title: "7.3. The Hilbert–Mumford criterion for hypersurfaces"
+        page_number: 53
+        children: []
+      - title: "7.4. Binary forms of degree d"
+        page_number: 53
+        children: []
+      - title: "7.5. Plane cubics"
+        page_number: 55
+        children: []
 
   - title: "Moduli of vector bundles on a curve"
     page_number: 60
-    children: []
+    children:
+      - title: "Convention"
+        page_number: 60
+        children: []
+      - title: "8.1. An overview of sheaf cohomology"
+        page_number: 61
+        children: []
+      - title: "8.2. Line bundles and divisors on curves"
+        page_number: 62
+        children: []
+      - title: "8.3. Serre duality and the Riemann-Roch Theorem"
+        page_number: 63
+        children: []
+      - title: "8.4. Vector bundles and locally free sheaves"
+        page_number: 64
+        children: []
+      - title: "8.5. Semistability"
+        page_number: 66
+        children: []
+      - title: "8.6. Boundedness of semistable vector bundles"
+        page_number: 68
+        children: []
+      - title: "8.7. The Quot scheme"
+        page_number: 69
+        children: []
+      - title: "8.8. GIT set up for construction of the moduli space"
+        page_number: 74
+        children: []
+      - title: "8.9. Analysis of semistability"
+        page_number: 76
+        children: []
+      - title: "8.10. Construction of the moduli space"
+        page_number: 82
+        children: []
 
   - title: "References"
     page_number: 86

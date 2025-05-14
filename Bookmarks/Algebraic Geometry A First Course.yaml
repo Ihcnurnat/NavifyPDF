@@ -1,0 +1,753 @@
+offset: 17
+contents:
+  - title: "Front Matter"
+    page_number: -16
+    children: []
+  - title: "Preface"
+    page_number: -10
+    children: []
+
+  - title: "Acknowledgments"
+    page_number: -8
+    children: []
+
+  - title: "Using This Book"
+    page_number: -7
+    children: []
+
+  - title: "Contents"
+    page_number: -5
+    children: []
+
+  - title: "Part I: Examples of Varieties and Maps"
+    page_number: 3
+    children:
+      - title: "Lecture 1: Affine and Projective Varieties"
+        page_number: 3
+        children:
+          - title: "A Note About Our Field"
+            page_number: 3
+            children: []
+          - title: "Affine Space and Affine Varieties"
+            page_number: 3
+            children: []
+          - title: "Projective Space and Projective Varieties"
+            page_number: 3
+            children: []
+          - title: "Linear Spaces"
+            page_number: 5
+            children: []
+          - title: "Finite Sets"
+            page_number: 6
+            children: []
+          - title: "Hypersurfaces"
+            page_number: 8
+            children: []
+          - title: "Analytic Subvarieties and Submanifolds"
+            page_number: 8
+            children: []
+          - title: "The Twisted Cubic"
+            page_number: 9
+            children: []
+          - title: "Rational Normal Curves"
+            page_number: 10
+            children: []
+          - title: "Determinantal Representation of the Rational Normal Curve"
+            page_number: 11
+            children: []
+          - title: "Another Parametrization of the Rational Normal Curve"
+            page_number: 11
+            children: []
+          - title: "The Family of Plane Conics"
+            page_number: 12
+            children: []
+          - title: "A Synthetic Construction of the Rational Normal Curve"
+            page_number: 13
+            children: []
+          - title: "Other Rational Curves"
+            page_number: 14
+            children: []
+          - title: "Varieties Defined over Subfields of K"
+            page_number: 16
+            children: []
+          - title: "A Note on Dimension, Smoothness, and Degree"
+            page_number: 16
+            children: []
+
+      - title: "Lecture 2: Regular Functions and Maps"
+        page_number: 17
+        children:
+          - title: "The Zariski Topology"
+            page_number: 17
+            children: []
+          - title: "Regular Functions on an Affine Variety"
+            page_number: 18
+            children: []
+          - title: "Projective Varieties"
+            page_number: 20
+            children: []
+          - title: "Regular Maps"
+            page_number: 21
+            children: []
+          - title: "The Veronese Map"
+            page_number: 23
+            children: []
+          - title: "Determinantal Representation of Veronese Varieties"
+            page_number: 24
+            children: []
+          - title: "Subvarieties of Veronese Varieties"
+            page_number: 24
+            children: []
+          - title: "The Segre Maps"
+            page_number: 25
+            children: []
+          - title: "Subvarieties of Segre Varieties"
+            page_number: 27
+            children: []
+          - title: "Products of Varieties"
+            page_number: 28
+            children: []
+          - title: "Graphs"
+            page_number: 29
+            children: []
+          - title: "Fiber Products"
+            page_number: 30
+            children: []
+          - title: "Combinations of Veronese and Segre Maps"
+            page_number: 30
+            children: []
+
+      - title: "Lecture 3: Cones, Projections, and More About Products"
+        page_number: 32
+        children:
+          - title: "Cones"
+            page_number: 32
+            children: []
+          - title: "Quadrics"
+            page_number: 33
+            children: []
+          - title: "Projections"
+            page_number: 34
+            children: []
+          - title: "More Cones"
+            page_number: 37
+            children: []
+          - title: "More Projections"
+            page_number: 38
+            children: []
+          - title: "Constructible Sets"
+            page_number: 39
+            children: []
+
+      - title: "Lecture 4: Families and Parameter Spaces"
+        page_number: 41
+        children:
+          - title: "Families of Varieties"
+            page_number: 41
+            children: []
+          - title: "The Universal Hyperplane"
+            page_number: 42
+            children: []
+          - title: "The Universal Hyperplane Section"
+            page_number: 43
+            children: []
+          - title: "Parameter Spaces of Hypersurfaces"
+            page_number: 44
+            children: []
+          - title: "Universal Families of Hypersurfaces"
+            page_number: 45
+            children: []
+          - title: "A Family of Lines"
+            page_number: 47
+            children: []
+
+      - title: "Lecture 5: Ideals of Varieties, Irreducible Decomposition, and the Nullstellensatz"
+        page_number: 48
+        children:
+          - title: "Generating Ideals"
+            page_number: 48
+            children: []
+          - title: "Ideals of Projective Varieties"
+            page_number: 50
+            children: []
+          - title: "Irreducible Varieties and Irreducible Decomposition"
+            page_number: 51
+            children: []
+          - title: "General Objects"
+            page_number: 53
+            children: []
+          - title: "General Projections"
+            page_number: 54
+            children: []
+          - title: "General Twisted Cubics"
+            page_number: 55
+            children: []
+          - title: "Double Point Loci"
+            page_number: 56
+            children: []
+          - title: "A Little Algebra"
+            page_number: 57
+            children: []
+          - title: "Restatements and Corollaries"
+            page_number: 60
+            children: []
+
+      - title: "Lecture 6: Grassmannians and Related Varieties"
+        page_number: 63
+        children:
+          - title: "Grassmannians"
+            page_number: 63
+            children: []
+          - title: "Subvarieties of Grassmannians"
+            page_number: 66
+            children: []
+          - title: "The Grassmannian G(1, 3)"
+            page_number: 67
+            children: []
+          - title: "An Analog of the Veronese Map"
+            page_number: 68
+            children: []
+          - title: "Incidence Correspondences"
+            page_number: 68
+            children: []
+          - title: "Varieties of Incident Planes"
+            page_number: 69
+            children: []
+          - title: "The Join of Two Varieties"
+            page_number: 70
+            children: []
+          - title: "Fano Varieties"
+            page_number: 70
+            children: []
+
+      - title: "Lecture 7: Rational Functions and Rational Maps"
+        page_number: 72
+        children:
+          - title: "Rational Functions"
+            page_number: 72
+            children: []
+          - title: "Rational Maps"
+            page_number: 73
+            children: []
+          - title: "Graphs of Rational Maps"
+            page_number: 75
+            children: []
+          - title: "Birational Isomorphism"
+            page_number: 77
+            children: []
+          - title: "The Quadric Surface"
+            page_number: 78
+            children: []
+          - title: "Hypersurfaces"
+            page_number: 79
+            children: []
+          - title: "Degree of a Rational Map"
+            page_number: 79
+            children: []
+          - title: "Blow-Ups"
+            page_number: 80
+            children: []
+          - title: "Blowing Up Points"
+            page_number: 81
+            children: []
+          - title: "Blowing Up Subvarieties"
+            page_number: 82
+            children: []
+          - title: "The Quadric Surface Again"
+            page_number: 84
+            children: []
+          - title: "The Cubic Scroll in ℙ⁴"
+            page_number: 85
+            children: []
+          - title: "Unirationality"
+            page_number: 87
+            children: []
+
+      - title: "Lecture 8: More Examples"
+        page_number: 88
+        children:
+          - title: "The Join of Two Varieties"
+            page_number: 88
+            children: []
+          - title: "The Secant Plane Map"
+            page_number: 89
+            children: []
+          - title: "Secant Varieties"
+            page_number: 90
+            children: []
+          - title: "Trisecant Lines, etc."
+            page_number: 90
+            children: []
+          - title: "Joins of Corresponding Points"
+            page_number: 91
+            children: []
+          - title: "Rational Normal Scrolls"
+            page_number: 92
+            children: []
+          - title: "Higher-Dimensional Scrolls"
+            page_number: 93
+            children: []
+          - title: "More Incidence Correspondences"
+            page_number: 94
+            children: []
+          - title: "Flag Manifolds"
+            page_number: 95
+            children: []
+          - title: "More Joins and Intersections"
+            page_number: 95
+            children: []
+          - title: "Quadrics of Rank 4"
+            page_number: 96
+            children: []
+          - title: "Rational Normal Scrolls II"
+            page_number: 97
+            children: []
+
+      - title: "Lecture 9: Determinantal Varieties"
+        page_number: 98
+        children:
+          - title: "Generic Determinantal Varieties"
+            page_number: 98
+            children: []
+          - title: "Segre Varieties"
+            page_number: 98
+            children: []
+          - title: "Secant Varieties of Segre Varieties"
+            page_number: 99
+            children: []
+          - title: "Linear Determinantal Varieties in General"
+            page_number: 99
+            children: []
+          - title: "Rational Normal Curves"
+            page_number: 100
+            children: []
+          - title: "Secant Varieties to Rational Normal Curves"
+            page_number: 103
+            children: []
+          - title: "Rational Normal Scrolls III"
+            page_number: 105
+            children: []
+          - title: "Rational Normal Scrolls IV"
+            page_number: 109
+            children: []
+          - title: "More General Determinantal Varieties"
+            page_number: 111
+            children: []
+          - title: "Symmetric and Skew-Symmetric Determinantal Varieties"
+            page_number: 112
+            children: []
+          - title: "Fano Varieties of Determinantal Varieties"
+            page_number: 112
+            children: []
+
+      - title: "Lecture 10: Algebraic Groups"
+        page_number: 114
+        children:
+          - title: "The General Linear Group GLₙK"
+            page_number: 114
+            children: []
+          - title: "The Orthogonal Group SOₙK"
+            page_number: 115
+            children: []
+          - title: "The Symplectic Group Sp₂ₙK"
+            page_number: 116
+            children: []
+          - title: "Group Actions"
+            page_number: 116
+            children: []
+          - title: "PGLₙ₊₁K acts on ℙⁿ"
+            page_number: 116
+            children: []
+          - title: "PGL₂K Acts on ℙ²"
+            page_number: 117
+            children: []
+          - title: "PGL₂K Acts on ℙ³"
+            page_number: 118
+            children: []
+          - title: "PGL₂K Acts on ℙⁿ"
+            page_number: 119
+            children: []
+          - title: "PGL₃K Acts on ℙ⁵"
+            page_number: 120
+            children: []
+          - title: "PGL₃K Acts on ℙ⁹"
+            page_number: 121
+            children: []
+          - title: "POₙK Acts on ℙⁿ⁻¹ (automorphisms of the Grassmannian)"
+            page_number: 122
+            children: []
+          - title: "PGLₙK Acts on ℙ(∧ⁿKⁿ)"
+            page_number: 122
+            children: []
+          - title: "Quotients"
+            page_number: 122
+            children: []
+          - title: "Quotients of Affine Varieties by Finite Groups"
+            page_number: 123
+            children: []
+          - title: "Quotients of Affine Space"
+            page_number: 124
+            children: []
+          - title: "Symmetric Products"
+            page_number: 125
+            children: []
+          - title: "Quotients of Projective Varieties by Finite Groups"
+            page_number: 126
+            children: []
+          - title: "Weighted Projective Spaces"
+            page_number: 127
+            children: []
+
+  - title: "Part II: Attributes of Varieties"
+    page_number: 133
+    children:
+      - title: "Lecture 11: Definitions of Dimension and Elementary Examples"
+        page_number: 133
+        children:
+          - title: "Hypersurfaces"
+            page_number: 136
+            children: []
+          - title: "Complete Intersections"
+            page_number: 136
+            children: []
+          - title: "Immediate Examples"
+            page_number: 138
+            children: []
+          - title: "The Universal k-Plane"
+            page_number: 142
+            children: []
+          - title: "Varieties of Incident Planes"
+            page_number: 142
+            children: []
+          - title: "Secant Varieties"
+            page_number: 143
+            children: []
+          - title: "Secant Varieties in General"
+            page_number: 146
+            children: []
+          - title: "Joins of Varieties"
+            page_number: 148
+            children: []
+          - title: "Flag Manifolds"
+            page_number: 148
+            children: []
+          - title: "(Some) Schubert Varieties"
+            page_number: 149
+            children: []
+
+      - title: "Lecture 12: More Dimension Computations"
+        page_number: 151
+        children:
+          - title: "Determinantal Varieties"
+            page_number: 151
+            children: []
+          - title: "Fano Varieties"
+            page_number: 152
+            children: []
+          - title: "Parameter Spaces of Twisted Cubics"
+            page_number: 155
+            children: []
+          - title: "Twisted Cubics"
+            page_number: 155
+            children: []
+          - title: "Twisted Cubics on a General Surface"
+            page_number: 156
+            children: []
+          - title: "Complete Intersections"
+            page_number: 157
+            children: []
+          - title: "Curves of Type (a, b) on a Quadric"
+            page_number: 158
+            children: []
+          - title: "Determinantal Varieties"
+            page_number: 159
+            children: []
+          - title: "Group Actions"
+            page_number: 161
+            children: []
+          - title: "GL(V) Acts on SymᵈV and ∧ᵈV"
+            page_number: 161
+            children: []
+          - title: "PGLₙ₊₁K Acts on (ℙⁿ)ᵈ and G(k, n)ᵈ"
+            page_number: 161
+            children: []
+
+      - title: "Lecture 13: Hilbert Polynomials"
+        page_number: 163
+        children:
+          - title: "Hilbert Functions and Polynomials"
+            page_number: 163
+            children: []
+          - title: "Hilbert Function of the Rational Normal Curve"
+            page_number: 166
+            children: []
+          - title: "Hilbert Function of the Veronese Variety"
+            page_number: 166
+            children: []
+          - title: "Hilbert Polynomials of Curves"
+            page_number: 166
+            children: []
+          - title: "Syzygies"
+            page_number: 168
+            children: []
+          - title: "Three Points in ℙ²"
+            page_number: 170
+            children: []
+          - title: "Four Points in ℙ²"
+            page_number: 171
+            children: []
+          - title: "Complete Intersections: Koszul Complexes"
+            page_number: 172
+            children: []
+
+      - title: "Lecture 14: Smoothness and Tangent Spaces"
+        page_number: 174
+        children:
+          - title: "The Zariski Tangent Space to a Variety"
+            page_number: 174
+            children: []
+          - title: "A Local Criterion for Isomorphism"
+            page_number: 177
+            children: []
+          - title: "Projective Tangent Spaces"
+            page_number: 181
+            children: []
+          - title: "Determinantal Varieties"
+            page_number: 184
+            children: []
+
+      - title: "Lecture 15: Gauss Maps, Tangential and Dual Varieties"
+        page_number: 186
+        children:
+          - title: "A Note About Characteristic"
+            page_number: 186
+            children: []
+          - title: "Gauss Maps"
+            page_number: 188
+            children: []
+          - title: "Tangential Varieties"
+            page_number: 189
+            children: []
+          - title: "The Variety of Tangent Lines"
+            page_number: 190
+            children: []
+          - title: "Joins of Intersecting Varieties"
+            page_number: 193
+            children: []
+          - title: "The Locus of Bitangent Lines"
+            page_number: 195
+            children: []
+          - title: "Dual Varieties"
+            page_number: 196
+            children: []
+
+      - title: "Lecture 16: Tangent Spaces to Grassmannians"
+        page_number: 200
+        children:
+          - title: "Tangent Spaces to Grassmannians"
+            page_number: 200
+            children: []
+          - title: "Tangent Spaces to Incidence Correspondences"
+            page_number: 202
+            children: []
+          - title: "Varieties of Incident Planes"
+            page_number: 203
+            children: []
+          - title: "The Variety of Secant Lines"
+            page_number: 204
+            children: []
+          - title: "Varieties Swept out by Linear Spaces"
+            page_number: 204
+            children: []
+          - title: "The Resolution of the Generic Determinantal Variety"
+            page_number: 206
+            children: []
+          - title: "Tangent Spaces to Dual Varieties"
+            page_number: 208
+            children: []
+          - title: "Tangent Spaces to Fano Varieties"
+            page_number: 209
+            children: []
+
+      - title: "Lecture 17: Further Topics Involving Smoothness and Tangent Spaces"
+        page_number: 211
+        children:
+          - title: "Gauss Maps on Curves"
+            page_number: 211
+            children: []
+          - title: "Osculating Planes and Associated Maps"
+            page_number: 213
+            children: []
+          - title: "The Second Fundamental Form"
+            page_number: 214
+            children: []
+          - title: "The Locus of Tangent Lines to a Variety"
+            page_number: 215
+            children: []
+          - title: "Bertini's Theorem"
+            page_number: 216
+            children: []
+          - title: "Blow-ups, Nash Blow-ups, and the Resolution of Singularities"
+            page_number: 219
+            children: []
+          - title: "Subadditivity of Codimensions of Intersections"
+            page_number: 222
+            children: []
+
+      - title: "Lecture 18: Degree"
+        page_number: 224
+        children:
+          - title: "Bezout's Theorem"
+            page_number: 227
+            children: []
+          - title: "The Rational Normal Curves"
+            page_number: 229
+            children: []
+          - title: "More Examples of Degrees"
+            page_number: 231
+            children: []
+          - title: "Veronese Varieties"
+            page_number: 231
+            children: []
+          - title: "Segre Varieties"
+            page_number: 233
+            children: []
+          - title: "Degrees of Cones and Projections"
+            page_number: 234
+            children: []
+          - title: "Joins of Varieties"
+            page_number: 235
+            children: []
+          - title: "Unirationality of Cubic Hypersurfaces"
+            page_number: 237
+            children: []
+
+      - title: "Lecture 19: Further Examples and Applications of Degree"
+        page_number: 239
+        children:
+          - title: "Multidegree of a Subvariety of a Product"
+            page_number: 239
+            children: []
+          - title: "Projective Degree of a Map"
+            page_number: 240
+            children: []
+          - title: "Joins of Corresponding Points"
+            page_number: 241
+            children: []
+          - title: "Varieties of Minimal Degree"
+            page_number: 242
+            children: []
+          - title: "Degrees of Determinantal Varieties"
+            page_number: 243
+            children: []
+          - title: "Degrees of Varieties Swept out by Linear Spaces"
+            page_number: 244
+            children: []
+          - title: "Degrees of Some Grassmannians"
+            page_number: 245
+            children: []
+          - title: "Harnack's Theorem"
+            page_number: 247
+            children: []
+
+      - title: "Lecture 20: Singular Points and Tangent Cones"
+        page_number: 251
+        children:
+          - title: "Tangent Cones"
+            page_number: 251
+            children: []
+          - title: "Tangent Cones to Determinantal Varieties"
+            page_number: 256
+            children: []
+          - title: "Multiplicity"
+            page_number: 258
+            children: []
+          - title: "Examples of Singularities"
+            page_number: 260
+            children: []
+          - title: "Resolution of Singularities for Curves"
+            page_number: 264
+            children: []
+
+      - title: "Lecture 21: Parameter Spaces and Moduli Spaces"
+        page_number: 266
+        children:
+          - title: "Parameter Spaces"
+            page_number: 266
+            children: []
+          - title: "Chow Varieties"
+            page_number: 268
+            children: []
+          - title: "Hilbert Varieties"
+            page_number: 273
+            children: []
+          - title: "Curves of Degree 2"
+            page_number: 275
+            children: []
+          - title: "Moduli Spaces"
+            page_number: 278
+            children: []
+          - title: "Plane Cubics"
+            page_number: 279
+            children: []
+
+      - title: "Lecture 22: Quadrics"
+        page_number: 282
+        children:
+          - title: "Generalities about Quadrics"
+            page_number: 282
+            children: []
+          - title: "Tangent Spaces to Quadrics"
+            page_number: 283
+            children: []
+          - title: "Plane Conics"
+            page_number: 284
+            children: []
+          - title: "Quadric Surfaces"
+            page_number: 285
+            children: []
+          - title: "Quadrics in ℙⁿ"
+            page_number: 287
+            children: []
+          - title: "Linear Spaces on Quadrics"
+            page_number: 289
+            children: []
+          - title: "Lines on Quadrics"
+            page_number: 290
+            children: []
+          - title: "Planes on Four-Dimensional Quadrics"
+            page_number: 291
+            children: []
+          - title: "Fano Varieties of Quadrics in General"
+            page_number: 293
+            children: []
+          - title: "Families of Quadrics"
+            page_number: 295
+            children: []
+          - title: "The Variety of Quadrics in ℙ¹"
+            page_number: 295
+            children: []
+          - title: "The Variety of Quadrics in ℙ²"
+            page_number: 296
+            children: []
+          - title: "Complete Conics"
+            page_number: 297
+            children: []
+          - title: "Quadrics in ℙⁿ"
+            page_number: 299
+            children: []
+          - title: "Pencils of Quadrics"
+            page_number: 301
+            children: []
+
+  - title: "Hints for Selected Exercises"
+    page_number: 308
+    children: []
+
+  - title: "References"
+    page_number: 314
+    children: []
+
+  - title: "Index"
+    page_number: 317
+    children: []

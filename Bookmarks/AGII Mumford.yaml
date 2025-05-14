@@ -1,0 +1,248 @@
+offset: 7
+contents:
+  - title: "Foreword"
+    page_number: -4
+    children: []
+  
+  - title: "Contents"
+    page_number: -2
+    children: []
+
+  - title: "Chapter I. Schemes and sheaves: definitions"
+    page_number: 1
+    children:
+      - title: "1. Spec(R)"
+        page_number: 1
+        children: []
+      - title: "2. M"
+        page_number: 6
+        children: []
+      - title: "3. Schemes"
+        page_number: 9
+        children: []
+      - title: "4. Products"
+        page_number: 15
+        children: []
+      - title: "5. Quasi-coherent sheaves"
+        page_number: 20
+        children: []
+      - title: "6. The functor of points"
+        page_number: 26
+        children: []
+      - title: "7. Relativization"
+        page_number: 30
+        children: []
+      - title: "8. Defining schemes as functors"
+        page_number: 32
+        children: []
+      - title: "Appendix: Theory of sheaves"
+        page_number: 37
+        children: []
+      - title: "Exercise"
+        page_number: 42
+        children: []
+
+  - title: "Chapter II. Exploring the world of schemes"
+    page_number: 45
+    children:
+      - title: "1. Classical varieties as schemes"
+        page_number: 45
+        children: []
+      - title: "2. The properties: reduced, irreducible and finite type"
+        page_number: 49
+        children: []
+      - title: "3. Closed subschemes and primary decompositions"
+        page_number: 56
+        children: []
+      - title: "4. Separated schemes"
+        page_number: 64
+        children: []
+      - title: "5. Proj R"
+        page_number: 68
+        children: []
+      - title: "6. Proper morphisms"
+        page_number: 75
+        children: []
+      - title: "Exercise"
+        page_number: 81
+        children: []
+
+  - title: "Chapter III. Elementary global study of Proj R"
+    page_number: 83
+    children:
+      - title: "1. Invertible sheaves and twists"
+        page_number: 83
+        children: []
+      - title: "2. The functor of Proj R"
+        page_number: 88
+        children: []
+      - title: "3. Blow ups"
+        page_number: 93
+        children: []
+      - title: "4. Quasi-coherent sheaves on Proj R"
+        page_number: 96
+        children: []
+      - title: "5. Ample invertible sheaves"
+        page_number: 102
+        children: []
+      - title: "6. Invertible sheaves via cocycles, divisors, line bundles"
+        page_number: 108
+        children: []
+      - title: "Exercise"
+        page_number: 112
+        children: []
+
+  - title: "Chapter IV. Ground fields and base rings"
+    page_number: 119
+    children:
+      - title: "1. Kronecker's big picture"
+        page_number: 119
+        children: []
+      - title: "2. Galois theory and schemes"
+        page_number: 124
+        children: []
+      - title: "3. The Frobenius morphism"
+        page_number: 135
+        children: []
+      - title: "4. Flatness and specialization"
+        page_number: 138
+        children: []
+      - title: "5. Dimension of fibres of a morphism"
+        page_number: 145
+        children: []
+      - title: "6. Hensel's lemma"
+        page_number: 152
+        children: []
+      - title: "Exercise—Addition needed"
+        page_number: 156
+        children: []
+
+  - title: "Chapter V. Singular vs. non-singular"
+    page_number: 157
+    children:
+      - title: "1. Regularity"
+        page_number: 157
+        children: []
+      - title: "2. Kähler differential"
+        page_number: 160
+        children: []
+      - title: "3. Smooth morphisms"
+        page_number: 167
+        children: []
+      - title: "4. Criteria for smoothness"
+        page_number: 176
+        children: []
+      - title: "5. Normality"
+        page_number: 184
+        children: []
+      - title: "6. Zariski's Main Theorem"
+        page_number: 189
+        children: []
+      - title: "7. Multiplicities following Weil"
+        page_number: 197
+        children: []
+      - title: "Exercise—Modifications needed"
+        page_number: 199
+        children: []
+
+  - title: "Chapter VI. Group schemes and applications"
+    page_number: 205
+    children:
+      - title: "1. Group schemes"
+        page_number: 205
+        children: []
+      - title: "2. Lang's theorems over finite fields"
+        page_number: 219
+        children: []
+      - title: "Exercise—Addition needed"
+        page_number: 223
+        children: []
+
+  - title: "Chapter VII. The cohomology of coherent sheaves"
+    page_number: 225
+    children:
+      - title: "1. Basic Čech cohomology"
+        page_number: 225
+        children: []
+      - title: "2. The case of schemes: Serre's theorem"
+        page_number: 234
+        children: []
+      - title: "3. Higher direct images and Leray's spectral sequence"
+        page_number: 241
+        children: []
+      - title: "4. Computing cohomology (1): Push F into a huge acyclic sheaf"
+        page_number: 248
+        children: []
+      - title: "5. Computing cohomology (2): Directly via the Čech complex"
+        page_number: 250
+        children: []
+      - title: "6. Computing cohomology (3): Generate F by 'known' sheaves"
+        page_number: 254
+        children: []
+      - title: "7. Computing cohomology (4): Push F into a coherent acyclic one"
+        page_number: 257
+        children: []
+      - title: "8. Serre's criterion for ampleness"
+        page_number: 263
+        children: []
+      - title: "9. Functorial properties of ampleness"
+        page_number: 265
+        children: []
+      - title: "10. The Euler characteristic"
+        page_number: 268
+        children: []
+      - title: "11. Intersection numbers"
+        page_number: 270
+        children: []
+      - title: "12. The criterion of Nakai-Moishezon"
+        page_number: 273
+        children: []
+      - title: "Exercise—Modifications needed"
+        page_number: 276
+        children: []
+
+  - title: "Chapter VIII. Applications of cohomology"
+    page_number: 279
+    children:
+      - title: "1. The Riemann-Roch theorem"
+        page_number: 279
+        children: []
+      - title: "Appendix: Residues of differentials on curves by John Tate"
+        page_number: 288
+        children: []
+      - title: "2. Comparison of algebraic with analytic cohomology"
+        page_number: 298
+        children: []
+      - title: "3. De Rham cohomology"
+        page_number: 316
+        children: []
+      - title: "4. Characteristic p phenomena"
+        page_number: 320
+        children: []
+      - title: "5. Deformation theory"
+        page_number: 327
+        children: []
+      - title: "Exercise"
+        page_number: 344
+        children: []
+
+  - title: "Chapter IX. Applications"
+    page_number: 345
+    children:
+      - title: "1. Mori's existence theorem of rational curves"
+        page_number: 345
+        children: []
+      - title: "2. Belyi's three point theorem"
+        page_number: 362
+        children: []
+
+  - title: "Bibliography"
+    page_number: 369
+    children: []
+
+  - title: "Index"
+    page_number: 375
+    children: []
+  - title: "Index"
+    page_number: 377
+    children: []
