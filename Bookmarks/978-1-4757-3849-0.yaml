@@ -1,0 +1,245 @@
+offset: 15
+contents:
+  - title: "Algebraic Geometry"
+    page_number: -14
+    children: []
+  - title: "Contents"
+    page_number: -6
+    children: []
+
+  - title: "CHAPTER I"
+    page_number: 1
+    children:
+      - title: "Varieties"
+        page_number: 1
+        children:
+          - title: "Affine Varieties"
+            page_number: 1
+            children: []
+          - title: "Projective Varieties"
+            page_number: 8
+            children: []
+          - title: "Morphisms"
+            page_number: 14
+            children: []
+          - title: "Rational Maps"
+            page_number: 24
+            children: []
+          - title: "Nonsingular Varieties"
+            page_number: 31
+            children: []
+          - title: "Nonsingular Curves"
+            page_number: 39
+            children: []
+          - title: "Intersections in Projective Space"
+            page_number: 47
+            children: []
+          - title: "What Is Algebraic Geometry?"
+            page_number: 55
+            children: []
+
+  - title: "CHAPTER II"
+    page_number: 60
+    children:
+      - title: "Schemes"
+        page_number: 60
+        children:
+          - title: "Sheaves"
+            page_number: 60
+            children: []
+          - title: "Schemes"
+            page_number: 69
+            children: []
+          - title: "First Properties of Schemes"
+            page_number: 82
+            children: []
+          - title: "Separated and Proper Morphisms"
+            page_number: 95
+            children: []
+          - title: "Sheaves of Modules"
+            page_number: 108
+            children: []
+          - title: "Divisors"
+            page_number: 129
+            children: []
+          - title: "Projective Morphisms"
+            page_number: 149
+            children: []
+          - title: "Differentials"
+            page_number: 172
+            children: []
+          - title: "Formal Schemes"
+            page_number: 190
+            children: []
+
+  - title: "CHAPTER III"
+    page_number: 201
+    children:
+      - title: "Cohomology"
+        page_number: 201
+        children:
+          - title: "Derived Functors"
+            page_number: 202
+            children: []
+          - title: "Cohomology of Sheaves"
+            page_number: 206
+            children: []
+          - title: "Cohomology of a Noetherian Affine Scheme"
+            page_number: 213
+            children: []
+          - title: "Cech Cohomology"
+            page_number: 218
+            children: []
+          - title: "The Cohomology of Projective Space"
+            page_number: 225
+            children: []
+          - title: "Ext Groups and Sheaves"
+            page_number: 233
+            children: []
+          - title: "The Serre Duality Theorem"
+            page_number: 239
+            children: []
+          - title: "Higher Direct Images of Sheaves"
+            page_number: 250
+            children: []
+          - title: "Flat Morphisms"
+            page_number: 253
+            children: []
+          - title: "Smooth Morphisms"
+            page_number: 268
+            children: []
+          - title: "The Theorem on Formal Functions"
+            page_number: 276
+            children: []
+          - title: "The Semicontinuity Theorem"
+            page_number: 281
+            children: []
+
+  - title: "CHAPTER IV"
+    page_number: 293
+    children:
+      - title: "Curves"
+        page_number: 293
+        children:
+          - title: "Riemann-Roch Theorem"
+            page_number: 294
+            children: []
+          - title: "Hurwitz's Theorem"
+            page_number: 299
+            children: []
+          - title: "Embeddings in Projective Space"
+            page_number: 307
+            children: []
+          - title: "Elliptic Curves"
+            page_number: 316
+            children: []
+          - title: "The Canonical Embedding"
+            page_number: 340
+            children: []
+          - title: "Classification of Curves in P^n"
+            page_number: 349
+            children: []
+
+  - title: "CHAPTER V"
+    page_number: 356
+    children:
+      - title: "Surfaces"
+        page_number: 356
+        children:
+          - title: "Geometry on a Surface"
+            page_number: 357
+            children: []
+          - title: "Ruled Surfaces"
+            page_number: 369
+            children: []
+          - title: "Monoidal Transformations"
+            page_number: 386
+            children: []
+          - title: "The Cubic Surface in P^3"
+            page_number: 395
+            children: []
+          - title: "Birational Transformations"
+            page_number: 409
+            children: []
+          - title: "Classification of Surfaces"
+            page_number: 421
+            children: []
+
+  - title: "APPENDIX A"
+    page_number: 424
+    children:
+      - title: "Intersection Theory"
+        page_number: 424
+        children:
+          - title: "Intersection Theory"
+            page_number: 425
+            children: []
+          - title: "Properties of the Chow Ring"
+            page_number: 428
+            children: []
+          - title: "Chern Classes"
+            page_number: 429
+            children: []
+          - title: "The Riemann-Roch Theorem"
+            page_number: 431
+            children: []
+          - title: "Complements and Generalizations"
+            page_number: 434
+            children: []
+
+  - title: "APPENDIX B"
+    page_number: 438
+    children:
+      - title: "Transcendental Methods"
+        page_number: 438
+        children:
+          - title: "The Associated Complex Analytic Space"
+            page_number: 438
+            children: []
+          - title: "Comparison of the Algebraic and Analytic Categories"
+            page_number: 440
+            children: []
+          - title: "When is a Compact Complex Manifold Algebraic?"
+            page_number: 441
+            children: []
+          - title: "Kahler Manifolds"
+            page_number: 445
+            children: []
+          - title: "The Exponential Sequence"
+            page_number: 446
+            children: []
+
+  - title: "APPENDIX C"
+    page_number: 449
+    children:
+      - title: "The Weil Conjectures"
+        page_number: 449
+        children:
+          - title: "The Zeta Function and the Weil Conjectures"
+            page_number: 449
+            children: []
+          - title: "History of Work on the Weil Conjectures"
+            page_number: 451
+            children: []
+          - title: "The l-adic Cohomology"
+            page_number: 453
+            children: []
+          - title: "Cohomological Interpretation of the Weil Conjectures"
+            page_number: 454
+            children: []
+
+  - title: "Bibliography"
+    page_number: 459
+    children: []
+
+  - title: "Results from Algebra"
+    page_number: 470
+    children: []
+
+  - title: "Glossary of Notations"
+    page_number: 472
+    children: []
+
+  - title: "Index"
+    page_number: 478
+    children: []
