@@ -1,0 +1,232 @@
+offset: 12  # Optional page number adjustment
+contents:
+  - title: "Front Matter"
+    page_number: -11
+    children: []
+  - title: "Contents"
+    page_number: -7
+    children: []
+
+  - title: "Introduction"
+    page_number: -3
+    children: []
+
+  - title: "1 From Complex Analysis to Riemann Surfaces"
+    page_number: 1
+    children:
+      - title: "1.1 Differentiability"
+        page_number: 2
+        children: []
+      - title: "1.2 Integration"
+        page_number: 4
+        children: []
+      - title: "1.3 Cauchy's Integral Formula and Consequences"
+        page_number: 7
+        children: []
+      - title: "1.4 Inverse Functions"
+        page_number: 9
+        children: []
+
+  - title: "2 Introduction to Manifolds"
+    page_number: 14
+    children:
+      - title: "2.1 General Definition of a Manifold"
+        page_number: 15
+        children: []
+      - title: "2.2 Basic Examples"
+        page_number: 17
+        children: []
+      - title: "2.3 Projective Spaces"
+        page_number: 19
+        children: []
+      - title: "2.4 Compact Surfaces"
+        page_number: 23
+        children: []
+      - title: "2.5 Manifolds as Level Sets"
+        page_number: 28
+        children: []
+
+  - title: "3 Riemann Surfaces"
+    page_number: 32
+    children:
+      - title: "3.1 Examples of Riemann Surfaces"
+        page_number: 33
+        children: []
+      - title: "3.2 Compact Riemann Surfaces"
+        page_number: 37
+        children: []
+
+  - title: "4 Maps of Riemann Surfaces"
+    page_number: 47
+    children:
+      - title: "4.1 Holomorphic Maps of Riemann Surfaces"
+        page_number: 47
+        children: []
+      - title: "4.2 Local Structure of Maps"
+        page_number: 50
+        children: []
+      - title: "4.3 Maps of Compact Riemann Surfaces"
+        page_number: 54
+        children: []
+      - title: "4.4 The Riemann-Hurwitz Formula"
+        page_number: 56
+        children: []
+      - title: "4.5 Examples of Maps of Compact Riemann Surfaces"
+        page_number: 59
+        children: []
+
+  - title: "5 Loops and Lifts"
+    page_number: 63
+    children:
+      - title: "5.1 Homotopy"
+        page_number: 64
+        children: []
+      - title: "5.2 The Fundamental Group"
+        page_number: 67
+        children: []
+      - title: "5.3 Covering Spaces"
+        page_number: 75
+        children: []
+
+  - title: "6 Counting Maps"
+    page_number: 80
+    children:
+      - title: "6.1 Hurwitz Numbers"
+        page_number: 81
+        children: []
+      - title: "6.2 Riemann's Existence Theorem"
+        page_number: 84
+        children: []
+      - title: "6.3 Hyperelliptic Covers"
+        page_number: 86
+        children: []
+
+  - title: "7 Counting Monodromy Representations"
+    page_number: 90
+    children:
+      - title: "7.1 From Maps to Monodromy"
+        page_number: 91
+        children: []
+      - title: "7.2 From Monodromy to Maps"
+        page_number: 96
+        children: []
+      - title: "7.3 Monodromy Representations and Hurwitz Numbers"
+        page_number: 100
+        children: []
+      - title: "7.4 Examples and Computations"
+        page_number: 102
+        children: []
+      - title: "7.5 Degeneration Formulas"
+        page_number: 106
+        children: []
+
+  - title: "8 Representation Theory of Sd"
+    page_number: 111
+    children:
+      - title: "8.1 The Group Ring and the Group Algebra"
+        page_number: 111
+        children: []
+      - title: "8.2 Representations"
+        page_number: 113
+        children: []
+      - title: "8.3 Characters"
+        page_number: 116
+        children: []
+      - title: "8.4 The Class Algebra"
+        page_number: 118
+        children: []
+
+  - title: "9 Hurwitz Numbers and Z(Sd)"
+    page_number: 120
+    children:
+      - title: "9.1 Genus 0"
+        page_number: 120
+        children: []
+      - title: "9.2 Genus and Commutators"
+        page_number: 122
+        children: []
+      - title: "9.3 Burnside Formula"
+        page_number: 124
+        children: []
+
+  - title: "10 The Hurwitz Potential"
+    page_number: 128
+    children:
+      - title: "10.1 Generating Functions"
+        page_number: 128
+        children: []
+      - title: "10.2 Connected Hurwitz Numbers"
+        page_number: 133
+        children: []
+      - title: "10.3 Cut-and-Join"
+        page_number: 137
+        children: []
+
+  - title: "Appendix A Hurwitz Theory in Positive Characteristic"
+    page_number: 143
+    children:
+      - title: "A.1 Introduction"
+        page_number: 143
+        children: []
+      - title: "A.2 Algebraic Curves in Positive Characteristic"
+        page_number: 144
+        children: []
+      - title: "A.3 Smooth Algebraic Curves"
+        page_number: 145
+        children: []
+      - title: "A.4 The Genus and the Riemann-Hurwitz Formula"
+        page_number: 146
+        children: []
+      - title: "A.5 The Affine Line Is Not Simply Connected Over k"
+        page_number: 149
+        children: []
+
+  - title: "Appendix B Tropical Hurwitz Numbers"
+    page_number: 151
+    children:
+      - title: "B.1 Tropical Geometry: Where Does It Come From?"
+        page_number: 151
+        children: []
+      - title: "B.2 Axiomatic Tropical Geometry"
+        page_number: 152
+        children: []
+      - title: "B.3 Tropical Covers"
+        page_number: 153
+        children: []
+      - title: "B.4 Tropical Covers as Shadows - Movies of Monodromy Representations"
+        page_number: 156
+        children: []
+      - title: "B.5 Bending and Breaking"
+        page_number: 157
+        children: []
+
+  - title: "Appendix C Hurwitz Spaces"
+    page_number: 161
+    children:
+      - title: "C.1 Moduli Spaces"
+        page_number: 161
+        children: []
+      - title: "C.2 Hurwitz Spaces"
+        page_number: 163
+        children: []
+      - title: "C.3 Applications of Hurwitz Spaces"
+        page_number: 164
+        children: []
+
+  - title: "Appendix D Does Physics Have Anything to Say About Hurwitz Numbers?"
+    page_number: 169
+    children:
+      - title: "D.1 Physical Mathematics"
+        page_number: 169
+        children: []
+      - title: "D.2 Hurwitz Numbers and String Theory"
+        page_number: 171
+        children: []
+
+  - title: "Bibliography"
+    page_number: 179
+    children: []
+
+  - title: "Index"
+    page_number: 181
+    children: []
