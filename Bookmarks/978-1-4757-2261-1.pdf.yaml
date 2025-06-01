@@ -1,0 +1,654 @@
+offset: 17
+contents:
+  - title: "Front Matter"
+    page_number: -16
+    children: []
+
+  - title: "Contents"
+    page_number: -6
+    children: []
+
+  - title: "Chapter 1: Preliminaries on Homotopy Theory"
+    page_number: 1
+    children:
+      - title: "1. Category Theory and Homotopy Theory"
+        page_number: 1
+        children: []
+      - title: "2. Complexes"
+        page_number: 2
+        children: []
+      - title: "3. The Spaces Map (X, Y) and Map0 (X, Y)"
+        page_number: 4
+        children: []
+      - title: "4. Homotopy Groups of Spaces"
+        page_number: 6
+        children: []
+      - title: "5. Fibre Maps"
+        page_number: 7
+        children: []
+
+  - title: "PART I: THE GENERAL THEORY OF FIBRE BUNDLES"
+    page_number: 9
+    children: []
+
+  - title: "Chapter 2: Generalities on Bundles"
+    page_number: 11
+    children:
+      - title: "1. Definition of Bundles and Cross Sections"
+        page_number: 11
+        children: []
+      - title: "2. Examples of Bundles and Cross Sections"
+        page_number: 12
+        children: []
+      - title: "3. Morphisms of Bundles"
+        page_number: 14
+        children: []
+      - title: "4. Products and Fibre Products"
+        page_number: 15
+        children: []
+      - title: "5. Restrictions of Bundles and Induced Bundles"
+        page_number: 17
+        children: []
+      - title: "6. Local Properties of Bundles"
+        page_number: 20
+        children: []
+      - title: "7. Prolongation of Cross Sections"
+        page_number: 21
+        children: []
+
+  - title: "Chapter 3: Vector Bundles"
+    page_number: 24
+    children:
+      - title: "1. Definition and Examples of Vector Bundles"
+        page_number: 24
+        children: []
+      - title: "2. Morphisms of Vector Bundles"
+        page_number: 26
+        children: []
+      - title: "3. Induced Vector Bundles"
+        page_number: 27
+        children: []
+      - title: "4. Homotopy Properties of Vector Bundles"
+        page_number: 28
+        children: []
+      - title: "5. Construction of Gauss Maps"
+        page_number: 31
+        children: []
+      - title: "6. Homotopies of Gauss Maps"
+        page_number: 33
+        children: []
+      - title: "7. Functorial Description of the Homotopy Classification of Vector Bundles"
+        page_number: 34
+        children: []
+      - title: "8. Kernel, Image, and Cokernel of Morphisms with Constant Rank"
+        page_number: 35
+        children: []
+      - title: "9. Riemannian and Hermitian Metrics on Vector Bundles"
+        page_number: 37
+        children: []
+
+  - title: "Chapter 4: General Fibre Bundles"
+    page_number: 40
+    children:
+      - title: "1. Bundles Defined by Transformation Groups"
+        page_number: 40
+        children: []
+      - title: "2. Definition and Examples of Principal Bundles"
+        page_number: 42
+        children: []
+      - title: "3. Categories of Principal Bundles"
+        page_number: 43
+        children: []
+      - title: "4. Induced Bundles of Principal Bundles"
+        page_number: 44
+        children: []
+      - title: "5. Definition of Fibre Bundles"
+        page_number: 45
+        children: []
+      - title: "6. Functorial Properties of Fibre Bundles"
+        page_number: 46
+        children: []
+      - title: "7. Trivial and Locally Trivial Fibre Bundles"
+        page_number: 47
+        children: []
+      - title: "8. Description of Cross Sections of a Fibre Bundle"
+        page_number: 48
+        children: []
+      - title: "9. Numerable Principal Bundles over B x [0, 1]"
+        page_number: 49
+        children: []
+      - title: "10. The Cofunctor ka"
+        page_number: 52
+        children: []
+      - title: "11. The Milnor Construction"
+        page_number: 54
+        children: []
+      - title: "12. Homotopy Classification of Numerable Principal G-Bundles"
+        page_number: 56
+        children: []
+      - title: "13. Homotopy Classification of Principal G-Bundles over CW-Complexes"
+        page_number: 58
+        children: []
+
+  - title: "Chapter 5: Local Coordinate Description of Fibre Bundles"
+    page_number: 61
+    children:
+      - title: "1. Automorphisms of Trivial Fibre Bundles"
+        page_number: 61
+        children: []
+      - title: "2. Charts and Transition Functions"
+        page_number: 62
+        children: []
+      - title: "3. Construction of Bundles with Given Transition Functions"
+        page_number: 64
+        children: []
+      - title: "4. Transition Functions and Induced Bundles"
+        page_number: 65
+        children: []
+      - title: "5. Local Representation of Vector Bundle Morphisms"
+        page_number: 66
+        children: []
+      - title: "6. Operations on Vector Bundles"
+        page_number: 67
+        children: []
+      - title: "7. Transition Functions for Bundles with Metrics"
+        page_number: 69
+        children: []
+
+  - title: "Chapter 6: Change of Structure Group in Fibre Bundles"
+    page_number: 73
+    children:
+      - title: "1. Fibre Bundles with Homogeneous Spaces as Fibres"
+        page_number: 73
+        children: []
+      - title: "2. Prolongation and Restriction of Principal Bundles"
+        page_number: 74
+        children: []
+      - title: "3. Restriction and Prolongation of Structure Group for Fibre Bundles"
+        page_number: 75
+        children: []
+      - title: "4. Local Coordinate Description of Change of Structure Group"
+        page_number: 76
+        children: []
+      - title: "5. Classifying Spaces and the Reduction of Structure Group"
+        page_number: 77
+        children: []
+
+  - title: "Chapter 7: The Gauge Group of a Principal Bundle"
+    page_number: 79
+    children:
+      - title: "1. Definition of the Gauge Group"
+        page_number: 79
+        children: []
+      - title: "2. The Universal Standard Principal Bundle of the Gauge Group"
+        page_number: 81
+        children: []
+      - title: "3. The Standard Principal Bundle as a Universal Bundle"
+        page_number: 82
+        children: []
+      - title: "4. Abelian Gauge Groups and the Kiinneth Formula"
+        page_number: 83
+        children: []
+
+  - title: "Chapter 8: Calculations Involving the Classical Groups"
+    page_number: 87
+    children:
+      - title: "1. Stiefel Varieties and the Classical Groups"
+        page_number: 87
+        children: []
+      - title: "2. Grassmann Manifolds and the Classical Groups"
+        page_number: 90
+        children: []
+      - title: "3. Local Triviality of Projections from Stiefel Varieties"
+        page_number: 91
+        children: []
+      - title: "4. Stability of the Homotopy Groups of the Classical Groups"
+        page_number: 94
+        children: []
+      - title: "5. Vanishing of Lower Homotopy Groups of Stiefel Varieties"
+        page_number: 95
+        children: []
+      - title: "6. Universal Bundles and Classifying Spaces for the Classical Groups"
+        page_number: 95
+        children: []
+      - title: "7. Universal Vector Bundles"
+        page_number: 96
+        children: []
+      - title: "8. Description of all Locally Trivial Fibre Bundles over Suspensions"
+        page_number: 97
+        children: []
+      - title: "9. Characteristic Map of the Tangent Bundle over sn"
+        page_number: 98
+        children: []
+      - title: "10. Homotopy Properties of Characteristic Maps"
+        page_number: 101
+        children: []
+      - title: "11. Homotopy Groups of Stiefel Varieties"
+        page_number: 103
+        children: []
+      - title: "12. Some of the Homotopy Groups of the Classical Groups"
+        page_number: 104
+        children: []
+
+  - title: "PART II: ELEMENTS OF K-THEORY"
+    page_number: 109
+    children: []
+
+  - title: "Chapter 9: Stability Properties of Vector Bundles"
+    page_number: 111
+    children:
+      - title: "1. Trivial Summands of Vector Bundles"
+        page_number: 111
+        children: []
+      - title: "2. Homotopy Classification and Whitney Sums"
+        page_number: 113
+        children: []
+      - title: "3. The K Cofunctors"
+        page_number: 114
+        children: []
+      - title: "4. Corepresentations of KF"
+        page_number: 118
+        children: []
+      - title: "5. Homotopy Groups of Classical Groups and KF(Si)"
+        page_number: 120
+        children: []
+
+  - title: "Chapter 10: Relative K-Theory"
+    page_number: 122
+    children:
+      - title: "1. Collapsing of Trivialized Bundles"
+        page_number: 122
+        children: []
+      - title: "2. Exact Sequences in Relative K-Theory"
+        page_number: 124
+        children: []
+      - title: "3. Products in K-Theory"
+        page_number: 128
+        children: []
+      - title: "4. The Cofunctor L(X, A)"
+        page_number: 129
+        children: []
+      - title: "5. The Difference Morphism"
+        page_number: 131
+        children: []
+      - title: "6. Products in L(X, A)"
+        page_number: 133
+        children: []
+      - title: "7. The Clutching Construction"
+        page_number: 134
+        children: []
+      - title: "8. The Cofunctor Ln(X, A)"
+        page_number: 136
+        children: []
+      - title: "9. Half-Exact Cofunctors"
+        page_number: 138
+        children: []
+
+  - title: "Chapter 11: Bott Periodicity in the Complex Case"
+    page_number: 140
+    children:
+      - title: "1. K-Theory Interpretation of the Periodicity Result"
+        page_number: 140
+        children: []
+      - title: "2. Complex Vector Bundles over X x S2"
+        page_number: 141
+        children: []
+      - title: "3. Analysis of Polynomial Clutching Maps"
+        page_number: 143
+        children: []
+      - title: "4. Analysis of Linear Clutching Maps"
+        page_number: 145
+        children: []
+      - title: "5. The Inverse to the Periodicity Isomorphism"
+        page_number: 148
+        children: []
+
+  - title: "Chapter 12: Clifford Algebras"
+    page_number: 151
+    children:
+      - title: "1. Unit Tangent Vector Fields on Spheres: I"
+        page_number: 151
+        children: []
+      - title: "2. Orthogonal Multiplications"
+        page_number: 152
+        children: []
+      - title: "3. Generalities on Quadratic Forms"
+        page_number: 154
+        children: []
+      - title: "4. Clifford Algebra of a Quadratic Form"
+        page_number: 156
+        children: []
+      - title: "5. Calculations of Clifford Algebras"
+        page_number: 158
+        children: []
+      - title: "6. Clifford Modules"
+        page_number: 161
+        children: []
+      - title: "7. Tensor Products of Clifford Modules"
+        page_number: 166
+        children: []
+      - title: "8. Unit Tangent Vector Fields on Spheres: II"
+        page_number: 168
+        children: []
+      - title: "9. The Group Spin(k)"
+        page_number: 169
+        children: []
+
+  - title: "Chapter 13: The Adams Operations and Representations"
+    page_number: 171
+    children:
+      - title: "1. λ-Rings"
+        page_number: 171
+        children: []
+      - title: "2. The Adams ψ-Operations in λ-Ring"
+        page_number: 172
+        children: []
+      - title: "3. The γ Operations"
+        page_number: 175
+        children: []
+      - title: "4. Generalities on G-Modules"
+        page_number: 176
+        children: []
+      - title: "5. The Representation Ring of a Group G and Vector Bundles"
+        page_number: 177
+        children: []
+      - title: "6. Semisimplicity of G-Modules over Compact Groups"
+        page_number: 179
+        children: []
+      - title: "7. Characters and the Structure of the Group RF(G)"
+        page_number: 180
+        children: []
+      - title: "8. Maximal Tori"
+        page_number: 182
+        children: []
+      - title: "9. The Representation Ring of a Torus"
+        page_number: 185
+        children: []
+      - title: "10. The ψ-Operations on K(X) and KO(X)"
+        page_number: 186
+        children: []
+      - title: "11. The ψ-Operations on K(Sn)"
+        page_number: 187
+        children: []
+
+  - title: "Chapter 14: Representation Rings of Classical Groups"
+    page_number: 189
+    children:
+      - title: "1. Symmetric Functions"
+        page_number: 189
+        children: []
+      - title: "2. Maximal Tori in SU(n) and U(n)"
+        page_number: 191
+        children: []
+      - title: "3. The Representation Rings of SU(n) and U(n)"
+        page_number: 192
+        children: []
+      - title: "4. Maximal Tori in Sp(n)"
+        page_number: 193
+        children: []
+      - title: "5. Formal Identities in Polynomial Rings"
+        page_number: 194
+        children: []
+      - title: "6. The Representation Ring of Sp(n)"
+        page_number: 195
+        children: []
+      - title: "7. Maximal Tori and the Weyl Group of SO(n)"
+        page_number: 195
+        children: []
+      - title: "8. Maximal Tori and the Weyl Group of Spin(n)"
+        page_number: 196
+        children: []
+      - title: "9. Special Representations of SO(n) and Spin(n)"
+        page_number: 198
+        children: []
+      - title: "10. Calculation of RSO(n) and R Spin(n)"
+        page_number: 200
+        children: []
+      - title: "11. Relation Between Real and Complex Representation Rings"
+        page_number: 203
+        children: []
+      - title: "12. Examples of Real and Quaternionic Representations"
+        page_number: 206
+        children: []
+      - title: "13. Spinor Representations and the K-Groups of Spheres"
+        page_number: 208
+        children: []
+
+  - title: "Chapter 15: The Hopf Invariant"
+    page_number: 210
+    children:
+      - title: "1. K-Theory Definition of the Hopf Invariant"
+        page_number: 210
+        children: []
+      - title: "2. Algebraic Properties of the Hopf Invariant"
+        page_number: 211
+        children: []
+      - title: "3. Hopf Invariant and Bidegree"
+        page_number: 213
+        children: []
+      - title: "4. Nonexistence of Elements of Hopf Invariant 1"
+        page_number: 215
+        children: []
+
+  - title: "Chapter 16: Vector Fields on the Sphere"
+    page_number: 217
+    children:
+      - title: "1. Thom Spaces of Vector Bundles"
+        page_number: 217
+        children: []
+      - title: "2. S-Category"
+        page_number: 219
+        children: []
+      - title: "3. S-Duality and the Atiyah Duality Theorem"
+        page_number: 221
+        children: []
+      - title: "4. Fibre Homotopy Type"
+        page_number: 223
+        children: []
+      - title: "5. Stable Fibre Homotopy Equivalence"
+        page_number: 224
+        children: []
+      - title: "6. The Groups J(Sk) and KTop(Sk)"
+        page_number: 225
+        children: []
+      - title: "7. Thom Spaces and Fibre Homotopy Type"
+        page_number: 227
+        children: []
+      - title: "8. S-Duality and S-Reducibility"
+        page_number: 229
+        children: []
+      - title: "9. Nonexistence of Vector Fields and Reducibility"
+        page_number: 230
+        children: []
+      - title: "10. Nonexistence of Vector Fields and Coreducibility"
+        page_number: 232
+        children: []
+      - title: "11. Nonexistence of Vector Fields and J(RPk)"
+        page_number: 233
+        children: []
+      - title: "12. Real K-Groups of Real Projective Spaces"
+        page_number: 235
+        children: []
+      - title: "13. Relation Between KO(RPn) and J(RPn)"
+        page_number: 237
+        children: []
+      - title: "14. Remarks on the Adams Conjecture"
+        page_number: 240
+        children: []
+
+  - title: "PART III: CHARACTERISTIC CLASSES"
+    page_number: 243
+    children: []
+
+  - title: "Chapter 17: Chern Classes and Stiefel-Whitney Classes"
+    page_number: 245
+    children:
+      - title: "1. The Leray-Hirsch Theorem"
+        page_number: 245
+        children: []
+      - title: "2. Definition of the Stiefel-Whitney Classes and Chern Classes"
+        page_number: 247
+        children: []
+      - title: "3. Axiomatic Properties of the Characteristic Classes"
+        page_number: 248
+        children: []
+      - title: "4. Stability Properties and Examples of Characteristic Classes"
+        page_number: 250
+        children: []
+      - title: "5. Splitting Maps and Uniqueness of Characteristic Classes"
+        page_number: 251
+        children: []
+      - title: "6. Existence of the Characteristic Classes"
+        page_number: 252
+        children: []
+      - title: "7. Fundamental Class of Sphere Bundles. Gysin Sequence"
+        page_number: 253
+        children: []
+      - title: "8. Multiplicative Property of the Euler Class"
+        page_number: 256
+        children: []
+      - title: "9. Definition of Stiefel-Whitney Classes Using the Squaring Operations of Steenrod"
+        page_number: 257
+        children: []
+      - title: "10. The Thom Isomorphism"
+        page_number: 258
+        children: []
+      - title: "11. Relations Between Real and Complex Vector Bundles"
+        page_number: 259
+        children: []
+      - title: "12. Orientability and Stiefel-Whitney Classes"
+        page_number: 260
+        children: []
+
+  - title: "Chapter 18: Differentiable Manifolds"
+    page_number: 262
+    children:
+      - title: "1. Generalities on Manifolds"
+        page_number: 262
+        children: []
+      - title: "2. The Tangent Bundle to a Manifold"
+        page_number: 263
+        children: []
+      - title: "3. Orientation in Euclidean Spaces"
+        page_number: 266
+        children: []
+      - title: "4. Orientation of Manifolds"
+        page_number: 267
+        children: []
+      - title: "5. Duality in Manifolds"
+        page_number: 269
+        children: []
+      - title: "6. Thom Class of the Tangent Bundle"
+        page_number: 272
+        children: []
+      - title: "7. Euler Characteristic and Class of a Manifold"
+        page_number: 274
+        children: []
+      - title: "8. Wu's Formula for the Stiefel-Whitney Class of a Manifold"
+        page_number: 275
+        children: []
+      - title: "9. Stiefel-Whitney Numbers and Cobordism"
+        page_number: 276
+        children: []
+      - title: "10. Immersions and Embeddings of Manifolds"
+        page_number: 278
+        children: []
+
+  - title: "Chapter 19: Characteristic Classes and Connections"
+    page_number: 280
+    children:
+      - title: "1. Differential Forms and de Rham Cohomology"
+        page_number: 280
+        children: []
+      - title: "2. Connections on a Vector Bundle"
+        page_number: 283
+        children: []
+      - title: "3. Invariant Polynomials in the Curvature of a Connection"
+        page_number: 285
+        children: []
+      - title: "4. Homotopy Properties of Connections and Curvature"
+        page_number: 288
+        children: []
+      - title: "5. Homotopy to the Trivial Connection and the Chern-Simons Form"
+        page_number: 290
+        children: []
+      - title: "6. The Levi-Civita or Riemannian Connection"
+        page_number: 291
+        children: []
+
+  - title: "Chapter 20: General Theory of Characteristic Classes"
+    page_number: 294
+    children:
+      - title: "1. The Yoneda Representation Theorem"
+        page_number: 294
+        children: []
+      - title: "2. Generalities on Characteristic Classes"
+        page_number: 295
+        children: []
+      - title: "3. Complex Characteristic Classes in Dimension n"
+        page_number: 296
+        children: []
+      - title: "4. Complex Characteristic Classes"
+        page_number: 298
+        children: []
+      - title: "5. Real Characteristic Classes Mod 2"
+        page_number: 300
+        children: []
+      - title: "6. 2-Divisible Real Characteristic Classes in Dimension n"
+        page_number: 301
+        children: []
+      - title: "7. Oriented Even-Dimensional Real Characteristic Classes"
+        page_number: 304
+        children: []
+      - title: "8. Examples and Applications"
+        page_number: 306
+        children: []
+      - title: "9. Bott Periodicity and Integrality Theorems"
+        page_number: 307
+        children: []
+      - title: "10. Comparison of K-Theory and Cohomology Definitions of Hopf Invariant"
+        page_number: 309
+        children: []
+      - title: "11. The Borel-Hirzebruch Description of Characteristic Classes"
+        page_number: 309
+        children: []
+
+  - title: "Appendix 1: Dold's Theory of Local Properties of Bundles"
+    page_number: 312
+    children: []
+
+  - title: "Appendix 2: On the Double Suspension"
+    page_number: 314
+    children:
+      - title: "1. H*(QS(X)) as an Algebraic Functor of H*(X)"
+        page_number: 314
+        children: []
+      - title: "2. Connectivity of the Pair (Q2S2n+1, S2n-1) Localized at p"
+        page_number: 318
+        children: []
+      - title: "3. Decomposition of Suspensions of Products and QS(X)"
+        page_number: 319
+        children: []
+      - title: "4. Single Suspension Sequences"
+        page_number: 322
+        children: []
+      - title: "5. Mod p Hopf Invariant"
+        page_number: 326
+        children: []
+      - title: "6. Spaces Where the pth Power Is Zero"
+        page_number: 329
+        children: []
+      - title: "7. Double Suspension Sequences"
+        page_number: 333
+        children: []
+      - title: "8. Study of the Boundary Map A: Q3S2np+1 → QS2np-1"
+        page_number: 337
+        children: []
+
+  - title: "Bibliography"
+    page_number: 339
+    children: []
+
+  - title: "Index"
+    page_number: 348
+    children: []

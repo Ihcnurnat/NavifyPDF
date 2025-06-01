@@ -10,18 +10,6 @@ Before running the project, make sure you have the required dependencies install
 pip install -r requirements.txt
 ```
 
-## 3. Run the Command
-You'll specify both the input and output. Then define the offset you want. Here offset is the distance between the first page of .pdf and the first page printed, under the assumption that .pdf increase exactly at the same speed of the printed page number. 
-```bash
-python main.py <input.pdf> <output.pdf> <bookmarks_toc.yaml>
-```
-
-### Examples 
-
-```bash
-    python main.py "VICTORIA_HOSKINS_NotesGIT.pdf" "VICTORIA_HOSKINS_NotesGIT_new.pdf" "VICTORIA_HOSKINS_NotesGIT.yaml"
-```
-
 ## 🚀 Workflow
 
 ### 1. Prepare Input Files
@@ -42,6 +30,50 @@ contents:
       - title: "Section 1.1"
         page_number: 6
 ```
+
+#### Use ChatGPT or Deepseek fot .yaml
+
+Use the following prompt for .yaml generation
+
+```markdown
+**Task:** Generate a YAML table of contents (ToC) with the following specifications:  
+
+1. **Structure**:  
+   - Use `offset: 17` (adjust if needed)  
+   - Start with "Front Matter" (`page_number: -16`) and "Contents" (`page_number: -6`)  
+   - Format chapters as `"Chapter X: Title"` (not "CHAPTER X")  
+   - Include all sections/sub-sections as nested `children` arrays  
+
+2. **Input**:  
+   ```text
+   [PASTE THE CONTENTS PAGE OF YOUR PDF HERE]
+```
+
+
+### **How to Use This Prompt**  
+1. Copy the prompt above.  
+2. When you need a ToC, paste the prompt into your request *followed by* the contents page text from your PDF.  
+3. I’ll generate a YAML ToC with:  
+   - Correct offset/page numbers  
+   - Nested sections  
+   - Math-friendly formatting  
+
+Let me know if you’d like any adjustments to the prompt!
+
+
+
+### 3. Run the Command
+You'll specify both the input and output. Then define the offset you want. Here offset is the distance between the first page of .pdf and the first page printed, under the assumption that .pdf increase exactly at the same speed of the printed page number. 
+```bash
+python main.py <input.pdf> <output.pdf> <bookmarks_toc.yaml>
+```
+
+#### Examples 
+
+```bash
+    python main.py "VICTORIA_HOSKINS_NotesGIT.pdf" "VICTORIA_HOSKINS_NotesGIT_new.pdf" "VICTORIA_HOSKINS_NotesGIT.yaml"
+```
+
 
 ## Why Empty `children: []` is Optional
 
