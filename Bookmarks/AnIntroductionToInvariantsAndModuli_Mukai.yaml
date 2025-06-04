@@ -1,0 +1,650 @@
+offset: 20
+contents:
+  - title: "Front Matter"
+    page_number: -19
+    children: []
+
+  - title: "Contents"
+    page_number: -15
+    children: []
+
+  - title: "Preface"
+    page_number: -9
+    children: []
+
+  - title: "Acknowledgements"
+    page_number: -7
+    children: []
+
+  - title: "Introduction"
+    page_number: -5
+    children:
+      - title: "(a) What is a moduli space?"
+        page_number: -5
+        children: []
+      - title: "(b) Algebraic varieties and quotients of algebraic varieties"
+        page_number: -4
+        children: []
+      - title: "(c) Moduli of bundles on a curve"
+        page_number: -1
+        children: []
+
+  - title: "Chapter 1: Invariants and moduli"
+    page_number: 1
+    children:
+      - title: "1.1 A parameter space for plane conics"
+        page_number: 1
+        children: []
+      - title: "1.2 Invariants of groups"
+        page_number: 9
+        children:
+          - title: "(a) Hilbert series"
+            page_number: 9
+            children: []
+          - title: "(b) Molien's formula"
+            page_number: 13
+            children: []
+          - title: "(c) Polyhedral groups"
+            page_number: 15
+            children: []
+      - title: "1.3 Classical binary invariants"
+        page_number: 19
+        children:
+          - title: "(a) Resultants and discriminants"
+            page_number: 19
+            children: []
+          - title: "(b) Binary quartics"
+            page_number: 26
+            children: []
+      - title: "1.4 Plane curves"
+        page_number: 32
+        children:
+          - title: "(a) Affine plane curves"
+            page_number: 32
+            children: []
+          - title: "(b) Projective plane curves"
+            page_number: 35
+            children: []
+      - title: "1.5 Period parallelograms and cubic curves"
+        page_number: 41
+        children:
+          - title: "(a) Invariants of a lattice"
+            page_number: 41
+            children: []
+          - title: "(b) The Weierstrass ℘ function"
+            page_number: 44
+            children: []
+          - title: "(c) The ℘ function and cubic curves"
+            page_number: 47
+            children: []
+
+  - title: "Chapter 2: Rings and polynomials"
+    page_number: 51
+    children:
+      - title: "2.1 Hilbert's Basis Theorem"
+        page_number: 51
+        children: []
+      - title: "2.2 Unique factorisation rings"
+        page_number: 55
+        children: []
+      - title: "2.3 Finitely generated rings"
+        page_number: 58
+        children: []
+      - title: "2.4 Valuation rings"
+        page_number: 61
+        children:
+          - title: "(a) Power series rings"
+            page_number: 61
+            children: []
+          - title: "(b) Valuation rings"
+            page_number: 63
+            children: []
+      - title: "2.5 A diversion: rings of invariants which are not finitely generated"
+        page_number: 68
+        children:
+          - title: "(a) Graded rings"
+            page_number: 69
+            children: []
+          - title: "(b) Nagata's trick"
+            page_number: 70
+            children: []
+          - title: "(c) An application of Liouville's Theorem"
+            page_number: 73
+            children: []
+
+  - title: "Chapter 3: Algebraic varieties"
+    page_number: 77
+    children:
+      - title: "3.1 Affine varieties"
+        page_number: 78
+        children:
+          - title: "(a) Affine space"
+            page_number: 78
+            children: []
+          - title: "(b) The spectrum"
+            page_number: 81
+            children: []
+          - title: "(c) Some important notions"
+            page_number: 86
+            children:
+              - title: "Morphisms"
+                page_number: 86
+                children: []
+              - title: "Products"
+                page_number: 87
+                children: []
+              - title: "General spectra and nilpotents"
+                page_number: 88
+                children: []
+              - title: "Dominant morphisms"
+                page_number: 89
+                children: []
+              - title: "Open immersions"
+                page_number: 90
+                children: []
+              - title: "Local properties"
+                page_number: 91
+                children: []
+      - title: "3.2 Algebraic varieties"
+        page_number: 91
+        children:
+          - title: "(a) Gluing affine varieties"
+            page_number: 91
+            children: []
+          - title: "(b) Projective varieties"
+            page_number: 95
+            children: []
+      - title: "3.3 Functors and algebraic groups"
+        page_number: 98
+        children:
+          - title: "(a) A variety as a functor from algebras to sets"
+            page_number: 98
+            children: []
+          - title: "(b) Algebraic groups"
+            page_number: 100
+            children: []
+      - title: "3.4 Completeness and toric varieties"
+        page_number: 103
+        children:
+          - title: "(a) Complete varieties"
+            page_number: 103
+            children: []
+          - title: "(b) Toric varieties"
+            page_number: 107
+            children: []
+          - title: "(c) Approximation of valuations"
+            page_number: 111
+            children: []
+
+  - title: "Chapter 4: Algebraic groups and rings of invariants"
+    page_number: 116
+    children:
+      - title: "4.1 Representations of algebraic groups"
+        page_number: 117
+        children: []
+      - title: "4.2 Algebraic groups and their Lie spaces"
+        page_number: 122
+        children:
+          - title: "(a) Local distributions"
+            page_number: 122
+            children: []
+          - title: "(b) The distribution algebra"
+            page_number: 124
+            children: []
+          - title: "(c) The Casimir operator"
+            page_number: 128
+            children: []
+      - title: "4.3 Hilbert's Theorem"
+        page_number: 130
+        children:
+          - title: "(a) Linear reductivity"
+            page_number: 130
+            children: []
+          - title: "(b) Finite generation"
+            page_number: 135
+            children: []
+      - title: "4.4 The Cayley-Sylvester Counting Theorem"
+        page_number: 137
+        children:
+          - title: "(a) SL(2)"
+            page_number: 137
+            children: []
+          - title: "(b) The dimension formula for SL(2)"
+            page_number: 140
+            children: []
+          - title: "(c) A digression: Weyl measure"
+            page_number: 142
+            children: []
+          - title: "(d) The Cayley-Sylvester Formula"
+            page_number: 143
+            children: []
+          - title: "(e) Some computational examples"
+            page_number: 148
+            children: []
+      - title: "4.5 Geometric reductivity of SL(2)"
+        page_number: 152
+        children: []
+
+  - title: "Chapter 5: The construction of quotient varieties"
+    page_number: 158
+    children:
+      - title: "5.1 Affine quotients"
+        page_number: 159
+        children:
+          - title: "(a) Separation of orbits"
+            page_number: 159
+            children: []
+          - title: "(b) Surjectivity of the affine quotient map"
+            page_number: 163
+            children: []
+          - title: "(c) Stability"
+            page_number: 165
+            children: []
+      - title: "5.2 Classical invariants and the moduli of smooth hypersurfaces in Pⁿ"
+        page_number: 167
+        children:
+          - title: "(a) Classical invariants and discriminants"
+            page_number: 167
+            children: []
+          - title: "(b) Stability of smooth hypersurfaces"
+            page_number: 171
+            children: []
+          - title: "(c) A moduli space for hypersurfaces in Pⁿ"
+            page_number: 174
+            children: []
+          - title: "(d) Nullforms and the projective quotient map"
+            page_number: 175
+            children: []
+
+  - title: "Chapter 6: The projective quotient"
+    page_number: 181
+    children:
+      - title: "6.1 Extending the idea of a quotient: from values to ratios"
+        page_number: 182
+        children:
+          - title: "(a) The projective spectrum"
+            page_number: 186
+            children: []
+          - title: "(b) The Proj quotient"
+            page_number: 189
+            children: []
+          - title: "(c) The Proj quotient by a GL(n) action of ray type"
+            page_number: 195
+            children: []
+      - title: "6.2 Linearisation and Proj quotients"
+        page_number: 197
+        children: []
+      - title: "6.3 Moving quotients"
+        page_number: 201
+        children:
+          - title: "(a) Flops"
+            page_number: 201
+            children: []
+          - title: "(b) Toric varieties as quotient varieties"
+            page_number: 205
+            children: []
+          - title: "(c) Moment maps"
+            page_number: 208
+            children: []
+
+  - title: "Chapter 7: The numerical criterion and some applications"
+    page_number: 211
+    children:
+      - title: "7.1 The numerical criterion"
+        page_number: 212
+        children:
+          - title: "(a) 1-parameter subgroups"
+            page_number: 212
+            children: []
+          - title: "(b) The proof"
+            page_number: 213
+            children: []
+      - title: "7.2 Examples and applications"
+        page_number: 219
+        children:
+          - title: "(a) Stability of projective hypersurfaces"
+            page_number: 219
+            children: []
+          - title: "(b) Cubic surfaces"
+            page_number: 224
+            children: []
+          - title: "(c) Finite point sets in projective space"
+            page_number: 230
+            children: []
+
+  - title: "Chapter 8: Grassmannians and vector bundles"
+    page_number: 234
+    children:
+      - title: "8.1 Grassmannians as quotient varieties"
+        page_number: 235
+        children:
+          - title: "(a) Hilbert series"
+            page_number: 237
+            children: []
+          - title: "(b) Standard monomials and the ring of invariants"
+            page_number: 239
+            children: []
+          - title: "(c) Young tableaux and the Plücker relations"
+            page_number: 241
+            children: []
+          - title: "(d) Grassmannians as projective varieties"
+            page_number: 245
+            children: []
+          - title: "(e) A digression: the degree of the Grassmannian"
+            page_number: 247
+            children: []
+      - title: "8.2 Modules over a ring"
+        page_number: 251
+        children:
+          - title: "(a) Localization"
+            page_number: 251
+            children: []
+          - title: "(b) Local versus global"
+            page_number: 254
+            children: []
+          - title: "(c) Free modules"
+            page_number: 257
+            children: []
+          - title: "(d) Tensor products and flat modules"
+            page_number: 259
+            children: []
+      - title: "8.3 Locally free modules and flatness"
+        page_number: 262
+        children:
+          - title: "(a) Locally free modules"
+            page_number: 262
+            children: []
+          - title: "(b) Exact sequences and flatness"
+            page_number: 264
+            children: []
+      - title: "8.4 The Picard group"
+        page_number: 268
+        children:
+          - title: "(a) Algebraic number fields"
+            page_number: 268
+            children: []
+          - title: "(b) Two quadratic examples"
+            page_number: 271
+            children: []
+      - title: "8.5 Vector bundles"
+        page_number: 276
+        children:
+          - title: "(a) Elementary sheaves of modules"
+            page_number: 277
+            children: []
+          - title: "(b) Line bundles and vector bundles"
+            page_number: 279
+            children: []
+          - title: "(c) The Grassmann functor"
+            page_number: 282
+            children: []
+          - title: "(d) The tangent space of the functor"
+            page_number: 284
+            children: []
+
+  - title: "Chapter 9: Curves and their Jacobians"
+    page_number: 287
+    children:
+      - title: "9.1 Riemann's inequality for an algebraic curve"
+        page_number: 288
+        children:
+          - title: "(a) Prologue: gap values and the genus"
+            page_number: 290
+            children: []
+          - title: "(b) Divisors and the genus"
+            page_number: 292
+            children: []
+          - title: "(c) Divisor classes and vanishing index of speciality"
+            page_number: 294
+            children: []
+      - title: "9.2 Cohomology spaces and the genus"
+        page_number: 297
+        children:
+          - title: "(a) Cousin's problem"
+            page_number: 297
+            children: []
+          - title: "(b) Finiteness of the genus"
+            page_number: 301
+            children: []
+          - title: "(c) Line bundles and their cohomology"
+            page_number: 304
+            children: []
+          - title: "(d) Generation by global sections"
+            page_number: 307
+            children: []
+      - title: "9.3 Nonsingularity of quotient spaces"
+        page_number: 309
+        children:
+          - title: "(a) Differentials and differential modules"
+            page_number: 309
+            children: []
+          - title: "(b) Nonsingularity"
+            page_number: 311
+            children: []
+          - title: "(c) Free closed orbits"
+            page_number: 313
+            children: []
+      - title: "9.4 An algebraic variety with the Picard group as its set of points"
+        page_number: 316
+        children:
+          - title: "(a) Some preliminaries"
+            page_number: 316
+            children: []
+          - title: "(b) The construction"
+            page_number: 319
+            children: []
+          - title: "(c) Tangent spaces and smoothness"
+            page_number: 323
+            children: []
+      - title: "9.5 Duality"
+        page_number: 327
+        children:
+          - title: "(a) Dualising line bundles"
+            page_number: 327
+            children: []
+          - title: "(b) The canonical line bundle"
+            page_number: 330
+            children: []
+          - title: "(c) De Rham cohomology"
+            page_number: 332
+            children: []
+      - title: "9.6 The Jacobian as a complex manifold"
+        page_number: 334
+        children:
+          - title: "(a) Compact Riemann surfaces"
+            page_number: 335
+            children: []
+          - title: "(b) The comparison theorem and the Jacobian"
+            page_number: 337
+            children: []
+          - title: "(c) Abel's Theorem"
+            page_number: 342
+            children: []
+
+  - title: "Chapter 10: Stable vector bundles on curves"
+    page_number: 348
+    children:
+      - title: "10.1 Some general theory"
+        page_number: 349
+        children:
+          - title: "(a) Subbundles and quotient bundles"
+            page_number: 350
+            children: []
+          - title: "(b) The Riemann-Roch formula"
+            page_number: 352
+            children: []
+          - title: "(c) Indecomposable bundles and stable bundles"
+            page_number: 355
+            children: []
+          - title: "(d) Grothendieck's Theorem"
+            page_number: 359
+            children: []
+          - title: "(e) Extensions of vector bundles"
+            page_number: 361
+            children: []
+      - title: "10.2 Rank 2 vector bundles"
+        page_number: 365
+        children:
+          - title: "(a) Maximal line subbundles"
+            page_number: 365
+            children: []
+          - title: "(b) Nonstable vector bundles"
+            page_number: 366
+            children: []
+          - title: "(c) Vector bundles on an elliptic curve"
+            page_number: 369
+            children: []
+      - title: "10.3 Stable bundles and Pfaffian semiinvariants"
+        page_number: 371
+        children:
+          - title: "(a) Skew-symmetric matrices and Pfaffians"
+            page_number: 371
+            children:
+              - title: "Even skew-symmetric matrices"
+                page_number: 372
+                children: []
+              - title: "Odd skew-symmetric matrices"
+                page_number: 374
+                children: []
+              - title: "Skew-symmetric matrices of rank 2"
+                page_number: 375
+                children: []
+          - title: "(b) Gieseker points"
+            page_number: 376
+            children: []
+          - title: "(c) Semistability of Gieseker points"
+            page_number: 379
+            children: []
+      - title: "10.4 An algebraic variety with SU_C(2, L) as its set of points"
+        page_number: 386
+        children:
+          - title: "(a) Tangent vectors and smoothness"
+            page_number: 387
+            children: []
+          - title: "(b) Proof of Theorem 10.1"
+            page_number: 391
+            children: []
+          - title: "(c) Remarks on higher rank vector bundles"
+            page_number: 394
+            children: []
+
+  - title: "Chapter 11: Moduli functors"
+    page_number: 398
+    children:
+      - title: "11.1 The Picard functor"
+        page_number: 400
+        children:
+          - title: "(a) Fine moduli and coarse moduli"
+            page_number: 400
+            children: []
+          - title: "(b) Cohomology modules and direct images"
+            page_number: 403
+            children: []
+          - title: "(c) Families of line bundles and the Picard functor"
+            page_number: 407
+            children: []
+          - title: "(d) Poincaré line bundles"
+            page_number: 410
+            children: []
+      - title: "11.2 The moduli functor for vector bundles"
+        page_number: 413
+        children:
+          - title: "(a) Rank 2 vector bundles of odd degree"
+            page_number: 413
+            children: []
+          - title: "(b) Irreducibility and rationality"
+            page_number: 416
+            children: []
+          - title: "(c) Rank 2 vector bundles of even degree"
+            page_number: 419
+            children: []
+      - title: "11.3 Examples"
+        page_number: 422
+        children:
+          - title: "(a) The Jacobian of a plane quartic"
+            page_number: 422
+            children: []
+          - title: "(b) The affine Jacobian of a spectral curve"
+            page_number: 424
+            children: []
+          - title: "(c) The Jacobian of a curve of genus 1"
+            page_number: 425
+            children: []
+          - title: "(d) Vector bundles on a spectral curve"
+            page_number: 431
+            children: []
+          - title: "(e) Vector bundles on a curve of genus 2"
+            page_number: 433
+            children: []
+
+  - title: "Chapter 12: Intersection numbers and the Verlinde formula"
+    page_number: 437
+    children:
+      - title: "12.1 Sums of inverse powers of trigonometric functions"
+        page_number: 439
+        children:
+          - title: "(a) Sine sums"
+            page_number: 439
+            children: []
+          - title: "(b) Variations"
+            page_number: 441
+            children: []
+          - title: "(c) Tangent numbers and secant numbers"
+            page_number: 444
+            children: []
+      - title: "12.2 Riemann-Roch theorems"
+        page_number: 447
+        children:
+          - title: "(a) Some preliminaries"
+            page_number: 448
+            children: []
+          - title: "(b) Hirzebruch-Riemann-Roch"
+            page_number: 450
+            children: []
+          - title: "(c) Grothendieck-Riemann-Roch for curves"
+            page_number: 453
+            children: []
+          - title: "(d) Riemann-Roch with involution"
+            page_number: 455
+            children: []
+      - title: "12.3 The standard line bundle and the Mumford relations"
+        page_number: 457
+        children:
+          - title: "(a) The standard line bundle"
+            page_number: 457
+            children: []
+          - title: "(b) The Newstead classes"
+            page_number: 461
+            children: []
+          - title: "(c) The Mumford relations"
+            page_number: 463
+            children: []
+      - title: "12.4 From the Mumford relations to the Verlinde formula"
+        page_number: 465
+        children:
+          - title: "(a) Warming up: secant rings"
+            page_number: 466
+            children: []
+          - title: "(b) The proof of formulae (12.2) and (12.4)"
+            page_number: 470
+            children: []
+      - title: "12.5 An excursion: the Verlinde formula for quasiparabolic bundles"
+        page_number: 476
+        children:
+          - title: "(a) Quasiparabolic vector bundles"
+            page_number: 476
+            children: []
+          - title: "(b) A proof of (12.6) using Riemann-Roch and the Mumford relations"
+            page_number: 480
+            children: []
+          - title: "(c) Birational geometry"
+            page_number: 483
+            children: []
+
+  - title: "Bibliography"
+    page_number: 487
+    children: []
+
+  - title: "Index"
+    page_number: 495
+    children: []
