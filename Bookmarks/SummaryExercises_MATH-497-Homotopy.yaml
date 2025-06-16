@@ -1,0 +1,48 @@
+offset: 0  # Optional page number adjustment
+contents:
+  - title: "Exam 2021-2022"
+    page_number: 1
+    children: []
+  - title: "Exam 2022-2023"
+    page_number: 17
+    children: []
+  - title: "Sheet 1"
+    page_number: 37
+    children: []
+  - title: "Sheet 2"
+    page_number: 44
+    children: []
+  - title: "Sheet 3"
+    page_number: 51   
+    children: []
+  - title: "Sheet 4"
+    page_number: 60
+    children: []
+  - title: "Sheet 5"
+    page_number: 68
+    children: []
+  - title: "Sheet 6"          
+    page_number: 76
+    children: []
+  - title: "Sheet 7"
+    page_number: 81
+    children: []
+  - title: "Sheet 8"
+    page_number: 89
+    children: []
+  - title: "Sheet 9"        
+    page_number: 93
+    children: []
+  - title: "Sheet 10"
+    page_number: 97
+    children: []
+  - title: "Sheet 11"
+    page_number: 103
+    children: []
+  - title: "Sheet 12"
+    page_number: 109
+    children: []
+  - title: "Sheet 13"
+    page_number: 114
+    children: []
+  
