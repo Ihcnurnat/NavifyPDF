@@ -1,0 +1,404 @@
+offset: 13
+contents:
+  - title: "Front Matter"
+    page_number: -12
+    children:
+      - title: "Preface"
+        page_number: -7
+        children: []
+      - title: "Acknowledgments"
+        page_number: -4
+        children: []
+
+  - title: "Contents"
+    page_number: -3
+    children: []
+
+  - title: "Chapter I: General Topology"
+    page_number: 1
+    children:
+      - title: "Metric Spaces"
+        page_number: 1
+        children: []
+      - title: "Topological Spaces"
+        page_number: 3
+        children: []
+      - title: "Subspaces"
+        page_number: 8
+        children: []
+      - title: "Connectivity and Components"
+        page_number: 10
+        children: []
+      - title: "Separation Axioms"
+        page_number: 12
+        children: []
+      - title: "Nets (Moore-Smith Convergence)"
+        page_number: 14
+        children: []
+      - title: "Compactness"
+        page_number: 18
+        children: []
+      - title: "Products"
+        page_number: 22
+        children: []
+      - title: "Metric Spaces Again"
+        page_number: 25
+        children: []
+      - title: "Existence of Real Valued Functions"
+        page_number: 29
+        children: []
+      - title: "Locally Compact Spaces"
+        page_number: 31
+        children: []
+      - title: "Paracompact Spaces"
+        page_number: 35
+        children: []
+      - title: "Quotient Spaces"
+        page_number: 39
+        children: []
+      - title: "Homotopy"
+        page_number: 44
+        children: []
+      - title: "Topological Groups"
+        page_number: 51
+        children: []
+      - title: "Convex Bodies"
+        page_number: 56
+        children: []
+      - title: "The Baire Category Theorem"
+        page_number: 57
+        children: []
+
+  - title: "Chapter II: Differentiable Manifolds"
+    page_number: 63
+    children:
+      - title: "The Implicit Function Theorem"
+        page_number: 63
+        children: []
+      - title: "Differentiable Manifolds"
+        page_number: 68
+        children: []
+      - title: "Local Coordinates"
+        page_number: 71
+        children: []
+      - title: "Induced Structures and Examples"
+        page_number: 72
+        children: []
+      - title: "Tangent Vectors and Differentials"
+        page_number: 76
+        children: []
+      - title: "Sard's Theorem and Regular Values"
+        page_number: 80
+        children: []
+      - title: "Local Properties of Immersions and Submersions"
+        page_number: 82
+        children: []
+      - title: "Vector Fields and Flows"
+        page_number: 86
+        children: []
+      - title: "Tangent Bundles"
+        page_number: 88
+        children: []
+      - title: "Embedding in Euclidean Space"
+        page_number: 89
+        children: []
+      - title: "Tubular Neighborhoods and Approximations"
+        page_number: 92
+        children: []
+      - title: "Classical Lie Groups"
+        page_number: 101
+        children: []
+      - title: "Fiber Bundles"
+        page_number: 106
+        children: []
+      - title: "Induced Bundles and Whitney Sums"
+        page_number: 111
+        children: []
+      - title: "Transversality"
+        page_number: 114
+        children: []
+      - title: "Thom-Pontryagin Theory"
+        page_number: 118
+        children: []
+
+  - title: "Chapter III: Fundamental Group"
+    page_number: 127
+    children:
+      - title: "Homotopy Groups"
+        page_number: 127
+        children: []
+      - title: "The Fundamental Group"
+        page_number: 132
+        children: []
+      - title: "Covering Spaces"
+        page_number: 138
+        children: []
+      - title: "The Lifting Theorem"
+        page_number: 143
+        children: []
+      - title: "The Action of π₁ on the Fiber"
+        page_number: 146
+        children: []
+      - title: "Deck Transformations"
+        page_number: 147
+        children: []
+      - title: "Properly Discontinuous Actions"
+        page_number: 150
+        children: []
+      - title: "Classification of Covering Spaces"
+        page_number: 154
+        children: []
+      - title: "The Seifert-Van Kampen Theorem"
+        page_number: 158
+        children: []
+      - title: "Remarks on SO(3)"
+        page_number: 164
+        children: []
+
+  - title: "Chapter IV: Homology Theory"
+    page_number: 168
+    children:
+      - title: "Homology Groups"
+        page_number: 168
+        children: []
+      - title: "The Zeroth Homology Group"
+        page_number: 172
+        children: []
+      - title: "The First Homology Group"
+        page_number: 172
+        children: []
+      - title: "Functorial Properties"
+        page_number: 175
+        children: []
+      - title: "Homological Algebra"
+        page_number: 177
+        children: []
+      - title: "Axioms for Homology"
+        page_number: 182
+        children: []
+      - title: "Computation of Degrees"
+        page_number: 190
+        children: []
+      - title: "CW-Complexes"
+        page_number: 194
+        children: []
+      - title: "Conventions for CW-Complexes"
+        page_number: 198
+        children: []
+      - title: "Cellular Homology"
+        page_number: 200
+        children: []
+      - title: "Cellular Maps"
+        page_number: 207
+        children: []
+      - title: "Products of CW-Complexes"
+        page_number: 211
+        children: []
+      - title: "Euler's Formula"
+        page_number: 215
+        children: []
+      - title: "Homology of Real Projective Space"
+        page_number: 217
+        children: []
+      - title: "Singular Homology"
+        page_number: 219
+        children: []
+      - title: "The Cross Product"
+        page_number: 220
+        children: []
+      - title: "Subdivision"
+        page_number: 223
+        children: []
+      - title: "The Mayer-Vietoris Sequence"
+        page_number: 228
+        children: []
+      - title: "The Generalized Jordan Curve Theorem"
+        page_number: 230
+        children: []
+      - title: "The Borsuk-Ulam Theorem"
+        page_number: 240
+        children: []
+      - title: "Simplicial Complexes"
+        page_number: 245
+        children: []
+      - title: "Simplicial Maps"
+        page_number: 250
+        children: []
+      - title: "The Lefschetz-Hopf Fixed Point Theorem"
+        page_number: 253
+        children: []
+
+  - title: "Chapter V: Cohomology"
+    page_number: 260
+    children:
+      - title: "Multilinear Algebra"
+        page_number: 260
+        children: []
+      - title: "Differential Forms"
+        page_number: 261
+        children: []
+      - title: "Integration of Forms"
+        page_number: 265
+        children: []
+      - title: "Stokes' Theorem"
+        page_number: 267
+        children: []
+      - title: "Relationship to Singular Homology"
+        page_number: 269
+        children: []
+      - title: "More Homological Algebra"
+        page_number: 271
+        children: []
+      - title: "Universal Coefficient Theorems"
+        page_number: 281
+        children: []
+      - title: "Excision and Homotopy"
+        page_number: 285
+        children: []
+      - title: "de Rham's Theorem"
+        page_number: 286
+        children: []
+      - title: "The de Rham Theory of CPⁿ"
+        page_number: 292
+        children: []
+      - title: "Hopf's Theorem on Maps to Spheres"
+        page_number: 297
+        children: []
+      - title: "Differential Forms on Compact Lie Groups"
+        page_number: 304
+        children: []
+
+  - title: "Chapter VI: Products and Duality"
+    page_number: 315
+    children:
+      - title: "The Cross Product and the Künneth Theorem"
+        page_number: 315
+        children: []
+      - title: "A Sign Convention"
+        page_number: 321
+        children: []
+      - title: "The Cohomology Cross Product"
+        page_number: 321
+        children: []
+      - title: "The Cup Product"
+        page_number: 326
+        children: []
+      - title: "The Cap Product"
+        page_number: 334
+        children: []
+      - title: "Classical Outlook on Duality"
+        page_number: 338
+        children: []
+      - title: "The Orientation Bundle"
+        page_number: 340
+        children: []
+      - title: "Duality Theorems"
+        page_number: 348
+        children: []
+      - title: "Duality on Compact Manifolds with Boundary"
+        page_number: 355
+        children: []
+      - title: "Applications of Duality"
+        page_number: 359
+        children: []
+      - title: "Intersection Theory"
+        page_number: 366
+        children: []
+      - title: "The Euler Class, Lefschetz Numbers, and Vector Fields"
+        page_number: 378
+        children: []
+      - title: "The Gysin Sequence"
+        page_number: 390
+        children: []
+      - title: "Lefschetz Coincidence Theory"
+        page_number: 393
+        children: []
+      - title: "Steenrod Operations"
+        page_number: 404
+        children: []
+      - title: "Construction of the Steenrod Squares"
+        page_number: 412
+        children: []
+      - title: "Stiefel-Whitney Classes"
+        page_number: 420
+        children: []
+      - title: "Plumbing"
+        page_number: 426
+        children: []
+
+  - title: "Chapter VII: Homotopy Theory"
+    page_number: 430
+    children:
+      - title: "Cofibrations"
+        page_number: 430
+        children: []
+      - title: "The Compact-Open Topology"
+        page_number: 437
+        children: []
+      - title: "H-Spaces, H-Groups, and H-Cogroups"
+        page_number: 441
+        children: []
+      - title: "Homotopy Groups"
+        page_number: 443
+        children: []
+      - title: "The Homotopy Sequence of a Pair"
+        page_number: 445
+        children: []
+      - title: "Fiber Spaces"
+        page_number: 450
+        children: []
+      - title: "Free Homotopy"
+        page_number: 457
+        children: []
+      - title: "Classical Groups and Associated Manifolds"
+        page_number: 463
+        children: []
+      - title: "The Homotopy Addition Theorem"
+        page_number: 469
+        children: []
+      - title: "The Hurewicz Theorem"
+        page_number: 475
+        children: []
+      - title: "The Whitehead Theorem"
+        page_number: 480
+        children: []
+      - title: "Eilenberg-Mac Lane Spaces"
+        page_number: 488
+        children: []
+      - title: "Obstruction Theory"
+        page_number: 497
+        children: []
+      - title: "Obstruction Cochains and Vector Bundles"
+        page_number: 511
+        children: []
+
+  - title: "Appendices"
+    page_number: 518
+    children:
+      - title: "The Additivity Axiom"
+        page_number: 518
+        children: []
+      - title: "Background in Set Theory"
+        page_number: 521
+        children: []
+      - title: "Critical Values"
+        page_number: 530
+        children: []
+      - title: "Direct Limits"
+        page_number: 533
+        children: []
+      - title: "Euclidean Neighborhood Retracts"
+        page_number: 535
+        children: []
+
+  - title: "Bibliography"
+    page_number: 540
+    children: []
+
+  - title: "Index of Symbols"
+    page_number: 543
+    children: []
+
+  - title: "Index"
+    page_number: 547
+    children: []
