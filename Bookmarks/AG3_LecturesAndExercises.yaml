@@ -1,0 +1,100 @@
+offset: 0
+contents:
+  - title: "Lecture 1: Definition of varieties, language of schemes"
+    page_number: 1
+    children: []
+  - title: "Sheet 1"
+    page_number: 7
+    children: []
+
+  - title: "Lecture 2: Weil divisors, class groups, and line bundles."
+    page_number: 9
+    children: []
+  - title: "Sheet 2"
+    page_number: 16
+    children: []
+
+  - title: "Lecture 3: Sheaf cohomology"
+    page_number: 18
+    children: []
+  - title: "Sheet 3"
+    page_number: 28
+    children: []
+
+  - title: "Lecture 4: Line bundles on curves, Riemann-Roch theorem"
+    page_number: 30
+    children: []
+  - title: "Sheet 4"
+    page_number: 39
+    children: []
+
+  - title: "Lecture 5: Maps between curves, Riemann Hurwitz, and Hyperelliptic curves."
+    page_number: 41
+    children: []
+  - title: "Sheet 5"
+    page_number: 47
+    children: []
+
+  - title: "Lecture 6: Curves of genus one."
+    page_number: 48
+    children: []
+  - title: "Sheet 6"
+    page_number: 59
+    children: []
+
+  - title: "Lecture 7: Embedding curves in projective spaces, Projective geometry."
+    page_number: 60
+    children: []
+  - title: "Sheet 7"
+    page_number: 70
+    children: []
+
+
+  - title: "Lecture 8: Cohomology and base change"
+    page_number: 71
+    children: []
+  - title: "Sheet 8"
+    page_number: 81
+    children: []
+
+  - title: "Lecture 9: Intersection theory on surfaces"
+    page_number: 83
+    children: []
+  - title: "Sheet 9"
+    page_number: 92
+    children: []
+
+  - title: "Lecture 10: Ruled surfaces"
+    page_number: 94
+    children: []
+  - title: "Sheet 10"
+    page_number: 103
+    children: []
+
+  - title: "Lecture 11: Blow ups of points on surfaces"
+    page_number: 104
+    children: []
+  - title: "Sheet 11"
+    page_number: 111
+    children: []
+
+  - title: "Lecture 12: Birational maps between surfaces"
+    page_number: 112
+    children: []
+  - title: "Sheet 12"
+    page_number: 119
+    children: []
+
+  - title: "Lecture 13: Contracting curves, Castenuovo's Criterion, and Minimal surfaces."
+    page_number: 120
+    children: []
+  - title: "Sheet 13"
+    page_number: 128
+    children: []
+
+  - title: "Lecture 14: Cubic surfaces"
+    page_number: 129
+    children: []
+  - title: "Sheet 14"
+    page_number: 136
+    children: []
