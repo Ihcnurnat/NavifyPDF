@@ -1,0 +1,366 @@
+offset: 14
+contents:
+
+  - title: "Front Matter"
+    page_number: -13
+    children: []
+
+  - title: "Part One: Ample Line Bundles and Linear Series"
+    page_number: 4
+    children:
+      - title: "Introduction to Part One"
+        page_number: 5
+        children: []
+
+      - title: "1 Ample and Nef Line Bundles"
+        page_number: 7
+        children:
+          - title: "1.1 Preliminaries: Divisors, Line Bundles, and Linear Series"
+            page_number: 7
+            children:
+              - title: "1.1.A Divisors and Line Bundles"
+                page_number: 8
+                children: []
+              - title: "1.1.B Linear Series"
+                page_number: 12
+                children: []
+              - title: "1.1.C Intersection Numbers and Numerical Equivalence"
+                page_number: 15
+                children: []
+              - title: "1.1.D Riemann-Roch"
+                page_number: 20
+                children: []
+
+          - title: "1.2 The Classical Theory"
+            page_number: 24
+            children:
+              - title: "1.2.A Cohomological Properties"
+                page_number: 25
+                children: []
+              - title: "1.2.B Numerical Properties"
+                page_number: 33
+                children: []
+              - title: "1.2.C Metric Characterizations of Amplitude"
+                page_number: 39
+                children: []
+
+          - title: "1.3 Q-Divisors and R-Divisors"
+            page_number: 44
+            children:
+              - title: "1.3.A Definitions for Q-Divisors"
+                page_number: 44
+                children: []
+              - title: "1.3.B R-Divisors and Their Amplitude"
+                page_number: 48
+                children: []
+
+          - title: "1.4 Nef Line Bundles and Divisors"
+            page_number: 50
+            children:
+              - title: "1.4.A Definitions and Formal Properties"
+                page_number: 51
+                children: []
+              - title: "1.4.B Kleiman's Theorem"
+                page_number: 53
+                children: []
+              - title: "1.4.C Cones"
+                page_number: 59
+                children: []
+              - title: "1.4.D Fujita's Vanishing Theorem"
+                page_number: 65
+                children: []
+
+          - title: "1.5 Examples and Complements"
+            page_number: 70
+            children:
+              - title: "1.5.A Ruled Surfaces"
+                page_number: 70
+                children: []
+              - title: "1.5.B Products of Curves"
+                page_number: 73
+                children: []
+              - title: "1.5.C Abelian Varieties"
+                page_number: 79
+                children: []
+              - title: "1.5.D Other Varieties"
+                page_number: 80
+                children: []
+              - title: "1.5.E Local Structure of the Nef Cone"
+                page_number: 82
+                children: []
+              - title: "1.5.F The Cone Theorem"
+                page_number: 86
+                children: []
+
+          - title: "1.6 Inequalities"
+            page_number: 88
+            children:
+              - title: "1.6.A Global Results"
+                page_number: 88
+                children: []
+              - title: "1.6.B Mixed Multiplicities"
+                page_number: 91
+                children: []
+
+          - title: "1.7 Amplitude for a Mapping"
+            page_number: 94
+            children: []
+
+          - title: "1.8 Castelnuovo-Mumford Regularity"
+            page_number: 98
+            children:
+              - title: "1.8.A Definitions, Formal Properties, and Variants"
+                page_number: 99
+                children: []
+              - title: "1.8.B Regularity and Complexity"
+                page_number: 107
+                children: []
+              - title: "1.8.C Regularity Bounds"
+                page_number: 110
+                children: []
+              - title: "1.8.D Syzygies of Algebraic Varieties"
+                page_number: 115
+                children: []
+
+          - title: "Notes"
+            page_number: 119
+            children: []
+
+      - title: "2 Linear Series"
+        page_number: 120
+        children:
+          - title: "2.1 Asymptotic Theory"
+            page_number: 120
+            children:
+              - title: "2.1.A Basic Definitions"
+                page_number: 121
+                children: []
+              - title: "2.1.B Semiample Line Bundles"
+                page_number: 128
+                children: []
+              - title: "2.1.C Iitaka Fibration"
+                page_number: 133
+                children: []
+
+          - title: "2.2 Big Line Bundles and Divisors"
+            page_number: 139
+            children:
+              - title: "2.2.A Basic Properties of Big Divisors"
+                page_number: 139
+                children: []
+              - title: "2.2.B Pseudoeffective and Big Cones"
+                page_number: 145
+                children: []
+              - title: "2.2.C Volume of a Big Divisor"
+                page_number: 148
+                children: []
+
+          - title: "2.3 Examples and Complements"
+            page_number: 157
+            children:
+              - title: "2.3.A Zariski's Construction"
+                page_number: 158
+                children: []
+              - title: "2.3.B Cutkosky's Construction"
+                page_number: 159
+                children: []
+              - title: "2.3.C Base Loci of Nef and Big Linear Series"
+                page_number: 164
+                children: []
+              - title: "2.3.D The Theorem of Campana and Peternell"
+                page_number: 166
+                children: []
+              - title: "2.3.E Zariski Decompositions"
+                page_number: 167
+                children: []
+
+          - title: "2.4 Graded Linear Series and Families of Ideals"
+            page_number: 172
+            children:
+              - title: "2.4.A Graded Linear Series"
+                page_number: 172
+                children: []
+              - title: "2.4.B Graded Families of Ideals"
+                page_number: 176
+                children: []
+
+          - title: "Notes"
+            page_number: 183
+            children: []
+
+      - title: "3 Geometric Manifestations of Positivity"
+        page_number: 185
+        children:
+          - title: "3.1 The Lefschetz Theorems"
+            page_number: 185
+            children:
+              - title: "3.1.A Topology of Affine Varieties"
+                page_number: 186
+                children: []
+              - title: "3.1.B The Theorem on Hyperplane Sections"
+                page_number: 192
+                children: []
+              - title: "3.1.C Hard Lefschetz Theorem"
+                page_number: 199
+                children: []
+
+          - title: "3.2 Projective Subvarieties of Small Codimension"
+            page_number: 201
+            children:
+              - title: "3.2.A Barth's Theorem"
+                page_number: 201
+                children: []
+              - title: "3.2.B Hartshorne's Conjectures"
+                page_number: 204
+                children: []
+
+          - title: "3.3 Connectedness Theorems"
+            page_number: 207
+            children:
+              - title: "3.3.A Bertini Theorems"
+                page_number: 207
+                children: []
+              - title: "3.3.B Theorem of Fulton and Hansen"
+                page_number: 210
+                children: []
+              - title: "3.3.C Grothendieck's Connectedness Theorem"
+                page_number: 212
+                children: []
+
+          - title: "3.4 Applications of the Fulton-Hansen Theorem"
+            page_number: 213
+            children:
+              - title: "3.4.A Singularities of Mappings"
+                page_number: 214
+                children: []
+              - title: "3.4.B Zak's Theorems"
+                page_number: 219
+                children: []
+              - title: "3.4.C Zariski's Problem"
+                page_number: 227
+                children: []
+
+          - title: "3.5 Variants and Extensions"
+            page_number: 231
+            children:
+              - title: "3.5.A Homogeneous Varieties"
+                page_number: 231
+                children: []
+              - title: "3.5.B Higher Connectivity"
+                page_number: 233
+                children: []
+
+          - title: "Notes"
+            page_number: 237
+            children: []
+
+      - title: "4 Vanishing Theorems"
+        page_number: 239
+        children:
+          - title: "4.1 Preliminaries"
+            page_number: 240
+            children:
+              - title: "4.1.A Normal Crossings and Resolutions of Singularities"
+                page_number: 240
+                children: []
+              - title: "4.1.B Covering Lemmas"
+                page_number: 242
+                children: []
+
+          - title: "4.2 Kodaira and Nakano Vanishing Theorems"
+            page_number: 248
+            children: []
+
+          - title: "4.3 Vanishing for Big and Nef Line Bundles"
+            page_number: 252
+            children:
+              - title: "4.3.A Statement and Proof of the Theorem"
+                page_number: 252
+                children: []
+              - title: "4.3.B Some Applications"
+                page_number: 257
+                children: []
+
+          - title: "4.4 Generic Vanishing Theorem"
+            page_number: 261
+            children: []
+
+          - title: "Notes"
+            page_number: 267
+            children: []
+
+      - title: "5 Local Positivity"
+        page_number: 269
+        children:
+          - title: "5.1 Seshadri Constants"
+            page_number: 269
+            children: []
+
+          - title: "5.2 Lower Bounds"
+            page_number: 278
+            children:
+              - title: "5.2.A Background and Statements"
+                page_number: 278
+                children: []
+              - title: "5.2.B Multiplicities of Divisors in Families"
+                page_number: 282
+                children: []
+              - title: "5.2.C Proof of Theorem 5.2.5"
+                page_number: 286
+                children: []
+
+          - title: "5.3 Abelian Varieties"
+            page_number: 290
+            children:
+              - title: "5.3.A Period Lengths and Seshadri Constants"
+                page_number: 290
+                children: []
+              - title: "5.3.B Proof of Theorem 5.3.6"
+                page_number: 297
+                children: []
+              - title: "5.3.C Complements"
+                page_number: 301
+                children: []
+
+          - title: "5.4 Local Positivity Along an Ideal Sheaf"
+            page_number: 303
+            children:
+              - title: "5.4.A Definition and Formal Properties of the s-Invariant"
+                page_number: 303
+                children: []
+              - title: "5.4.B Complexity Bounds"
+                page_number: 308
+                children: []
+
+          - title: "Notes"
+            page_number: 312
+            children: []
+
+  - title: "Appendices"
+    page_number: 309
+    children:
+      - title: "A Projective Bundles"
+        page_number: 310
+        children: []
+
+      - title: "B Cohomology and Complexes"
+        page_number: 312
+        children:
+          - title: "B.1 Cohomology"
+            page_number: 312
+            children: []
+          - title: "B.2 Complexes"
+            page_number: 315
+            children: []
+
+  - title: "References"
+    page_number: 320
+    children: []
+
+  - title: "Glossary of Notation"
+    page_number: 353
+    children: []
+
+  - title: "Index"
+    page_number: 359
+    children: []

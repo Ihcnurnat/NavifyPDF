@@ -1,0 +1,170 @@
+offset: 0
+contents:
+  - title: "Algebraic Geometry I Wintersemester 2016/17"
+    page_number: 1
+    children: 
+      - title: "Contents"
+        page_number: 2
+        children: []
+      - title: "1 Affine Algebraic Varieties"
+        page_number: 4
+        children: []
+      - title: "2 Affine Schemes"
+        page_number: 10
+        children: []
+      - title: "3 Topological Properties of Spec A"
+        page_number: 14
+        children: []
+      - title: "4 Spec A has a Natural Sheaf"
+        page_number: 18
+        children: []
+      - title: "5 General Sheaf Theory"
+        page_number: 22
+        children: []
+      - title: "6 Locally Ringed Spaces and Schemes"
+        page_number: 26
+        children: []
+      - title: "7 Affine Schemes with Structure Sheaf are Rings"
+        page_number: 30
+        children: []
+      - title: "8 Scheme Valued Points and Fibre Products"
+        page_number: 34
+        children: []
+      - title: "9 Examples, History, and Motivation"
+        page_number: 37
+        children: []
+      - title: "10 Projective Space"
+        page_number: 39
+        children: []
+      - title: "11 Quasi-Coherent Sheaves and Closed Immersion"
+        page_number: 42
+        children: []
+      - title: "12 Vector Bundles and the Picard Group"
+        page_number: 47
+        children: []
+      - title: "13 Finiteness Conditions and Dimension"
+        page_number: 51
+        children: []
+      - title: "14 Krull Dimension and (Pre)Varieties"
+        page_number: 55
+        children: []
+      - title: "15 Separated Schemes and Locally Closed Immersions"
+        page_number: 58
+        children: []
+      - title: "16 Proper Maps of Schemes"
+        page_number: 62
+        children: []
+      - title: "17 Internal Hom Sheaves and Affine Morphisms"
+        page_number: 65
+        children: []
+      - title: "18 Valuations and Valuation Rings"
+        page_number: 69
+        children: []
+      - title: "19 Separated and Properness Criterions"
+        page_number: 73
+        children: []
+      - title: "20 Normal Schemes and Curves"
+        page_number: 77
+        children: []
+      - title: "21 Normalisations"
+        page_number: 80
+        children: []
+      - title: "22 Function Fields"
+        page_number: 84
+        children: []
+      - title: "23 Topology on the Adic Spectrum"
+        page_number: 87
+        children: []
+      - title: "24 Proper Normal Curves are Field Extensions"
+        page_number: 91
+        children: []
+      - title: "25 An Example and Ample Line Bundles"
+        page_number: 94
+        children: []
+      - title: "26 Ample Line Bundles and Quasi-Projectiveness"
+        page_number: 97
+        children: []
+      - title: "27 Separated Curves are Quasi-Projective"
+        page_number: 100
+        children: []
+      - title: "28 Divisors and the Picard Group of a Curve"
+        page_number: 103
+        children: []
+      - title: "29 Towards Sheaf Cohomology and Next Semester"
+        page_number: 107
+        children: []
+  - title: "Algebraic Geometry II Sommersemester 2017"
+    page_number: 111
+    children:
+      - title: "Contents"
+        page_number: 113
+        children: []
+      - title: "1 Overview of the Course"
+        page_number: 117
+        children: []
+      - title: "2 Flatness"
+        page_number: 120
+        children: []
+      - title: "3 Faithfully Flat Descent"
+        page_number: 125
+        children: []
+      - title: "4 Smoothness"
+        page_number: 129
+        children: []
+      - title: "5 Kähler Differentials"
+        page_number: 134
+        children: []
+      - title: "6 Smoothness and the Jacobi Criterion"
+        page_number: 140
+        children: []
+      - title: "7 Smoothness is Local on Source"
+        page_number: 146
+        children: []
+      - title: "8 The First Sheaf Cohomology Group"
+        page_number: 150
+        children: []
+      - title: "9 Homological Algebra I (Derived Functors)"
+        page_number: 154
+        children: []
+      - title: "10 Homological Algebra II (Homotopy Categories)"
+        page_number: 159
+        children: []
+      - title: "11 Homological Algebra III (Derived Categories)"
+        page_number: 164
+        children: []
+      - title: "12 Čech Cohomology"
+        page_number: 170
+        children: []
+      - title: "13 Finiteness in Cohomology I"
+        page_number: 174
+        children: []
+      - title: "14 Finiteness in Cohomology II"
+        page_number: 178
+        children: []
+      - title: "15 Affine Criterion and Base Change"
+        page_number: 182
+        children: []
+      - title: "16 Generalised Base Change and ⊗L"
+        page_number: 187
+        children: []
+      - title: "17 Finiteness of RΓ(X, M) and Riemann-Roch"
+        page_number: 191
+        children: []
+      - title: "18 Ext Functor and Serre Duality"
+        page_number: 195
+        children: []
+      - title: "19 Ext Functor and the Proof of Serre Duality"
+        page_number: 200
+        children: []
+      - title: "20 Formal Functions"
+        page_number: 205
+        children: []
+      - title: "21 Zariski's Main Theorem and Consequences"
+        page_number: 210
+        children: []
+      - title: "22 Relatively Ample Line Bundles"
+        page_number: 214
+        children: []
+      - title: "23 Left Derived Functors and Tor"
+        page_number: 219
+        children: []

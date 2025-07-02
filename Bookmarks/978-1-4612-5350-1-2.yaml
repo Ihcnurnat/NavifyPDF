@@ -1,0 +1,1133 @@
+offset: 16  # Applied programmatically by main.py
+contents:
+  - title: "Front Matter"
+    page_number: -15
+    children: []
+  - title: "Contents"
+    page_number: -9
+    children: []
+
+  - title: "Introduction"
+    page_number: 1
+    children: 
+      - title: "Advice for the Beginner"
+        page_number: 2
+        children: []
+
+      - title: "Information for the Expert"
+        page_number: 2
+        children: []
+
+      - title: "Prerequisites"
+        page_number: 6
+        children: []
+
+      - title: "Sources"
+        page_number: 6
+        children: []
+
+      - title: "Courses"
+        page_number: 7
+        children: []
+
+      - title: "A First Course"
+        page_number: 7
+        children: []
+
+      - title: "A Second Course"
+        page_number: 8
+        children: []
+
+      - title: "Acknowledgements"
+        page_number: 9
+        children: []
+
+  - title: "Elementary Definitions"
+    page_number: 11
+    children:
+      - title: "Rings and Ideals"
+        page_number: 11
+        children: []
+      - title: "Unique Factorization"
+        page_number: 13
+        children: []
+      - title: "Modules"
+        page_number: 15
+        children: []
+
+  - title: "I Basic Constructions"
+    page_number: 18
+    children:
+      - title: "1 Roots of Commutative Algebra"
+        page_number: 19
+        children:
+          - title: "1.1 Number Theory"
+            page_number: 19
+            children: []
+          - title: "1.2 Algebraic Curves and Function Theory"
+            page_number: 23
+            children: []
+          - title: "1.3 Invariant Theory"
+            page_number: 24
+            children: []
+          - title: "1.4 The Basis Theorem"
+            page_number: 26
+            children:
+              - title: "1.4.1 Finite Generation of Invariants"
+                page_number: 29
+                children: []
+
+          - title: "1.5 Graded Rings"
+            page_number: 29
+            children: []
+          - title: "1.6 Algebra and Geometry: The Nullstellensatz"
+            page_number: 31
+            children: []
+          - title: "1.7 Geometric Invariant Theory"
+            page_number: 37
+            children: []
+          - title: "1.8 Projective Varieties"
+            page_number: 39
+            children: []
+          - title: "1.9 Hilbert Functions and Polynomials"
+            page_number: 41
+            children: []
+          - title: "1.10 Free Resolutions and the Syzygy Theorem"
+            page_number: 44
+            children: []
+          - title: "Exercises"
+            page_number: 46
+            children: 
+              - title: "Noetherian Rings and Modules"
+                page_number: 46
+                children: []
+              - title: "An Analysis of Hilbert's Finiteness Argument"
+                page_number: 47
+                children: []
+              - title: "Some Rings of Invariants"
+                page_number: 47
+                children: []
+              - title: "Algebra and Geometry"
+                page_number: 49
+                children: []
+              - title: "Graded Rings and Projective Geometry"
+                page_number: 51
+                children: []
+              - title: "Hilbert Functions"
+                page_number: 53
+                children: []
+              - title: "Free Resolutions"
+                page_number: 54
+                children: []
+              - title: "Spec, max-Spec, and the Zariski Topology"
+                page_number: 54
+                children: []
+
+      - title: "2 Localization"
+        page_number: 55
+        children:
+          - title: "Fractions"
+            page_number: 57
+            children: []
+          - title: "Hom and Tensor"
+            page_number: 60
+            children: []
+          - title: "The Construction of Primes"
+            page_number: 68
+            children: []
+          - title: "Rings and Modules of Finite Length"
+            page_number: 71
+            children: []
+          - title: "Products of Domains"
+            page_number: 78
+            children: []
+          - title: "Exercises"
+            page_number: 63
+            children: 
+              - title: "Z-graded Rings and Their Localizations"
+                page_number: 79
+                children: []
+              - title: "Partitions of Unity"
+                page_number: 81
+                children: []
+              - title: "Gluing"
+                page_number: 82
+                children: []
+              - title: "Constructing Primes"
+                page_number: 85
+                children: []
+              - title: "Idempotents, Products, and Connected Components"
+                page_number: 85
+                children: []
+
+      - title: "3 Associated Primes and Primary Decomposition"
+        page_number: 87
+        children:
+          - title: "Associated Primes"
+            page_number: 89
+            children: []
+          - title: "Prime Avoidance"
+            page_number: 90
+            children: []
+          - title: "Primary Decomposition"
+            page_number: 94
+            children: []
+          - title: "Primary Decomposition and Factoriality"
+            page_number: 98
+            children: []
+          - title: "Primary Decomposition in the Graded Case"
+            page_number: 99
+            children: []
+          - title: "Extracting Information from Primary Decomposition"
+            page_number: 100
+            children: []
+          - title: "Why Primary Decomposition Is Not Unique"
+            page_number: 102
+            children: []
+          - title: "Geometric Interpretation of Primary Decomposition"
+            page_number: 103
+            children: []
+          - title: "Symbolic Powers and Functions Vanishing to High Order"
+            page_number: 105
+            children:
+              - title: "A Determinantal Example"
+                page_number: 106
+                children: []
+          - title: "Exercises"
+            page_number: 108
+            children: []
+
+      - title: "General Graded Primary Decomposition"
+        page_number: 111
+        children: []
+
+      - title: "Primary Decomposition of Monomial Ideals"
+        page_number: 111
+        children: []
+
+      - title: "The Question of Uniqueness"
+        page_number: 112
+        children: []
+
+      - title: "Determinantal Ideals"
+        page_number: 112
+        children: []
+
+      - title: "Total Quotients"
+        page_number: 113
+        children: []
+
+      - title: "Prime Avoidance"
+        page_number: 113
+        children: []
+
+      - title: "4 Integral Dependence and the Nullstellensatz"
+        page_number: 117
+        children:
+          - title: "The Cayley-Hamilton Theorem and Nakayama's Lemma"
+            page_number: 119
+            children: []
+          - title: "Normal Domains and the Normalization Process"
+            page_number: 125
+            children: []
+          - title: "Normalization in the Analytic Case"
+            page_number: 128
+            children: []
+          - title: "Primes in an Integral Extension"
+            page_number: 129
+            children: []
+          - title: "The Nullstellensatz"
+            page_number: 131
+            children: []
+          - title: "Exercises"
+            page_number: 135
+            children: []
+
+      - title: "Nakayama's Lemma"
+        page_number: 135
+        children: []
+
+      - title: "Projective Modules and Locally Free Modules"
+        page_number: 136
+        children: []
+
+      - title: "Integral Closure of Ideals"
+        page_number: 137
+        children: []
+
+      - title: "Normalization"
+        page_number: 137
+        children: []
+
+      - title: "Normalization and Convexity"
+        page_number: 138
+        children: []
+
+      - title: "Nullstellensatz"
+        page_number: 141
+        children: []
+
+      - title: "Three More Proofs of the Nullstellensatz"
+        page_number: 142
+        children: []
+
+      - title: "5 Filtrations and the Artin-Rees Lemma"
+        page_number: 145
+        children:
+          - title: "Associated Graded Rings and Modules"
+            page_number: 146
+            children: []
+          - title: "The Blowup Algebra"
+            page_number: 148
+            children: []
+          - title: "The Krull Intersection Theorem"
+            page_number: 150
+            children: []
+          - title: "The Tangent Cone"
+            page_number: 151
+            children: []
+          - title: "Exercises"
+            page_number: 151
+            children: []
+
+      - title: "6 Flat Families"
+        page_number: 155
+        children:
+          - title: "Elementary Examples"
+            page_number: 157
+            children: []
+          - title: "Introduction to Tor"
+            page_number: 159
+            children: []
+          - title: "Criteria for Flatness"
+            page_number: 161
+            children: []
+          - title: "The Local Criterion for Flatness"
+            page_number: 166
+            children: []
+          - title: "The Rees Algebra"
+            page_number: 170
+            children: []
+          - title: "Exercises"
+            page_number: 171
+            children: []
+
+      - title: "Flat Families of Graded Modules"
+        page_number: 175
+        children: []
+
+      - title: "Embedded First-Order Deformations"
+        page_number: 175
+        children: []
+
+      - title: "7 Completions and Hensel's Lemma"
+        page_number: 179
+        children:
+          - title: "Examples and Definitions"
+            page_number: 179
+            children: []
+          - title: "The Utility of Completions"
+            page_number: 182
+            children: []
+          - title: "Lifting Idempotents"
+            page_number: 186
+            children: []
+          - title: "Cohen Structure Theory and Coefficient Fields"
+            page_number: 189
+            children: []
+          - title: "Basic Properties of Completion"
+            page_number: 192
+            children: []
+          - title: "Maps from Power Series Rings"
+            page_number: 198
+            children: []
+          - title: "Exercises"
+            page_number: 203
+            children: []
+
+      - title: "Modules Whose Completions Are Isomorphic"
+        page_number: 203
+        children: []
+
+      - title: "The Krull Topology and Cauchy Sequences"
+        page_number: 204
+        children: []
+
+      - title: "Completions from Power Series"
+        page_number: 205
+        children: []
+
+      - title: "Coefficient Fields"
+        page_number: 205
+        children: []
+
+      - title: "Other Versions of Hensel's Lemma"
+        page_number: 206
+        children: []
+
+  - title: "II Dimension Theory"
+    page_number: 206
+    children:
+      - title: "8 Introduction to Dimension Theory"
+        page_number: 213
+        children:
+          - title: "Axioms for Dimension"
+            page_number: 218
+            children: []
+          - title: "Other Characterizations of Dimension"
+            page_number: 220
+            children:
+              - title: "Affine Rings and Noether Normalization"
+                page_number: 221
+                children: []
+              - title: "Systems of Parameters and Krull's Principal Ideal Theorem"
+                page_number: 222
+                children: []
+              - title: "The Degree of the Hilbert Polynomial"
+                page_number: 223
+                children: []
+
+      - title: "9 Fundamental Definitions of Dimension Theory"
+        page_number: 225
+        children:
+          - title: "Dimension Zero"
+            page_number: 227
+            children: []
+          - title: "Exercises"
+            page_number: 228
+            children: []
+
+      - title: "10 The Principal Ideal Theorem and Systems of Parameters"
+        page_number: 231
+        children:
+          - title: "Systems of Parameters and Parameter Ideals"
+            page_number: 234
+            children: []
+          - title: "Dimension of Base and Fiber"
+            page_number: 236
+            children: []
+          - title: "Regular Local Rings"
+            page_number: 240
+            children: []
+          - title: "Exercises"
+            page_number: 242
+            children: []
+
+      - title: "Determinantal Ideals"
+        page_number: 244
+        children: []
+
+      - title: "Hilbert Series of a Graded Module"
+        page_number: 245
+        children: []
+
+      - title: "11 Dimension and Codimension One"
+        page_number: 247
+        children:
+          - title: "Discrete Valuation Rings"
+            page_number: 247
+            children: []
+          - title: "Normal Rings and Serre's Criterion"
+            page_number: 249
+            children: []
+          - title: "Invertible Modules"
+            page_number: 253
+            children: []
+          - title: "Unique Factorization of Codimension-One Ideals"
+            page_number: 256
+            children: []
+          - title: "Divisors and Multiplicities"
+            page_number: 259
+            children: []
+          - title: "Multiplicity of Principal Ideals"
+            page_number: 261
+            children: []
+          - title: "Exercises"
+            page_number: 264
+            children: []
+
+      - title: "Valuation Rings"
+        page_number: 264
+        children: []
+
+      - title: "The Grothendieck Ring"
+        page_number: 265
+        children: []
+
+      - title: "12 Dimension and Hilbert-Samuel Polynomials"
+        page_number: 271
+        children:
+          - title: "Hilbert-Samuel Functions"
+            page_number: 272
+            children: []
+          - title: "Exercises"
+            page_number: 275
+            children: []
+
+      - title: "Analytic Spread and the Fiber of a Blowup"
+        page_number: 276
+        children: []
+
+      - title: "Multiplicities"
+        page_number: 276
+        children: []
+
+      - title: "Hilbert Series"
+        page_number: 280
+        children: []
+
+      - title: "13 The Dimension of Affine Rings"
+        page_number: 281
+        children:
+          - title: "Noether Normalization"
+            page_number: 281
+            children: []
+          - title: "The Nullstellensatz"
+            page_number: 292
+            children: []
+          - title: "Finiteness of the Integral Closure"
+            page_number: 292
+            children: []
+          - title: "Exercises"
+            page_number: 296
+            children: []
+
+      - title: "Quotients by Finite Groups"
+        page_number: 296
+        children: []
+
+      - title: "Primes in Polynomial Rings"
+        page_number: 297
+        children: []
+
+      - title: "Dimension in the Graded Case"
+        page_number: 297
+        children: []
+
+      - title: "Noether Normalization in the Complete Case"
+        page_number: 298
+        children: []
+
+      - title: "Products and Reduction to the Diagonal"
+        page_number: 299
+        children: []
+
+      - title: "Equational Characterization of Systems of Parameters"
+        page_number: 301
+        children: []
+
+      - title: "14 Elimination Theory, Generic Freeness, and the Dimension of Fibers"
+        page_number: 303
+        children:
+          - title: "Elimination Theory"
+            page_number: 303
+            children: []
+          - title: "Generic Freeness"
+            page_number: 307
+            children: []
+          - title: "The Dimension of Fibers"
+            page_number: 308
+            children: []
+          - title: "Exercises"
+            page_number: 314
+            children: []
+
+      - title: "Elimination Theory"
+        page_number: 314
+        children: []
+
+      - title: "15 Gröbner Bases"
+        page_number: 317
+        children:
+          - title: "Constructive Module Theory"
+            page_number: 318
+            children: []
+          - title: "Elimination Theory"
+            page_number: 318
+            children: []
+          - title: "Monomials and Terms"
+            page_number: 319
+            children:
+              - title: "Hilbert Function and Polynomial"
+                page_number: 320
+                children: []
+              - title: "Syzygies of Monomial Submodules"
+                page_number: 322
+                children: []
+          - title: "Monomial Orders"
+            page_number: 323
+            children: []
+          - title: "The Division Algorithm"
+            page_number: 330
+            children: []
+          - title: "Gröbner Bases"
+            page_number: 331
+            children: []
+          - title: "Syzygies"
+            page_number: 334
+            children: []
+          - title: "History of Gröbner Bases"
+            page_number: 337
+            children: []
+          - title: "A Property of Reverse Lexicographic Order"
+            page_number: 338
+            children: []
+          - title: "Gröbner Bases and Flat Families"
+            page_number: 342
+            children: []
+          - title: "Generic Initial Ideals"
+            page_number: 348
+            children:
+              - title: "Existence of the Generic Initial Ideal"
+                page_number: 349
+                children: []
+              - title: "The Generic Initial Ideal is Borel-Fixed"
+                page_number: 351
+                children: []
+              - title: "The Nature of Borel-Fixed Ideals"
+                page_number: 352
+                children: []
+          - title: "Applications"
+            page_number: 355
+            children:
+              - title: "Ideal Membership"
+                page_number: 355
+                children: []
+              - title: "Hilbert Function and Polynomial"
+                page_number: 355
+                children: []
+              - title: "Associated Graded Ring"
+                page_number: 356
+                children: []
+              - title: "Elimination"
+                page_number: 357
+                children: []
+              - title: "Projective Closure and Ideal at Infinity"
+                page_number: 359
+                children: []
+              - title: "Saturation"
+                page_number: 360
+                children: []
+          - title: "Lifting Homomorphisms"
+            page_number: 360
+            children: []
+          - title: "Syzygies and Constructive Module Theory"
+            page_number: 361
+            children: []
+          - title: "What's Left?"
+            page_number: 363
+            children: []
+          - title: "Exercises"
+            page_number: 365
+            children: []
+          - title: "Appendix: Some Computer Algebra Projects"
+            page_number: 375
+            children:
+              - title: "Project 1. Zero-Dimensional Gorenstein Ideals"
+                page_number: 376
+                children: []
+              - title: "Project 2. Factoring Out a General Element from an 8th Syzygy"
+                page_number: 377
+                children: []
+              - title: "Project 3. Resolutions over Hypersurfaces"
+                page_number: 377
+                children: []
+              - title: "Project 4. Rational Curves of Degree r + 1 in P^r"
+                page_number: 378
+                children: []
+              - title: "Project 5. Regularity of Rational Curves"
+                page_number: 378
+                children: []
+              - title: "Project 6. Some Monomial Curve Singularities"
+                page_number: 379
+                children: []
+              - title: "Project 7. Some Interesting Prime Ideals"
+                page_number: 379
+                children: []
+
+      - title: "16 Modules of Differentials"
+        page_number: 383
+        children:
+          - title: "Computation of Differentials"
+            page_number: 387
+            children: []
+          - title: "Differentials and the Cotangent Bundle"
+            page_number: 388
+            children: []
+          - title: "Colimits and Localization"
+            page_number: 391
+            children: []
+          - title: "Tangent Vector Fields and Infinitesimal Morphisms"
+            page_number: 396
+            children: []
+          - title: "Differentials and Field Extensions"
+            page_number: 397
+            children: []
+          - title: "Jacobian Criterion for Regularity"
+            page_number: 401
+            children: []
+          - title: "Smoothness and Generic Smoothness"
+            page_number: 404
+            children: []
+          - title: "Appendix: Another Construction of Kähler Differentials"
+            page_number: 407
+            children: []
+          - title: "Exercises"
+            page_number: 409
+            children: []
+
+  - title: "III Homological Methods"
+    page_number: 405
+    children:
+      - title: "17 Regular Sequences and the Koszul Complex"
+        page_number: 419
+        children:
+          - title: "Koszul Complexes of Lengths 1 and 2"
+            page_number: 420
+            children: []
+          - title: "Koszul Complexes in General"
+            page_number: 423
+            children: []
+          - title: "Building the Koszul Complex from Parts"
+            page_number: 427
+            children: []
+          - title: "Duality and Homotopies"
+            page_number: 432
+            children: []
+          - title: "The Koszul Complex and the Cotangent Bundle of Projective Space"
+            page_number: 435
+            children: []
+          - title: "Exercises"
+            page_number: 437
+            children: []
+
+      - title: "Free Resolutions of Monomial Ideals"
+        page_number: 439
+        children: []
+
+      - title: "Conormal Sequence of a Complete Intersection"
+        page_number: 440
+        children: []
+
+      - title: "Regular Sequences Are Like Sequences of Variables"
+        page_number: 440
+        children: []
+
+      - title: "Blowup Algebra and Normal Cone of a Regular Sequence"
+        page_number: 441
+        children: []
+
+      - title: "Geometric Contexts of the Koszul Complex"
+        page_number: 442
+        children: []
+
+      - title: "18 Depth, Codimension, and Cohen-Macaulay Rings"
+        page_number: 447
+        children:
+          - title: "Depth"
+            page_number: 447
+            children:
+              - title: "Depth and the Vanishing of Ext"
+                page_number: 449
+                children: []
+          - title: "Cohen-Macaulay Rings"
+            page_number: 451
+            children: []
+          - title: "Proving Primeness with Serre's Criterion"
+            page_number: 457
+            children: []
+          - title: "Flatness and Depth"
+            page_number: 460
+            children: []
+          - title: "Some Examples"
+            page_number: 462
+            children: []
+          - title: "Exercises"
+            page_number: 465
+            children: []
+
+      - title: "19 Homological Theory of Regular Local Rings"
+        page_number: 469
+        children:
+          - title: "Projective Dimension and Minimal Resolutions"
+            page_number: 469
+            children: []
+          - title: "Global Dimension and the Syzygy Theorem"
+            page_number: 474
+            children: []
+          - title: "Depth and Projective Dimension: The Auslander-Buchsbaum Formula"
+            page_number: 475
+            children: []
+          - title: "Stably Free Modules and Factoriality of Regular Local Rings"
+            page_number: 480
+            children: []
+          - title: "Exercises"
+            page_number: 483
+            children: []
+
+      - title: "Regular Rings"
+        page_number: 484
+        children: []
+
+      - title: "Modules over a Dedekind Domain"
+        page_number: 485
+        children: []
+
+      - title: "The Auslander-Buchsbaum Formula"
+        page_number: 485
+        children: []
+
+      - title: "Projective Dimension and Cohen-Macaulay Rings"
+        page_number: 487
+        children: []
+
+      - title: "Hilbert Function and Grothendieck Group"
+        page_number: 487
+        children: []
+
+      - title: "The Chern Polynomial"
+        page_number: 487
+        children: []
+
+      - title: "20 Free Resolutions and Fitting Invariants"
+        page_number: 489
+        children:
+          - title: "The Uniqueness of Free Resolutions"
+            page_number: 490
+            children: []
+          - title: "Fitting Ideals"
+            page_number: 492
+            children: []
+          - title: "What Makes a Complex Exact?"
+            page_number: 496
+            children: []
+          - title: "The Hilbert-Burch Theorem"
+            page_number: 501
+            children:
+              - title: "Cubic Surfaces and Sextuples of Points in the Plane"
+                page_number: 503
+                children: []
+          - title: "Castelnuovo-Mumford Regularity"
+            page_number: 504
+            children:
+              - title: "Regularity and Hyperplane Sections"
+                page_number: 508
+                children: []
+              - title: "Regularity of Generic Initial Ideals"
+                page_number: 509
+                children: []
+              - title: "Historical Notes on Regularity"
+                page_number: 509
+                children: []
+          - title: "Exercises"
+            page_number: 510
+            children: []
+
+      - title: "Fitting Ideals and the Structure of Modules"
+        page_number: 510
+        children: []
+
+      - title: "Projectives of Constant Rank"
+        page_number: 513
+        children: []
+
+      - title: "Castelnuovo-Mumford Regularity"
+        page_number: 516
+        children: []
+
+      - title: "21 Duality, Canonical Modules, and Gorenstein Rings"
+        page_number: 519
+        children:
+          - title: "Duality for Modules of Finite Length"
+            page_number: 520
+            children: []
+          - title: "Zero-Dimensional Gorenstein Rings"
+            page_number: 525
+            children: []
+          - title: "Canonical Modules and Gorenstein Rings in Higher Dimension"
+            page_number: 528
+            children: []
+          - title: "Maximal Cohen-Macaulay Modules"
+            page_number: 529
+            children: []
+          - title: "Modules of Finite Injective Dimension"
+            page_number: 530
+            children: []
+          - title: "Uniqueness and (Often) Existence"
+            page_number: 534
+            children: []
+          - title: "Localization and Completion of the Canonical Module"
+            page_number: 536
+            children: []
+          - title: "Complete Intersections and Other Gorenstein Rings"
+            page_number: 537
+            children: []
+          - title: "Duality for Maximal Cohen-Macaulay Modules"
+            page_number: 538
+            children: []
+          - title: "Linkage"
+            page_number: 539
+            children: []
+          - title: "Duality in the Graded Case"
+            page_number: 545
+            children: []
+          - title: "Exercises"
+            page_number: 546
+            children:
+              - title: "The Zero-Dimensional Case and Duality"
+                page_number: 546
+                children: []
+              - title: "Higher Dimension"
+                page_number: 548
+                children: []
+              - title: "The Canonical Module as Ideal"
+                page_number: 551
+                children: []
+              - title: "Linkage and the Cayley-Bacharach Theorem"
+                page_number: 552
+                children: []
+
+  - title: "Appendix 1 Field Theory"
+    page_number: 555
+    children:
+      - title: "Transcendence Degree"
+        page_number: 555
+        children: []
+      - title: "Separability"
+        page_number: 557
+        children: []
+      - title: "p-Bases"
+        page_number: 559
+        children:
+          - title: "Exercises"
+            page_number: 562
+            children: []
+
+  - title: "Appendix 2 Multilinear Algebra"
+    page_number: 565
+    children:
+      - title: "Introduction"
+        page_number: 565
+        children: []
+      - title: "Tensor Products"
+        page_number: 567
+        children: []
+      - title: "Symmetric and Exterior Algebras"
+        page_number: 569
+        children:
+          - title: "Bases"
+            page_number: 572
+            children: []
+          - title: "Exercises"
+            page_number: 574
+            children: []
+      - title: "Coalgebra Structures and Divided Powers"
+        page_number: 575
+        children:
+          - title: "S(M)* and S(M) as Modules over One Another"
+            page_number: 582
+            children: []
+      - title: "Schur Functors"
+        page_number: 584
+        children:
+          - title: "Exercises"
+            page_number: 587
+            children: []
+      - title: "Complexes Constructed by Multilinear Algebra"
+        page_number: 589
+        children:
+          - title: "Strands of the Koszul Complex"
+            page_number: 591
+            children: []
+          - title: "Exercises"
+            page_number: 603
+            children: []
+
+  - title: "Appendix 3 Homological Algebra"
+    page_number: 611
+    children:
+      - title: "Introduction"
+        page_number: 611
+        children: []
+      - title: "Part I: Resolutions and Derived Functors"
+        page_number: 614
+        children:
+          - title: "Free and Projective Modules"
+            page_number: 615
+            children: []
+          - title: "Free and Projective Resolutions"
+            page_number: 617
+            children: []
+          - title: "Injective Modules and Resolutions"
+            page_number: 618
+            children:
+              - title: "Exercises"
+                page_number: 623
+                children: []
+              - title: "Injective Envelopes"
+                page_number: 623
+                children: []
+              - title: "Injective Modules over Noetherian Rings"
+                page_number: 623
+                children: []
+          - title: "Basic Constructions with Complexes"
+            page_number: 626
+            children:
+              - title: "Notation and Definitions"
+                page_number: 626
+                children: []
+          - title: "Maps and Homotopies of Complexes"
+            page_number: 627
+            children: []
+          - title: "Exact Sequences of Complexes"
+            page_number: 631
+            children:
+              - title: "Exercises"
+                page_number: 632
+                children: []
+          - title: "The Long Exact Sequence in Homology"
+            page_number: 632
+            children:
+              - title: "Exercises"
+                page_number: 634
+                children: []
+          - title: "Diagrams and Syzygies"
+            page_number: 634
+            children: []
+          - title: "Derived Functors"
+            page_number: 636
+            children:
+              - title: "Exercise on Derived Functors"
+                page_number: 639
+                children: []
+          - title: "Tor"
+            page_number: 639
+            children:
+              - title: "Exercises: Tor"
+                page_number: 639
+                children: []
+          - title: "Ext"
+            page_number: 642
+            children:
+              - title: "Exercises: Ext"
+                page_number: 645
+                children: []
+              - title: "Local Cohomology"
+                page_number: 649
+                children: []
+      - title: "Part II: From Mapping Cones to Spectral Sequences"
+        page_number: 650
+        children:
+          - title: "The Mapping Cone and Double Complexes"
+            page_number: 650
+            children:
+              - title: "Exercises: Mapping Cones and Double Complexes"
+                page_number: 654
+                children: []
+          - title: "Spectral Sequences"
+            page_number: 656
+            children:
+              - title: "Mapping Cones Revisited"
+                page_number: 657
+                children: []
+              - title: "Exact Couples"
+                page_number: 658
+                children: []
+              - title: "Filtered Differential Modules and Complexes"
+                page_number: 661
+                children: []
+              - title: "The Spectral Sequence of a Double Complex"
+                page_number: 665
+                children: []
+              - title: "Exact Sequence of Terms of Low Degree"
+                page_number: 670
+                children: []
+              - title: "Exercises on Spectral Sequences"
+                page_number: 671
+                children: []
+          - title: "Derived Categories"
+            page_number: 677
+            children:
+              - title: "Step One: The Homotopy Category of Complexes"
+                page_number: 678
+                children: []
+              - title: "Step Two: The Derived Category"
+                page_number: 679
+                children: []
+              - title: "Exercises on the Derived Category"
+                page_number: 682
+                children: []
+
+  - title: "Appendix 4 A Sketch of Local Cohomology"
+    page_number: 683
+    children:
+      - title: "Local Cohomology and Global Cohomology"
+        page_number: 684
+        children: []
+      - title: "Local Duality"
+        page_number: 686
+        children: []
+      - title: "Depth and Dimension"
+        page_number: 686
+        children: []
+
+  - title: "Appendix 5 Category Theory"
+    page_number: 689
+    children:
+      - title: "Categories, Functors, and Natural Transformations"
+        page_number: 689
+        children: []
+      - title: "Adjoint Functors"
+        page_number: 691
+        children:
+          - title: "Uniqueness"
+            page_number: 692
+            children: []
+          - title: "Some Examples"
+            page_number: 692
+            children: []
+          - title: "Another Characterization of Adjoints"
+            page_number: 693
+            children: []
+          - title: "Adjoints and Limits"
+            page_number: 694
+            children: []
+      - title: "Representable Functors and Yoneda's Lemma"
+        page_number: 695
+        children: []
+
+  - title: "Appendix 6 Limits and Colimits"
+    page_number: 697
+    children:
+      - title: "Colimits in the Category of Modules"
+        page_number: 700
+        children: []
+      - title: "Flat Modules as Colimits of Free Modules"
+        page_number: 702
+        children: []
+      - title: "Colimits in the Category of Commutative Algebras"
+        page_number: 704
+        children: []
+      - title: "Exercises"
+        page_number: 707
+        children: []
+
+  - title: "Appendix 7 Where Next?"
+    page_number: 709
+    children: []
+
+  - title: "Hints and Solutions for Selected Exercises"
+    page_number: 711
+    children: []
+
+  - title: "References"
+    page_number: 745
+    children: []
+
+  - title: "Index of Notation"
+    page_number: 763
+    children: []
+
+  - title: "Index"
+    page_number: 767
+    children: []
