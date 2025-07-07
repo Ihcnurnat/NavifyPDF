@@ -1,0 +1,343 @@
+offset: 13
+contents:
+  - title: "Moduli of Curves"
+    page_number: -12
+    children: []
+  - title: "Preface"
+    page_number: -6
+    children: []
+  - title: "Contents"
+    page_number: -2
+    children: []
+  
+  - title: "1 Parameter spaces: constructions and examples"
+    page_number: 1
+    children:
+      - title: "A Parameters and moduli"
+        page_number: 1
+        children: []
+      - title: "B Construction of the Hilbert scheme"
+        page_number: 5
+        children: []
+      - title: "C Tangent space to the Hilbert scheme"
+        page_number: 12
+        children: []
+      - title: "D Extrinsic pathologies"
+        page_number: 18
+        children:
+          - title: "Mumford's example"
+            page_number: 19
+            children: []
+          - title: "Other examples"
+            page_number: 24
+            children: []
+      - title: "E Dimension of the Hilbert scheme"
+        page_number: 26
+        children: []
+      - title: "F Severi varieties"
+        page_number: 29
+        children: []
+      - title: "G Hurwitz schemes"
+        page_number: 32
+        children: []
+
+  - title: "2 Basic facts about moduli spaces of curves"
+    page_number: 35
+    children:
+      - title: "A Why do fine moduli spaces of curves not exist?"
+        page_number: 35
+        children: []
+      - title: "B Moduli spaces we'll be concerned with"
+        page_number: 40
+        children: []
+      - title: "C Constructions of Mg"
+        page_number: 43
+        children:
+          - title: "The Teichmüller approach"
+            page_number: 43
+            children: []
+          - title: "The Hodge theory approach"
+            page_number: 44
+            children: []
+          - title: "The geometric invariant theory (G.I.T.) approach"
+            page_number: 46
+            children: []
+      - title: "D Geometric and topological properties"
+        page_number: 52
+        children:
+          - title: "Basic properties"
+            page_number: 52
+            children: []
+          - title: "Local properties"
+            page_number: 52
+            children: []
+          - title: "Complete subvarieties of Mg"
+            page_number: 55
+            children: []
+          - title: "Cohomology of Mg: Harer's theorems"
+            page_number: 58
+            children: []
+          - title: "Cohomology of the universal curve"
+            page_number: 62
+            children: []
+          - title: "Cohomology of Hilbert schemes"
+            page_number: 63
+            children: []
+          - title: "Structure of the tautological ring"
+            page_number: 67
+            children: []
+          - title: "Witten's conjectures and Kontsevich's theorem"
+            page_number: 71
+            children: []
+      - title: "E Moduli spaces of stable maps"
+        page_number: 76
+        children: []
+
+  - title: "3 Techniques"
+    page_number: 81
+    children:
+      - title: "A Basic facts about nodal and stable curves"
+        page_number: 81
+        children:
+          - title: "Dualizing sheaves"
+            page_number: 82
+            children: []
+          - title: "Automorphisms"
+            page_number: 85
+            children: []
+      - title: "B Deformation theory"
+        page_number: 86
+        children:
+          - title: "Overview"
+            page_number: 86
+            children: []
+          - title: "Deformations of smooth curves"
+            page_number: 89
+            children: []
+          - title: "Variations on the basic deformation theory plan"
+            page_number: 92
+            children: []
+          - title: "Universal deformations of stable curves"
+            page_number: 102
+            children: []
+          - title: "Deformations of maps"
+            page_number: 105
+            children: []
+      - title: "C Stable reduction"
+        page_number: 117
+        children:
+          - title: "Results"
+            page_number: 117
+            children: []
+          - title: "Examples"
+            page_number: 120
+            children: []
+      - title: "D Interlude: calculations on the moduli stack"
+        page_number: 139
+        children:
+          - title: "Divisor classes on the moduli stack"
+            page_number: 140
+            children: []
+          - title: "Existence of tautological families"
+            page_number: 148
+            children: []
+      - title: "E Grothendieck-Riemann-Roch and Porteous"
+        page_number: 150
+        children:
+          - title: "Grothendieck-Riemann-Roch"
+            page_number: 150
+            children: []
+          - title: "Chern classes of the Hodge bundle"
+            page_number: 154
+            children: []
+          - title: "Chern class of the tangent bundle"
+            page_number: 159
+            children: []
+          - title: "Porteous' formula"
+            page_number: 161
+            children: []
+          - title: "The hyperelliptic locus in M3"
+            page_number: 162
+            children: []
+          - title: "Relations amongst standard cohomology classes"
+            page_number: 165
+            children: []
+          - title: "Divisor classes on Hilbert schemes"
+            page_number: 166
+            children: []
+      - title: "F Test curves: the hyperelliptic locus in M3 begun"
+        page_number: 168
+        children: []
+      - title: "G Admissible covers"
+        page_number: 175
+        children: []
+      - title: "H The hyperelliptic locus in M3 completed"
+        page_number: 186
+        children: []
+
+  - title: "4 Construction of Mg"
+    page_number: 191
+    children:
+      - title: "A Background on geometric invariant theory"
+        page_number: 192
+        children:
+          - title: "The G.I.T. strategy"
+            page_number: 192
+            children: []
+          - title: "Finite generation of and separation by invariants"
+            page_number: 194
+            children: []
+          - title: "The numerical criterion"
+            page_number: 199
+            children: []
+          - title: "Stability of plane curves"
+            page_number: 202
+            children: []
+      - title: "B Stability of Hilbert points of smooth curves"
+        page_number: 206
+        children:
+          - title: "The numerical criterion for Hilbert points"
+            page_number: 206
+            children: []
+          - title: "Gieseker's criterion"
+            page_number: 211
+            children: []
+          - title: "Stability of smooth curves"
+            page_number: 216
+            children: []
+      - title: "C Construction of Mg via the Potential Stability Theorem"
+        page_number: 220
+        children:
+          - title: "The plan of the construction and a few corollaries"
+            page_number: 220
+            children: []
+          - title: "The Potential Stability Theorem"
+            page_number: 224
+            children: []
+
+  - title: "5 Limit Linear Series and Brill-Noether theory"
+    page_number: 240
+    children:
+      - title: "A Introductory remarks on degenerations"
+        page_number: 240
+        children: []
+      - title: "B Limits of line bundles"
+        page_number: 247
+        children: []
+      - title: "C Limits of linear series: motivation and examples"
+        page_number: 253
+        children: []
+      - title: "D Limit linear series: definitions and applications"
+        page_number: 263
+        children:
+          - title: "Limit linear series"
+            page_number: 263
+            children: []
+          - title: "Smoothing limit linear series"
+            page_number: 266
+            children: []
+          - title: "Limits of canonical series and Weierstrass points"
+            page_number: 269
+            children: []
+      - title: "E Limit linear series on flag curves"
+        page_number: 274
+        children:
+          - title: "Inequalities on vanishing sequences"
+            page_number: 274
+            children: []
+          - title: "The case ρ = 0"
+            page_number: 276
+            children: []
+          - title: "Proof of the Gieseker-Petri theorem"
+            page_number: 280
+            children: []
+
+  - title: "6 Geometry of moduli spaces: selected results"
+    page_number: 286
+    children:
+      - title: "A Irreducibility of the moduli space of curves"
+        page_number: 286
+        children: []
+      - title: "B Diaz's theorem"
+        page_number: 288
+        children:
+          - title: "The idea: stratifying the moduli space"
+            page_number: 288
+            children: []
+          - title: "The proof"
+            page_number: 292
+            children: []
+      - title: "C Moduli of hyperelliptic curves"
+        page_number: 293
+        children:
+          - title: "Fiddling around"
+            page_number: 293
+            children: []
+          - title: "The calculation for an (almost) arbitrary family"
+            page_number: 295
+            children: []
+          - title: "The Picard group of the hyperelliptic locus"
+            page_number: 301
+            children: []
+      - title: "D Ample divisors on Mg"
+        page_number: 303
+        children:
+          - title: "An inequality for generically Hilbert stable families"
+            page_number: 304
+            children: []
+          - title: "Proof of the theorem"
+            page_number: 305
+            children: []
+          - title: "An inequality for families of pointed curves"
+            page_number: 308
+            children: []
+          - title: "Ample divisors on Mg"
+            page_number: 310
+            children: []
+      - title: "E Irreducibility of the Severi varieties"
+        page_number: 313
+        children:
+          - title: "Initial reductions"
+            page_number: 314
+            children: []
+          - title: "Analyzing a degeneration"
+            page_number: 320
+            children: []
+          - title: "An example"
+            page_number: 324
+            children: []
+          - title: "Completing the argument"
+            page_number: 326
+            children: []
+      - title: "F Kodaira dimension of Mg"
+        page_number: 328
+        children:
+          - title: "Writing down general curves"
+            page_number: 328
+            children: []
+          - title: "Basic ideas"
+            page_number: 330
+            children: []
+          - title: "Pulling back the divisors Dsr"
+            page_number: 335
+            children: []
+          - title: "Divisors on Mg that miss j(M2,1 \ W)"
+            page_number: 336
+            children: []
+          - title: "Divisors on Mg that miss i(M0,g)"
+            page_number: 340
+            children: []
+          - title: "Further divisor class calculations"
+            page_number: 342
+            children: []
+          - title: "Curves defined over Q"
+            page_number: 342
+            children: []
+
+  - title: "Bibliography"
+    page_number: 344
+    children: []
+
+  - title: "Index"
+    page_number: 354
+    children: []
