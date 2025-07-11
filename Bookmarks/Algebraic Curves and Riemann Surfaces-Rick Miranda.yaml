@@ -1,0 +1,1112 @@
+offset: 15
+contents:
+  - title: "Algebraic Curves and Riemann Surfaces"
+    page_number: -14
+    children: []
+  - title: "Contents"
+    page_number: -12
+    children: []
+  
+  - title: "Preface"
+    page_number: -2
+    children: []
+
+  - title: "Chapter I. Riemann Surfaces: Basic Definitions"
+    page_number: 1
+    children:
+      - title: "1. Complex Charts and Complex Structures"
+        page_number: 1
+        children:
+          - title: "Complex Charts"
+            page_number: 1
+            children: []
+          - title: "Complex Atlases"
+            page_number: 1
+            children: []
+          - title: "The Definition of a Riemann Surface"
+            page_number: 1
+            children: []
+          - title: "Real 2-Manifolds"
+            page_number: 1
+            children: []
+          - title: "The Genus of a Compact Riemann Surface"
+            page_number: 1
+            children: []
+          - title: "Complex Manifolds"
+            page_number: 6
+            children: []
+          - title: "Problems I.1"
+            page_number: 6
+            children: []
+      - title: "2. First Examples of Riemann Surfaces"
+        page_number: 8
+        children:
+          - title: "A Remark on Defining Riemann Surfaces"
+            page_number: 8
+            children: []
+          - title: "The Projective Line"
+            page_number: 8
+            children: []
+          - title: "Complex Tori"
+            page_number: 8
+            children: []
+          - title: "Graphs of Holomorphic Functions"
+            page_number: 10
+            children: []
+          - title: "Smooth Affine Plane Curves"
+            page_number: 10
+            children: []
+          - title: "Problems I.2"
+            page_number: 12
+            children: []
+      - title: "3. Projective Curves"
+        page_number: 13
+        children:
+          - title: "Smooth The Projective Plane P2 Projective Plane Curves"
+            page_number: 13
+            children: []
+          - title: "14"
+            page_number: 14
+            children: []
+          - title: "Higher-Dimensional Projective Spaces"
+            page_number: 16
+            children: []
+          - title: "Complete Intersections"
+            page_number: 17
+            children: []
+          - title: "Local Complete Intersections"
+            page_number: 17
+            children: []
+          - title: "Problems I.3"
+            page_number: 18
+            children: []
+      - title: "Further Reading"
+        page_number: 19
+        children: []
+
+  - title: "Chapter II. Functions and Maps"
+    page_number: 21
+    children:
+      - title: "1. Functions on Riemann Surfaces"
+        page_number: 21
+        children:
+          - title: "Holomorphic Functions"
+            page_number: 21
+            children: []
+          - title: "Singularities of Functions; Meromorphic Functions"
+            page_number: 23
+            children: []
+          - title: "Laurent Series"
+            page_number: 25
+            children: []
+          - title: "The Order of a Meromorphic Function at a Point"
+            page_number: 26
+            children: []
+          - title: "Functions"
+            page_number: 27
+            children: []
+          - title: "Harmonic Functions"
+            page_number: 27
+            children: []
+          - title: "Theorems Inherited from One Complex Variable"
+            page_number: 28
+            children: []
+          - title: "Problems II.1"
+            page_number: 30
+            children: []
+      - title: "2. Examples of Meromorphic Functions"
+        page_number: 30
+        children:
+          - title: "Meromorphic Functions on the Riemann Sphere"
+            page_number: 30
+            children: []
+          - title: "Meromorphic Functions on the Projective Line"
+            page_number: 31
+            children: []
+          - title: "Meromorphic Functions on a Complex Torus"
+            page_number: 33
+            children: []
+          - title: "Meromorphic Functions on Smooth Plane Curves"
+            page_number: 35
+            children: []
+          - title: "Smooth Projective Curves"
+            page_number: 36
+            children: []
+          - title: "Problems II.2"
+            page_number: 38
+            children: []
+      - title: "3. Holomorphic Maps Between Riemann Surfaces"
+        page_number: 38
+        children:
+          - title: "The Definition of a Holomorphic Map"
+            page_number: 38
+            children: []
+          - title: "Isomorphisms and Automorphisms"
+            page_number: 40
+            children: []
+          - title: "Easy Theorems about Holomorphic Maps"
+            page_number: 40
+            children: []
+          - title: "Meromorphic Functions and Holomorphic Maps to the Riemann Sphere"
+            page_number: 41
+            children: []
+          - title: "Meromorphic Functions on a Complex Torus, Again"
+            page_number: 42
+            children: []
+          - title: "Problems II.3"
+            page_number: 43
+            children: []
+      - title: "4. Global Properties of Holomorphic Maps"
+        page_number: 44
+        children:
+          - title: "Local Normal Form and Multiplicity"
+            page_number: 44
+            children: []
+          - title: "The Degree of a Holomorphic Map between Compact Riemann Surfaces"
+            page_number: 47
+            children: []
+          - title: "The Sum of the Orders of a Meromorphic Function"
+            page_number: 49
+            children: []
+          - title: "Meromorphic Functions on a Complex Torus, Yet Again"
+            page_number: 50
+            children: []
+          - title: "The Euler Number of a Compact Surface"
+            page_number: 50
+            children: []
+          - title: "Hurwitz's Formula"
+            page_number: 52
+            children: []
+          - title: "Problems II.4"
+            page_number: 53
+            children: []
+      - title: "Further Reading"
+        page_number: 54
+        children: []
+
+  - title: "Chapter III. More Examples of Riemann Surfaces"
+    page_number: 56
+    children:
+      - title: "1. More Elementary Examples of Riemann Surfaces"
+        page_number: 57
+        children:
+          - title: "Lines and Conics"
+            page_number: 57
+            children: []
+          - title: "Glueing Together Riemann Surfaces"
+            page_number: 59
+            children: []
+          - title: "Hyperelliptic Riemann Surfaces"
+            page_number: 60
+            children: []
+          - title: "Meromorphic Functions on Hyperelliptic Riemann Surfaces"
+            page_number: 61
+            children: []
+          - title: "Maps Between Complex Tori"
+            page_number: 62
+            children: []
+          - title: "Problems III.1"
+            page_number: 65
+            children: []
+      - title: "2. Less Elementary Examples of Riemann Surfaces"
+        page_number: 66
+        children:
+          - title: "Plugging Holes in Riemann Surfaces"
+            page_number: 66
+            children: []
+          - title: "Nodes of a Plane Curve"
+            page_number: 67
+            children: []
+          - title: "Resolving a Node of a Plane Curve"
+            page_number: 69
+            children: []
+          - title: "The Genus of a Projective Plane Curve with Nodes"
+            page_number: 69
+            children: []
+          - title: "Resolving Monomial Singularities"
+            page_number: 71
+            children: []
+          - title: "Cyclic Coverings of the Line"
+            page_number: 73
+            children: []
+          - title: "Problems III.2"
+            page_number: 74
+            children: []
+      - title: "3. Group Actions on Riemann Surfaces"
+        page_number: 75
+        children:
+          - title: "Finite Group Actions"
+            page_number: 75
+            children: []
+          - title: "Stabilizer Subgroups"
+            page_number: 76
+            children: []
+          - title: "The Quotient Riemann Surface"
+            page_number: 77
+            children: []
+          - title: "Ramification of the Quotient Map"
+            page_number: 79
+            children: []
+          - title: "Hurwitz's Theorem on Automorphisms"
+            page_number: 82
+            children: []
+          - title: "Infinite Groups"
+            page_number: 82
+            children: []
+          - title: "Problems III.3"
+            page_number: 83
+            children: []
+      - title: "4. Monodromy"
+        page_number: 84
+        children:
+          - title: "Covering Spaces and the Fundamental Group"
+            page_number: 84
+            children: []
+          - title: "The Monodromy of a Finite Covering"
+            page_number: 86
+            children: []
+          - title: "The Monodromy of a Holomorphic Map"
+            page_number: 87
+            children: []
+          - title: "Coverings via Monodromy Representations"
+            page_number: 88
+            children: []
+          - title: "Holomorphic Maps via Monodromy Representations"
+            page_number: 90
+            children: []
+          - title: "Holomorphic Maps to P1"
+            page_number: 91
+            children: []
+          - title: "Hyperelliptic Surfaces"
+            page_number: 92
+            children: []
+          - title: "Problems III.4"
+            page_number: 93
+            children: []
+      - title: "5. Basic Projective Geometry"
+        page_number: 94
+        children:
+          - title: "Homogeneous Coordinates and Polynomials"
+            page_number: 94
+            children: []
+          - title: "Projective Algebraic Sets"
+            page_number: 95
+            children: []
+          - title: "Linear Subspaces"
+            page_number: 95
+            children: []
+          - title: "The Ideal of a Projective Algebraic Set"
+            page_number: 96
+            children: []
+          - title: "Linear Automorphisms and Changing Coordinates"
+            page_number: 97
+            children: []
+          - title: "Projections"
+            page_number: 98
+            children: []
+          - title: "Secant and Tangent Lines"
+            page_number: 99
+            children: []
+          - title: "Projecting Projective Curves"
+            page_number: 101
+            children: []
+          - title: "Problems III.5"
+            page_number: 102
+            children: []
+      - title: "Further Reading"
+        page_number: 103
+        children: []
+
+  - title: "Chapter IV. Integration on Riemann Surfaces"
+    page_number: 104
+    children:
+      - title: "1. Differential Forms"
+        page_number: 105
+        children:
+          - title: "Holomorphic 1-Forms"
+            page_number: 105
+            children: []
+          - title: "Meromorphic 1-Forms"
+            page_number: 106
+            children: []
+          - title: "Defining Meromorphic Functions and Forms with a Formula"
+            page_number: 107
+            children: []
+          - title: "Using ∂ and ∂̄"
+            page_number: 108
+            children: []
+          - title: "1-Forms of Type (1,0) and (0,1)"
+            page_number: 110
+            children: []
+          - title: "Problems IV.1"
+            page_number: 111
+            children: []
+      - title: "2. Operations on Differential Forms"
+        page_number: 112
+        children:
+          - title: "Multiplication of 1-Forms by Functions"
+            page_number: 112
+            children: []
+          - title: "Differentials of Functions"
+            page_number: 113
+            children: []
+          - title: "The Wedge Product of Two 1-Forms"
+            page_number: 113
+            children: []
+          - title: "Differentiating 1-Forms"
+            page_number: 114
+            children: []
+          - title: "Pulling Back Differential Forms"
+            page_number: 114
+            children: []
+          - title: "Some Notation"
+            page_number: 115
+            children: []
+          - title: "The Poincaré and Dolbeault Lemmas"
+            page_number: 117
+            children: []
+          - title: "Problems IV.2"
+            page_number: 117
+            children: []
+      - title: "3. Integration on a Riemann Surface"
+        page_number: 118
+        children:
+          - title: "Paths"
+            page_number: 118
+            children: []
+          - title: "Integration of 1-Forms Along Paths"
+            page_number: 119
+            children: []
+          - title: "Chains and Integration Along Chains"
+            page_number: 120
+            children: []
+          - title: "The Residue of a Meromorphic 1-Form"
+            page_number: 121
+            children: []
+          - title: "Integration of 2-Forms"
+            page_number: 122
+            children: []
+          - title: "Stokes's Theorem"
+            page_number: 123
+            children: []
+          - title: "The Residue Theorem"
+            page_number: 123
+            children: []
+          - title: "Homotopy"
+            page_number: 124
+            children: []
+          - title: "Homology"
+            page_number: 126
+            children: []
+          - title: "Problems IV.3"
+            page_number: 126
+            children: []
+      - title: "Further Reading"
+        page_number: 127
+        children: []
+
+  - title: "Chapter V. Divisors and Meromorphic Functions"
+    page_number: 127
+    children:
+      - title: "1. Divisors"
+        page_number: 129
+        children:
+          - title: "The Definition of a Divisor"
+            page_number: 129
+            children: []
+          - title: "The Degree of a Divisor on a Compact Riemann Surface"
+            page_number: 129
+            children: []
+          - title: "The Divisor of a Meromorphic Function: Principal Divisors"
+            page_number: 130
+            children: []
+          - title: "The Divisor of a Meromorphic 1-Form: Canonical Divisors"
+            page_number: 131
+            children: []
+          - title: "The Degree of a Canonical Divisor on a Compact Riemann Surface"
+            page_number: 132
+            children: []
+          - title: "The Boundary Divisor of a Chain"
+            page_number: 133
+            children: []
+          - title: "The Inverse Image Divisor of a Holomorphic Map"
+            page_number: 133
+            children: []
+          - title: "The Ramification and Branch Divisor of a Holomorphic Map"
+            page_number: 134
+            children: []
+          - title: "Intersection Divisors on a Smooth Projective Curve"
+            page_number: 135
+            children: []
+          - title: "The Partial Ordering on Divisors"
+            page_number: 136
+            children: []
+          - title: "Problems V.1"
+            page_number: 137
+            children: []
+      - title: "2. Linear Equivalence of Divisors"
+        page_number: 138
+        children:
+          - title: "The Definition of Linear Equivalence"
+            page_number: 138
+            children: []
+          - title: "Linear Equivalence for Divisors on the Riemann Sphere"
+            page_number: 140
+            children: []
+          - title: "Principal Divisors on a Complex Torus"
+            page_number: 140
+            children: []
+          - title: "The Degree of a Smooth Projective Curve"
+            page_number: 142
+            children: []
+          - title: "Bezout's Theorem for Smooth Projective Plane Curves"
+            page_number: 143
+            children: []
+          - title: "Plücker's Formula"
+            page_number: 143
+            children: []
+          - title: "Problems V.2"
+            page_number: 145
+            children: []
+      - title: "3. Spaces of Functions and Forms Associated to a Divisor"
+        page_number: 145
+        children:
+          - title: "The Definition of the Space L(D)"
+            page_number: 145
+            children: []
+          - title: "Complete Linear Systems of Divisors"
+            page_number: 147
+            children: []
+          - title: "Isomorphisms between L(D)'s under Linear Equivalence"
+            page_number: 148
+            children: []
+          - title: "The Definition of the Space L*(D)"
+            page_number: 148
+            children: []
+          - title: "The Isomorphism between L*(D) and L(D + K)"
+            page_number: 149
+            children: []
+          - title: "Computation of L(D) for the Riemann Sphere"
+            page_number: 149
+            children: []
+          - title: "Computation of L(D) for a Complex Torus"
+            page_number: 150
+            children: []
+          - title: "A Bound on the Dimension of L(D)"
+            page_number: 151
+            children: []
+          - title: "Problems V.3"
+            page_number: 152
+            children: []
+      - title: "4. Divisors and Maps to Projective Space"
+        page_number: 153
+        children:
+          - title: "Holomorphic Maps to Projective Space"
+            page_number: 153
+            children: []
+          - title: "Maps to Projective Space Given By Meromorphic Functions"
+            page_number: 154
+            children: []
+          - title: "The Linear System of a Holomorphic Map"
+            page_number: 155
+            children: []
+          - title: "Base Points of Linear Systems"
+            page_number: 157
+            children: []
+          - title: "The Hyperplane Divisor of a Holomorphic Map to Pn"
+            page_number: 158
+            children: []
+          - title: "Defining a Holomorphic Map via a Linear System"
+            page_number: 160
+            children: []
+          - title: "Removing the Base Points"
+            page_number: 160
+            children: []
+          - title: "Criteria for ϕ to be an Embedding"
+            page_number: 161
+            children: []
+          - title: "The Degree of the Image and of the Map"
+            page_number: 164
+            children: []
+          - title: "Rational and Elliptic Normal Curves"
+            page_number: 165
+            children: []
+          - title: "Working Without Coordinates"
+            page_number: 166
+            children: []
+          - title: "Problems V.4"
+            page_number: 166
+            children: []
+      - title: "Further Reading"
+        page_number: 167
+        children: []
+
+  - title: "Chapter VI. Algebraic Curves and the Riemann-Roch Theorem"
+    page_number: 166
+    children:
+      - title: "1. Algebraic Curves"
+        page_number: 169
+        children:
+          - title: "Separating Points and Tangents"
+            page_number: 169
+            children: []
+          - title: "Constructing Functions with Specified Laurent Tails"
+            page_number: 171
+            children: []
+          - title: "The Transcendence Degree of the Function Field M(X)"
+            page_number: 174
+            children: []
+          - title: "Computing the Function Field M(X)"
+            page_number: 177
+            children: []
+          - title: "Problems VI.1"
+            page_number: 178
+            children: []
+      - title: "2. Laurent Tail Divisors"
+        page_number: 178
+        children:
+          - title: "Definition of Laurent Tail Divisors"
+            page_number: 178
+            children: []
+          - title: "Mittag-Leffler Problems and H1(D)"
+            page_number: 180
+            children: []
+          - title: "Comparing H1 Spaces"
+            page_number: 181
+            children: []
+          - title: "The Finite-Dimensionality of H1(D)"
+            page_number: 182
+            children: []
+          - title: "Problems VI.2"
+            page_number: 184
+            children: []
+      - title: "3. The Riemann-Roch Theorem and Serre Duality"
+        page_number: 185
+        children:
+          - title: "The Riemann-Roch Theorem I"
+            page_number: 185
+            children: []
+          - title: "The Residue Map"
+            page_number: 186
+            children: []
+          - title: "Serre Duality"
+            page_number: 188
+            children: []
+          - title: "The Equality of the Three Genera"
+            page_number: 191
+            children: []
+          - title: "The Riemann-Roch Theorem II"
+            page_number: 192
+            children: []
+          - title: "Problems VI.3"
+            page_number: 193
+            children: []
+      - title: "Further Reading"
+        page_number: 193
+        children: []
+
+  - title: "Chapter VII. Applications of Riemann-Roch"
+    page_number: 192
+    children:
+      - title: "1. First Applications of Riemann-Roch"
+        page_number: 195
+        children:
+          - title: "How Riemann-Roch implies Algebraicity"
+            page_number: 195
+            children: []
+          - title: "Criterion for a Divisor to be Very Ample"
+            page_number: 195
+            children: []
+          - title: "Every Algebraic Curve is Projective"
+            page_number: 196
+            children: []
+          - title: "Curves of Genus Zero are Isomorphic to the Riemann Sphere"
+            page_number: 197
+            children: []
+          - title: "Curves of Genus One are Cubic Plane Curves"
+            page_number: 198
+            children: []
+          - title: "Curves of Genus One are Complex Tori"
+            page_number: 199
+            children: []
+          - title: "Curves of Genus Two are Hyperelliptic"
+            page_number: 200
+            children: []
+          - title: "Clifford's Theorem"
+            page_number: 201
+            children: []
+          - title: "The Canonical System is Base-Point-Free"
+            page_number: 202
+            children: []
+          - title: "The Existence of Meromorphic 1-Forms"
+            page_number: 203
+            children: []
+          - title: "Problems VII.1"
+            page_number: 204
+            children: []
+      - title: "2. The Canonical Map"
+        page_number: 205
+        children:
+          - title: "The Canonical Map for a Curve of Genus at Least Three"
+            page_number: 205
+            children: []
+          - title: "The Canonical Map for a Hyperelliptic Curve"
+            page_number: 206
+            children: []
+          - title: "Finding Equations for Smooth Projective Curves"
+            page_number: 207
+            children: []
+          - title: "Classification of Curves of Genus Three"
+            page_number: 208
+            children: []
+          - title: "Classification of Curves of Genus Four"
+            page_number: 209
+            children: []
+          - title: "The Geometric Form of Riemann-Roch"
+            page_number: 210
+            children: []
+          - title: "Classification of Curves of Genus Five"
+            page_number: 211
+            children: []
+          - title: "The Space L(D) for a General Divisor"
+            page_number: 210
+            children: []
+          - title: "A Few Words on Counting Parameters"
+            page_number: 211
+            children: []
+          - title: "Riemann's Count of 3g - 3 Parameters for Curves of Genus g"
+            page_number: 212
+            children: []
+          - title: "Problems VII.2"
+            page_number: 215
+            children: []
+      - title: "3. The Degree of Projective Curves"
+        page_number: 216
+        children:
+          - title: "The Minimal Degree"
+            page_number: 216
+            children: []
+          - title: "Rational Normal Curves"
+            page_number: 216
+            children: []
+          - title: "Tangent Hyperplanes"
+            page_number: 217
+            children: []
+          - title: "Flexes and Bitangents"
+            page_number: 218
+            children: []
+          - title: "Monodromy of the Hyperplane Divisors"
+            page_number: 219
+            children: []
+          - title: "The Surjectivity of the Monodromy"
+            page_number: 220
+            children: []
+          - title: "The General Position Lemma"
+            page_number: 221
+            children: []
+          - title: "Points Imposing Conditions on Hypersurfaces"
+            page_number: 222
+            children: []
+          - title: "Castelnuovo's Bound"
+            page_number: 223
+            children: []
+          - title: "Curves of Maximal Genus"
+            page_number: 224
+            children: []
+          - title: "Problems VII.3"
+            page_number: 225
+            children: []
+      - title: "4. Inflection Points and Weierstrass Points"
+        page_number: 226
+        children:
+          - title: "Gap Numbers and Inflection Points of a Linear System"
+            page_number: 226
+            children: []
+          - title: "The Wronskian Criterion"
+            page_number: 228
+            children: []
+          - title: "Higher-order Differentials"
+            page_number: 230
+            children: []
+          - title: "The Number of Inflection Points"
+            page_number: 232
+            children: []
+          - title: "Flex Points of Smooth Plane Curves"
+            page_number: 234
+            children: []
+          - title: "Weierstrass Points"
+            page_number: 236
+            children: []
+          - title: "Problems VII.4"
+            page_number: 238
+            children: []
+      - title: "Further Reading"
+        page_number: 240
+        children: []
+
+  - title: "Chapter VIII. Abel's Theorem"
+    page_number: 244
+    children:
+      - title: "1. Homology, Periods, and the Jacobian"
+        page_number: 243
+        children:
+          - title: "The First Homology Group"
+            page_number: 243
+            children: []
+          - title: "The Standard Identified Polygon"
+            page_number: 244
+            children: []
+          - title: "Periods of 1-Forms"
+            page_number: 245
+            children: []
+          - title: "The Jacobian of a Compact Riemann Surface"
+            page_number: 246
+            children: []
+          - title: "Problems VIII.1"
+            page_number: 247
+            children: []
+      - title: "2. The Abel-Jacobi Map"
+        page_number: 248
+        children:
+          - title: "The Abel-Jacobi Map A on X"
+            page_number: 248
+            children: []
+          - title: "The Extension of A to Divisors"
+            page_number: 249
+            children: []
+          - title: "Independence of the Base Point"
+            page_number: 250
+            children: []
+          - title: "Statement of Abel's Theorem"
+            page_number: 251
+            children: []
+          - title: "Problems VIII.2"
+            page_number: 252
+            children: []
+      - title: "3. Trace Operations"
+        page_number: 253
+        children:
+          - title: "The Trace of a Function"
+            page_number: 253
+            children: []
+          - title: "The Trace of a 1-Form"
+            page_number: 254
+            children: []
+          - title: "The Residue of a Trace"
+            page_number: 255
+            children: []
+          - title: "An Algebraic Proof of the Residue Theorem"
+            page_number: 256
+            children: []
+          - title: "Integration of a Trace"
+            page_number: 257
+            children: []
+          - title: "Proof of Necessity in Abel's Theorem"
+            page_number: 258
+            children: []
+          - title: "Problems VIII.3"
+            page_number: 259
+            children: []
+      - title: "4. Proof of Sufficiency in Abel's Theorem"
+        page_number: 260
+        children:
+          - title: "Lemmas Concerning Periods"
+            page_number: 260
+            children: []
+          - title: "The Proof of Sufficiency"
+            page_number: 261
+            children: []
+          - title: "Riemann's Bilinear Relations"
+            page_number: 262
+            children: []
+          - title: "The Jacobian and the Picard Group"
+            page_number: 263
+            children: []
+          - title: "Problems VIII.4"
+            page_number: 264
+            children: []
+      - title: "5. Abel's Theorem for Curves of Genus One"
+        page_number: 265
+        children:
+          - title: "The Abel-Jacobi Map is an Embedding"
+            page_number: 265
+            children: []
+          - title: "Every Curve of Genus One is a Complex Torus"
+            page_number: 266
+            children: []
+          - title: "The Group Law on a Smooth Projective Plane Cubic"
+            page_number: 267
+            children: []
+          - title: "Problems VIII.5"
+            page_number: 268
+            children: []
+      - title: "Further Reading"
+        page_number: 269
+        children: []
+
+  - title: "Chapter IX. Sheaves and Čech Cohomology"
+    page_number: 266
+    children:
+      - title: "1. Presheaves and Sheaves"
+        page_number: 271
+        children:
+          - title: "Presheaves"
+            page_number: 271
+            children: []
+          - title: "Examples of Presheaves"
+            page_number: 272
+            children: []
+          - title: "The Sheaf Axiom"
+            page_number: 273
+            children: []
+          - title: "Locally Constant Sheaves"
+            page_number: 274
+            children: []
+          - title: "Skyscraper Sheaves"
+            page_number: 275
+            children: []
+          - title: "Global Sections on Compact Riemann Surfaces"
+            page_number: 276
+            children: []
+          - title: "Restriction to an Open Subset"
+            page_number: 277
+            children: []
+          - title: "Problems IX.1"
+            page_number: 278
+            children: []
+      - title: "2. Sheaf Maps"
+        page_number: 279
+        children:
+          - title: "Definition of a Map between Sheaves"
+            page_number: 279
+            children: []
+          - title: "Inclusion Maps"
+            page_number: 280
+            children: []
+          - title: "Differentiation Maps"
+            page_number: 281
+            children: []
+          - title: "Restriction or Evaluation Maps"
+            page_number: 282
+            children: []
+          - title: "Multiplication Maps"
+            page_number: 283
+            children: []
+          - title: "Truncation Maps"
+            page_number: 284
+            children: []
+          - title: "The Exponential Map"
+            page_number: 285
+            children: []
+          - title: "The Kernel of a Sheaf Map"
+            page_number: 286
+            children: []
+          - title: "1-1 and Onto Sheaf Maps"
+            page_number: 287
+            children: []
+          - title: "Short Exact Sequences of Sheaves"
+            page_number: 288
+            children: []
+          - title: "Exact Sequences of Sheaves"
+            page_number: 289
+            children: []
+          - title: "Sheaf Isomorphisms"
+            page_number: 290
+            children: []
+          - title: "Using Sheaves to Define the Category"
+            page_number: 291
+            children: []
+          - title: "Problems IX.2"
+            page_number: 292
+            children: []
+      - title: "3. Čech Cohomology of Sheaves"
+        page_number: 293
+        children:
+          - title: "Čech Cochains"
+            page_number: 293
+            children: []
+          - title: "Čech Cochain Complexes"
+            page_number: 294
+            children: []
+          - title: "Cohomology with respect to a Cover"
+            page_number: 295
+            children: []
+          - title: "Refinements"
+            page_number: 296
+            children: []
+          - title: "Čech Cohomology Groups"
+            page_number: 297
+            children: []
+          - title: "The Connecting Homomorphism"
+            page_number: 298
+            children: []
+          - title: "The Long Exact Sequence of Cohomology"
+            page_number: 299
+            children: []
+          - title: "Problems IX.3"
+            page_number: 300
+            children: []
+      - title: "4. Cohomology Computations"
+        page_number: 301
+        children:
+          - title: "The Vanishing of H¹ for C∞ Sheaves"
+            page_number: 301
+            children: []
+          - title: "The Vanishing of H¹ for Skyscraper Sheaves"
+            page_number: 302
+            children: []
+          - title: "Cohomology of Locally Constant Sheaves"
+            page_number: 303
+            children: []
+          - title: "The Vanishing of H⁴(X, O_X(D))"
+            page_number: 304
+            children: []
+          - title: "De Rham Cohomology"
+            page_number: 305
+            children: []
+          - title: "Dolbeault Cohomology"
+            page_number: 306
+            children: []
+          - title: "Problems IX.4"
+            page_number: 307
+            children: []
+      - title: "Further Reading"
+        page_number: 308
+        children: []
+
+  - title: "Chapter X. Algebraic Sheaves"
+    page_number: 306
+    children:
+      - title: "1. Algebraic Sheaves of Functions and Forms"
+        page_number: 309
+        children:
+          - title: "Algebraic Curves"
+            page_number: 309
+            children: []
+          - title: "Algebraic Sheaves of Functions"
+            page_number: 309
+            children: []
+          - title: "Algebraic Sheaves of Forms"
+            page_number: 310
+            children: []
+          - title: "The Zariski Topology"
+            page_number: 311
+            children: []
+          - title: "Problems X.1"
+            page_number: 312
+            children: []
+      - title: "2. Zariski Cohomology"
+        page_number: 312
+        children:
+          - title: "The Vanishing of H¹(Zar, F) for a Constant Sheaf F"
+            page_number: 313
+            children: []
+          - title: "The Interpretation of H¹(D)"
+            page_number: 314
+            children: []
+          - title: "GAGA Theorems"
+            page_number: 315
+            children: []
+          - title: "Further Computations"
+            page_number: 316
+            children: []
+          - title: "The Zero Mean Theorem"
+            page_number: 317
+            children: []
+          - title: "The High Road to Abel's Theorem"
+            page_number: 319
+            children: []
+          - title: "Problems X.2"
+            page_number: 320
+            children: []
+      - title: "Further Reading"
+        page_number: 321
+        children: []
+
+  - title: "Chapter XI. Invertible Sheaves, Line Bundles, and H¹"
+    page_number: 319
+    children:
+      - title: "1. Invertible Sheaves"
+        page_number: 323
+        children:
+          - title: "Sheaves of O-Modules"
+            page_number: 323
+            children: []
+          - title: "Definition of an Invertible Sheaf"
+            page_number: 324
+            children: []
+          - title: "Invertible Sheaves associated to Divisors"
+            page_number: 325
+            children: []
+          - title: "The Tensor Product of Invertible Sheaves"
+            page_number: 326
+            children: []
+          - title: "The Inverse of an Invertible Sheaf"
+            page_number: 328
+            children: []
+          - title: "The Group of Isomorphism Classes of Invertible Sheaves"
+            page_number: 329
+            children: []
+          - title: "Problems XI.1"
+            page_number: 330
+            children: []
+      - title: "2. Line Bundles"
+        page_number: 331
+        children:
+          - title: "The Definition of a Line Bundle"
+            page_number: 331
+            children: []
+          - title: "The Tautological Line Bundle for a Map to Pⁿ"
+            page_number: 333
+            children: []
+          - title: "Line Bundle Homomorphisms"
+            page_number: 334
+            children: []
+          - title: "Defining a Line Bundle via Transition Functions"
+            page_number: 335
+            children: []
+          - title: "The Invertible Sheaf of Regular Sections of a Line Bundle"
+            page_number: 337
+            children: []
+          - title: "Sections of the Tangent Bundle and Tangent Vector Fields"
+            page_number: 340
+            children: []
+          - title: "Rational Sections of a Line Bundle"
+            page_number: 342
+            children: []
+          - title: "The Divisor of a Rational Section"
+            page_number: 343
+            children: []
+          - title: "Problems XI.2"
+            page_number: 344
+            children: []
+      - title: "3. Avatars of the Picard Group"
+        page_number: 345
+        children:
+          - title: "Divisors Modulo Linear Equivalence and Cocycles"
+            page_number: 345
+            children: []
+          - title: "Invertible Sheaves Modulo Isomorphism"
+            page_number: 348
+            children: []
+          - title: "Line Bundles Modulo Isomorphism"
+            page_number: 351
+            children: []
+          - title: "The Jacobian"
+            page_number: 356
+            children: []
+          - title: "Problems XI.3"
+            page_number: 357
+            children: []
+      - title: "4. H¹ as a Classifying Space"
+        page_number: 357
+        children:
+          - title: "Why H¹(O*) Classifies Invertible Sheaves and Line Bundles"
+            page_number: 357
+            children: []
+          - title: "Problems XI.4"
+            page_number: 358
+            children: []
+      - title: "Further Reading"
+        page_number: 359
+        children: []
