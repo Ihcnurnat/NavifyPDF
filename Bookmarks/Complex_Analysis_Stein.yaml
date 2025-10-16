@@ -1,0 +1,390 @@
+offset: 19
+contents:
+  - title: "Complex Analysis"
+    page_number: -18
+    children: []
+
+  - title: "Foreword"
+    page_number: -11
+    children: []
+
+  - title: "Contents"
+    page_number: -7
+    children: []
+
+  - title: "Introduction"
+    page_number: -3
+    children: []
+
+  - title: "Chapter 1. Preliminaries to Complex Analysis"
+    page_number: 1
+    children:
+      - title: "1 Complex numbers and the complex plane"
+        page_number: 1
+        children:
+          - title: "1.1 Basic properties"
+            page_number: 1
+            children: []
+          - title: "1.2 Convergence"
+            page_number: 5
+            children: []
+          - title: "1.3 Sets in the complex plane"
+            page_number: 5
+            children: []
+      - title: "2 Functions on the complex plane"
+        page_number: 8
+        children:
+          - title: "2.1 Continuous functions"
+            page_number: 8
+            children: []
+          - title: "2.2 Holomorphic functions"
+            page_number: 8
+            children: []
+          - title: "2.3 Power series"
+            page_number: 14
+            children: []
+      - title: "3 Integration along curves"
+        page_number: 18
+        children: []
+      - title: "4 Exercises"
+        page_number: 24
+        children: []
+
+  - title: "Chapter 2. Cauchy's Theorem and Its Applications"
+    page_number: 32
+    children:
+      - title: "1 Goursat's theorem"
+        page_number: 34
+        children: []
+      - title: "2 Local existence of primitives and Cauchy's theorem in a disc"
+        page_number: 37
+        children: []
+      - title: "3 Evaluation of some integrals"
+        page_number: 41
+        children: []
+      - title: "4 Cauchy's integral formulas"
+        page_number: 45
+        children: []
+      - title: "5 Further applications"
+        page_number: 53
+        children:
+          - title: "5.1 Morera's theorem"
+            page_number: 53
+            children: []
+          - title: "5.2 Sequences of holomorphic functions"
+            page_number: 53
+            children: []
+          - title: "5.3 Holomorphic functions defined in terms of integrals"
+            page_number: 55
+            children: []
+          - title: "5.4 Schwarz reflection principle"
+            page_number: 57
+            children: []
+          - title: "5.5 Runge's approximation theorem"
+            page_number: 60
+            children: []
+      - title: "6 Exercises"
+        page_number: 64
+        children: []
+      - title: "7 Problems"
+        page_number: 67
+        children: []
+
+  - title: "Chapter 3. Meromorphic Functions and the Logarithm"
+    page_number: 71
+    children:
+      - title: "1 Zeros and poles"
+        page_number: 72
+        children: []
+      - title: "2 The residue formula"
+        page_number: 76
+        children:
+          - title: "2.1 Examples"
+            page_number: 77
+            children: []
+      - title: "3 Singularities and meromorphic functions"
+        page_number: 83
+        children: []
+      - title: "4 The argument principle and applications"
+        page_number: 89
+        children: []
+      - title: "5 Homotopies and simply connected domains"
+        page_number: 93
+        children: []
+      - title: "6 The complex logarithm"
+        page_number: 97
+        children: []
+      - title: "7 Fourier series and harmonic functions"
+        page_number: 101
+        children: []
+      - title: "8 Exercises"
+        page_number: 103
+        children: []
+      - title: "9 Problems"
+        page_number: 108
+        children: []
+
+  - title: "Chapter 4. The Fourier Transform"
+    page_number: 111
+    children:
+      - title: "1 The class ℑ"
+        page_number: 113
+        children: []
+      - title: "2 Action of the Fourier transform on ℑ"
+        page_number: 114
+        children: []
+      - title: "3 Paley-Wiener theorem"
+        page_number: 121
+        children: []
+      - title: "4 Exercises"
+        page_number: 127
+        children: []
+      - title: "5 Problems"
+        page_number: 131
+        children: []
+
+  - title: "Chapter 5. Entire Functions"
+    page_number: 134
+    children:
+      - title: "1 Jensen's formula"
+        page_number: 135
+        children: []
+      - title: "2 Functions of finite order"
+        page_number: 138
+        children: []
+      - title: "3 Infinite products"
+        page_number: 140
+        children:
+          - title: "3.1 Generalities"
+            page_number: 140
+            children: []
+          - title: "3.2 Example: the product formula for the sine function"
+            page_number: 142
+            children: []
+      - title: "4 Weierstrass infinite products"
+        page_number: 145
+        children: []
+      - title: "5 Hadamard's factorization theorem"
+        page_number: 147
+        children: []
+      - title: "6 Exercises"
+        page_number: 153
+        children: []
+      - title: "7 Problems"
+        page_number: 156
+        children: []
+
+  - title: "Chapter 6. The Gamma and Zeta Functions"
+    page_number: 159
+    children:
+      - title: "1 The gamma function"
+        page_number: 160
+        children:
+          - title: "1.1 Analytic continuation"
+            page_number: 161
+            children: []
+          - title: "1.2 Further properties of Γ"
+            page_number: 163
+            children: []
+      - title: "2 The zeta function"
+        page_number: 168
+        children:
+          - title: "2.1 Functional equation and analytic continuation"
+            page_number: 168
+            children: []
+      - title: "3 Exercises"
+        page_number: 174
+        children: []
+      - title: "4 Problems"
+        page_number: 179
+        children: []
+
+  - title: "Chapter 7. The Zeta Function and Prime Number Theorem"
+    page_number: 181
+    children:
+      - title: "1 Zeros of the zeta function"
+        page_number: 182
+        children:
+          - title: "1.1 Estimates for 1/ζ(s)"
+            page_number: 187
+            children: []
+      - title: "2 Reduction to the functions ψ and ψ1"
+        page_number: 188
+        children:
+          - title: "2.1 Proof of the asymptotics for ψ1"
+            page_number: 194
+            children: []
+      - title: "Note on interchanging double sums"
+        page_number: 197
+        children: []
+      - title: "3 Exercises"
+        page_number: 199
+        children: []
+      - title: "4 Problems"
+        page_number: 203
+        children: []
+
+  - title: "Chapter 8. Conformal Mappings"
+    page_number: 205
+    children:
+      - title: "1 Conformal equivalence and examples"
+        page_number: 206
+        children:
+          - title: "1.1 The disc and upper half-plane"
+            page_number: 208
+            children: []
+          - title: "1.2 Further examples"
+            page_number: 209
+            children: []
+          - title: "1.3 The Dirichlet problem in a strip"
+            page_number: 212
+            children: []
+      - title: "2 The Schwarz lemma; automorphisms of the disc and upper half-plane"
+        page_number: 218
+        children:
+          - title: "2.1 Automorphisms of the disc"
+            page_number: 219
+            children: []
+          - title: "2.2 Automorphisms of the upper half-plane"
+            page_number: 221
+            children: []
+      - title: "3 The Riemann mapping theorem"
+        page_number: 224
+        children:
+          - title: "3.1 Necessary conditions and statement of the theorem"
+            page_number: 224
+            children: []
+          - title: "3.2 Montel's theorem"
+            page_number: 225
+            children: []
+          - title: "3.3 Proof of the Riemann mapping theorem"
+            page_number: 228
+            children: []
+      - title: "4 Conformal mappings onto polygons"
+        page_number: 231
+        children:
+          - title: "4.1 Some examples"
+            page_number: 231
+            children: []
+          - title: "4.2 The Schwarz-Christoffel integral"
+            page_number: 235
+            children: []
+          - title: "4.3 Boundary behavior"
+            page_number: 238
+            children: []
+          - title: "4.4 The mapping formula"
+            page_number: 241
+            children: []
+          - title: "4.5 Return to elliptic integrals"
+            page_number: 245
+            children: []
+      - title: "5 Exercises"
+        page_number: 248
+        children: []
+      - title: "6 Problems"
+        page_number: 254
+        children: []
+
+  - title: "Chapter 9. An Introduction to Elliptic Functions"
+    page_number: 261
+    children:
+      - title: "1 Elliptic functions"
+        page_number: 262
+        children:
+          - title: "1.1 Liouville's theorems"
+            page_number: 264
+            children: []
+          - title: "1.2 The Weierstrass ℘ function"
+            page_number: 266
+            children: []
+      - title: "2 The modular character of elliptic functions and Eisenstein series"
+        page_number: 273
+        children:
+          - title: "2.1 Eisenstein series"
+            page_number: 273
+            children: []
+          - title: "2.2 Eisenstein series and divisor functions"
+            page_number: 276
+            children: []
+      - title: "3 Exercises"
+        page_number: 278
+        children: []
+      - title: "4 Problems"
+        page_number: 281
+        children: []
+
+  - title: "Chapter 10. Applications of Theta Functions"
+    page_number: 283
+    children:
+      - title: "1 Product formula for the Jacobi theta function"
+        page_number: 284
+        children:
+          - title: "1.1 Further transformation laws"
+            page_number: 289
+            children: []
+      - title: "2 Generating functions"
+        page_number: 293
+        children: []
+      - title: "3 The theorems about sums of squares"
+        page_number: 296
+        children:
+          - title: "3.1 The two-squares theorem"
+            page_number: 297
+            children: []
+          - title: "3.2 The four-squares theorem"
+            page_number: 304
+            children: []
+      - title: "4 Exercises"
+        page_number: 309
+        children: []
+      - title: "5 Problems"
+        page_number: 314
+        children: []
+
+  - title: "Appendix A: Asymptotics"
+    page_number: 318
+    children:
+      - title: "1 Bessel functions"
+        page_number: 319
+        children: []
+      - title: "2 Laplace's method; Stirling's formula"
+        page_number: 323
+        children: []
+      - title: "3 The Airy function"
+        page_number: 328
+        children: []
+      - title: "4 The partition function"
+        page_number: 334
+        children: []
+      - title: "5 Problems"
+        page_number: 341
+        children: []
+
+  - title: "Appendix B: Simple Connectivity and Jordan Curve Theorem"
+    page_number: 344
+    children:
+      - title: "1 Equivalent formulations of simple connectivity"
+        page_number: 345
+        children: []
+      - title: "2 The Jordan curve theorem"
+        page_number: 351
+        children:
+          - title: "2.1 Proof of a general form of Cauchy's theorem"
+            page_number: 361
+            children: []
+
+  - title: "Notes and References"
+    page_number: 365
+    children: []
+
+  - title: "Bibliography"
+    page_number: 369
+    children: []
+
+  - title: "Symbol Glossary"
+    page_number: 373
+    children: []
+
+  - title: "Index"
+    page_number: 375
+    children: []

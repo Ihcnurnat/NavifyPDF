@@ -1,0 +1,741 @@
+offset: 14
+contents:
+  - title: "Analysis I"
+    page_number: -13
+    children: []
+
+  - title: "Preface"
+    page_number: -9
+    children: []
+
+  - title: "Contents"
+    page_number: -6
+    children: []
+
+  - title: "Chapter I Foundations"
+    page_number: 1
+    children:
+      - title: "1 Fundamentals of Logic"
+        page_number: 3
+        children: []
+      - title: "2 Sets"
+        page_number: 8
+        children:
+          - title: "Elementary Facts"
+            page_number: 8
+            children: []
+          - title: "The Power Set"
+            page_number: 9
+            children: []
+          - title: "Complement, Intersection and Union"
+            page_number: 9
+            children: []
+          - title: "Products"
+            page_number: 10
+            children: []
+          - title: "Families of Sets"
+            page_number: 12
+            children: []
+      - title: "3 Functions"
+        page_number: 15
+        children:
+          - title: "Simple Examples"
+            page_number: 16
+            children: []
+          - title: "Composition of Functions"
+            page_number: 17
+            children: []
+          - title: "Commutative Diagrams"
+            page_number: 17
+            children: []
+          - title: "Injections, Surjections and Bijections"
+            page_number: 18
+            children: []
+          - title: "Inverse Functions"
+            page_number: 19
+            children: []
+          - title: "Set Valued Functions"
+            page_number: 20
+            children: []
+      - title: "4 Relations and Operations"
+        page_number: 22
+        children:
+          - title: "Equivalence Relations"
+            page_number: 22
+            children: []
+          - title: "Order Relations"
+            page_number: 23
+            children: []
+          - title: "Operations"
+            page_number: 26
+            children: []
+      - title: "5 The Natural Numbers"
+        page_number: 29
+        children:
+          - title: "The Peano Axioms"
+            page_number: 29
+            children: []
+          - title: "The Arithmetic of Natural Numbers"
+            page_number: 31
+            children: []
+          - title: "The Division Algorithm"
+            page_number: 34
+            children: []
+          - title: "The Induction Principle"
+            page_number: 35
+            children: []
+          - title: "Recursive Definitions"
+            page_number: 39
+            children: []
+      - title: "6 Countability"
+        page_number: 46
+        children:
+          - title: "Permutations"
+            page_number: 47
+            children: []
+          - title: "Equinumerous Sets"
+            page_number: 47
+            children: []
+          - title: "Countable Sets"
+            page_number: 48
+            children: []
+          - title: "Infinite Products"
+            page_number: 49
+            children: []
+      - title: "7 Groups and Homomorphisms"
+        page_number: 52
+        children:
+          - title: "Groups"
+            page_number: 52
+            children: []
+          - title: "Subgroups"
+            page_number: 54
+            children: []
+          - title: "Cosets"
+            page_number: 55
+            children: []
+          - title: "Homomorphisms"
+            page_number: 56
+            children: []
+          - title: "Isomorphisms"
+            page_number: 58
+            children: []
+      - title: "8 Rings, Fields and Polynomials"
+        page_number: 62
+        children:
+          - title: "Rings"
+            page_number: 62
+            children: []
+          - title: "The Binomial Theorem"
+            page_number: 65
+            children: []
+          - title: "The Multinomial Theorem"
+            page_number: 65
+            children: []
+          - title: "Fields"
+            page_number: 67
+            children: []
+          - title: "Ordered Fields"
+            page_number: 69
+            children: []
+          - title: "Formal Power Series"
+            page_number: 71
+            children: []
+          - title: "Polynomials"
+            page_number: 73
+            children: []
+          - title: "Polynomial Functions"
+            page_number: 75
+            children: []
+          - title: "Division of Polynomials"
+            page_number: 76
+            children: []
+          - title: "Linear Factors"
+            page_number: 77
+            children: []
+          - title: "Polynomials in Several Indeterminates"
+            page_number: 78
+            children: []
+      - title: "9 The Rational Numbers"
+        page_number: 84
+        children:
+          - title: "The Integers"
+            page_number: 84
+            children: []
+          - title: "The Rational Numbers"
+            page_number: 85
+            children: []
+          - title: "Rational Zeros of Polynomials"
+            page_number: 88
+            children: []
+          - title: "Square Roots"
+            page_number: 88
+            children: []
+      - title: "10 The Real Numbers"
+        page_number: 91
+        children:
+          - title: "Order Completeness"
+            page_number: 91
+            children: []
+          - title: "Dedekind's Construction of the Real Numbers"
+            page_number: 92
+            children: []
+          - title: "The Natural Order on R"
+            page_number: 94
+            children: []
+          - title: "The Extended Number Line"
+            page_number: 94
+            children: []
+          - title: "A Characterization of Supremum and Infimum"
+            page_number: 95
+            children: []
+          - title: "The Archimedean Property"
+            page_number: 96
+            children: []
+          - title: "The Density of the Rational Numbers in R"
+            page_number: 96
+            children: []
+          - title: "nth Roots"
+            page_number: 97
+            children: []
+          - title: "The Density of the Irrational Numbers in R"
+            page_number: 99
+            children: []
+          - title: "Intervals"
+            page_number: 100
+            children: []
+      - title: "11 The Complex Numbers"
+        page_number: 103
+        children:
+          - title: "Constructing the Complex Numbers"
+            page_number: 103
+            children: []
+          - title: "Elementary Properties"
+            page_number: 104
+            children: []
+          - title: "Computation with Complex Numbers"
+            page_number: 106
+            children: []
+          - title: "Balls in K"
+            page_number: 108
+            children: []
+      - title: "12 Vector Spaces, Affine Spaces and Algebras"
+        page_number: 111
+        children:
+          - title: "Vector Spaces"
+            page_number: 111
+            children: []
+          - title: "Linear Functions"
+            page_number: 112
+            children: []
+          - title: "Vector Space Bases"
+            page_number: 115
+            children: []
+          - title: "Affine Spaces"
+            page_number: 117
+            children: []
+          - title: "Affine Functions"
+            page_number: 119
+            children: []
+          - title: "Polynomial Interpolation"
+            page_number: 120
+            children: []
+          - title: "Algebras"
+            page_number: 122
+            children: []
+          - title: "Difference Operators and Summation Formulas"
+            page_number: 123
+            children: []
+          - title: "Newton Interpolation Polynomials"
+            page_number: 124
+            children: []
+
+  - title: "Chapter II Convergence"
+    page_number: 129
+    children:
+      - title: "1 Convergence of Sequences"
+        page_number: 131
+        children:
+          - title: "Sequences"
+            page_number: 131
+            children: []
+          - title: "Metric Spaces"
+            page_number: 132
+            children: []
+          - title: "Cluster Points"
+            page_number: 134
+            children: []
+          - title: "Convergence"
+            page_number: 135
+            children: []
+          - title: "Bounded Sets"
+            page_number: 137
+            children: []
+          - title: "Uniqueness of the Limit"
+            page_number: 137
+            children: []
+          - title: "Subsequences"
+            page_number: 138
+            children: []
+      - title: "2 Real and Complex Sequences"
+        page_number: 141
+        children:
+          - title: "Null Sequences"
+            page_number: 141
+            children: []
+          - title: "Elementary Rules"
+            page_number: 141
+            children: []
+          - title: "The Comparison Test"
+            page_number: 143
+            children: []
+          - title: "Complex Sequences"
+            page_number: 144
+            children: []
+      - title: "3 Normed Vector Spaces"
+        page_number: 148
+        children:
+          - title: "Norms"
+            page_number: 148
+            children: []
+          - title: "Balls"
+            page_number: 149
+            children: []
+          - title: "Bounded Sets"
+            page_number: 150
+            children: []
+          - title: "Examples"
+            page_number: 150
+            children: []
+          - title: "The Space of Bounded Functions"
+            page_number: 151
+            children: []
+          - title: "Inner Product Spaces"
+            page_number: 153
+            children: []
+          - title: "The Cauchy-Schwarz Inequality"
+            page_number: 154
+            children: []
+          - title: "Euclidean Spaces"
+            page_number: 156
+            children: []
+          - title: "Equivalent Norms"
+            page_number: 157
+            children: []
+          - title: "Convergence in Product Spaces"
+            page_number: 159
+            children: []
+      - title: "4 Monotone Sequences"
+        page_number: 163
+        children:
+          - title: "Bounded Monotone Sequences"
+            page_number: 163
+            children: []
+          - title: "Some Important Limits"
+            page_number: 164
+            children: []
+      - title: "5 Infinite Limits"
+        page_number: 169
+        children:
+          - title: "Convergence to ±∞"
+            page_number: 169
+            children: []
+          - title: "The Limit Superior and Limit Inferior"
+            page_number: 170
+            children: []
+          - title: "The Bolzano-Weierstrass Theorem"
+            page_number: 172
+            children: []
+      - title: "6 Completeness"
+        page_number: 175
+        children:
+          - title: "Cauchy Sequences"
+            page_number: 175
+            children: []
+          - title: "Banach Spaces"
+            page_number: 176
+            children: []
+          - title: "Cantor's Construction of the Real Numbers"
+            page_number: 177
+            children: []
+      - title: "7 Series"
+        page_number: 183
+        children:
+          - title: "Convergence of Series"
+            page_number: 183
+            children: []
+          - title: "Harmonic and Geometric Series"
+            page_number: 184
+            children: []
+          - title: "Calculating with Series"
+            page_number: 185
+            children: []
+          - title: "Convergence Tests"
+            page_number: 185
+            children: []
+          - title: "Alternating Series"
+            page_number: 186
+            children: []
+          - title: "Decimal, Binary and Other Representations of Real Numbers"
+            page_number: 187
+            children: []
+          - title: "The Uncountability of R"
+            page_number: 192
+            children: []
+      - title: "8 Absolute Convergence"
+        page_number: 195
+        children:
+          - title: "Majorant, Root and Ratio Tests"
+            page_number: 196
+            children: []
+          - title: "The Exponential Function"
+            page_number: 199
+            children: []
+          - title: "Rearrangements of Series"
+            page_number: 199
+            children: []
+          - title: "Double Series"
+            page_number: 201
+            children: []
+          - title: "Cauchy Products"
+            page_number: 204
+            children: []
+      - title: "9 Power Series"
+        page_number: 210
+        children:
+          - title: "The Radius of Convergence"
+            page_number: 211
+            children: []
+          - title: "Addition and Multiplication of Power Series"
+            page_number: 213
+            children: []
+          - title: "The Uniqueness of Power Series Representations"
+            page_number: 214
+            children: []
+
+  - title: "Chapter III Continuous Functions"
+    page_number: 217
+    children:
+      - title: "1 Continuity"
+        page_number: 219
+        children:
+          - title: "Elementary Properties and Examples"
+            page_number: 219
+            children: []
+          - title: "Sequential Continuity"
+            page_number: 224
+            children: []
+          - title: "Addition and Multiplication of Continuous Functions"
+            page_number: 224
+            children: []
+          - title: "One-Sided Continuity"
+            page_number: 228
+            children: []
+      - title: "2 The Fundamentals of Topology"
+        page_number: 232
+        children:
+          - title: "Open Sets"
+            page_number: 232
+            children: []
+          - title: "Closed Sets"
+            page_number: 233
+            children: []
+          - title: "The Closure of a Set"
+            page_number: 235
+            children: []
+          - title: "The Interior of a Set"
+            page_number: 236
+            children: []
+          - title: "The Boundary of a Set"
+            page_number: 237
+            children: []
+          - title: "The Hausdorff Condition"
+            page_number: 237
+            children: []
+          - title: "Examples"
+            page_number: 238
+            children: []
+          - title: "A Characterization of Continuous Functions"
+            page_number: 239
+            children: []
+          - title: "Continuous Extensions"
+            page_number: 241
+            children: []
+          - title: "Relative Topology"
+            page_number: 244
+            children: []
+          - title: "General Topological Spaces"
+            page_number: 245
+            children: []
+      - title: "3 Compactness"
+        page_number: 250
+        children:
+          - title: "Covers"
+            page_number: 250
+            children: []
+          - title: "A Characterization of Compact Sets"
+            page_number: 251
+            children: []
+          - title: "Sequential Compactness"
+            page_number: 252
+            children: []
+          - title: "Continuous Functions on Compact Spaces"
+            page_number: 252
+            children: []
+          - title: "The Extreme Value Theorem"
+            page_number: 253
+            children: []
+          - title: "Total Boundedness"
+            page_number: 256
+            children: []
+          - title: "Uniform Continuity"
+            page_number: 258
+            children: []
+          - title: "Compactness in General Topological Spaces"
+            page_number: 259
+            children: []
+      - title: "4 Connectivity"
+        page_number: 263
+        children:
+          - title: "Definition and Basic Properties"
+            page_number: 263
+            children: []
+          - title: "Connectivity in R"
+            page_number: 264
+            children: []
+          - title: "The Generalized Intermediate Value Theorem"
+            page_number: 265
+            children: []
+          - title: "Path Connectivity"
+            page_number: 265
+            children: []
+          - title: "Connectivity in General Topological Spaces"
+            page_number: 268
+            children: []
+      - title: "5 Functions on R"
+        page_number: 271
+        children:
+          - title: "Bolzano's Intermediate Value Theorem"
+            page_number: 271
+            children: []
+          - title: "Monotone Functions"
+            page_number: 272
+            children: []
+          - title: "Continuous Monotone Functions"
+            page_number: 274
+            children: []
+      - title: "6 The Exponential and Related Functions"
+        page_number: 277
+        children:
+          - title: "Euler's Formula"
+            page_number: 277
+            children: []
+          - title: "The Real Exponential Function"
+            page_number: 280
+            children: []
+          - title: "The Logarithm and Power Functions"
+            page_number: 281
+            children: []
+          - title: "The Exponential Function on iR"
+            page_number: 283
+            children: []
+          - title: "The Definition of π and its Consequences"
+            page_number: 285
+            children: []
+          - title: "The Tangent and Cotangent Functions"
+            page_number: 289
+            children: []
+          - title: "The Complex Exponential Function"
+            page_number: 290
+            children: []
+          - title: "Polar Coordinates"
+            page_number: 291
+            children: []
+          - title: "Complex Logarithms"
+            page_number: 293
+            children: []
+          - title: "Complex Powers"
+            page_number: 294
+            children: []
+          - title: "A Further Representation of the Exponential Function"
+            page_number: 295
+            children: []
+
+  - title: "Chapter IV Differentiation in One Variable"
+    page_number: 299
+    children:
+      - title: "1 Differentiability"
+        page_number: 301
+        children:
+          - title: "The Derivative"
+            page_number: 301
+            children: []
+          - title: "Linear Approximation"
+            page_number: 302
+            children: []
+          - title: "Rules for Differentiation"
+            page_number: 304
+            children: []
+          - title: "The Chain Rule"
+            page_number: 305
+            children: []
+          - title: "Inverse Functions"
+            page_number: 306
+            children: []
+          - title: "Differentiable Functions"
+            page_number: 307
+            children: []
+          - title: "Higher Derivatives"
+            page_number: 307
+            children: []
+          - title: "One-Sided Differentiability"
+            page_number: 313
+            children: []
+      - title: "2 The Mean Value Theorem and its Applications"
+        page_number: 317
+        children:
+          - title: "Extrema"
+            page_number: 317
+            children: []
+          - title: "The Mean Value Theorem"
+            page_number: 318
+            children: []
+          - title: "Monotonicity and Differentiability"
+            page_number: 319
+            children: []
+          - title: "Convexity and Differentiability"
+            page_number: 322
+            children: []
+          - title: "The Inequalities of Young, Hölder and Minkowski"
+            page_number: 325
+            children: []
+          - title: "The Mean Value Theorem for Vector Valued Functions"
+            page_number: 328
+            children: []
+          - title: "The Second Mean Value Theorem"
+            page_number: 329
+            children: []
+          - title: "L'Hospital's Rule"
+            page_number: 330
+            children: []
+      - title: "3 Taylor's Theorem"
+        page_number: 335
+        children:
+          - title: "The Landau Symbol"
+            page_number: 335
+            children: []
+          - title: "Taylor's Formula"
+            page_number: 336
+            children: []
+          - title: "Taylor Polynomials and Taylor Series"
+            page_number: 338
+            children: []
+          - title: "The Remainder Function in the Real Case"
+            page_number: 340
+            children: []
+          - title: "Polynomial Interpolation"
+            page_number: 344
+            children: []
+          - title: "Higher Order Difference Quotients"
+            page_number: 345
+            children: []
+      - title: "4 Iterative Procedures"
+        page_number: 350
+        children:
+          - title: "Fixed Points and Contractions"
+            page_number: 350
+            children: []
+          - title: "The Banach Fixed Point Theorem"
+            page_number: 351
+            children: []
+          - title: "Newton's Method"
+            page_number: 355
+            children: []
+
+  - title: "Chapter V Sequences of Functions"
+    page_number: 360
+    children:
+      - title: "1 Uniform Convergence"
+        page_number: 362
+        children:
+          - title: "Pointwise Convergence"
+            page_number: 362
+            children: []
+          - title: "Uniform Convergence"
+            page_number: 363
+            children: []
+          - title: "Series of Functions"
+            page_number: 365
+            children: []
+          - title: "The Weierstrass Majorant Criterion"
+            page_number: 366
+            children: []
+      - title: "2 Continuity and Differentiability for Sequences of Functions"
+        page_number: 369
+        children:
+          - title: "Continuity"
+            page_number: 369
+            children: []
+          - title: "Locally Uniform Convergence"
+            page_number: 369
+            children: []
+          - title: "The Banach Space of Bounded Continuous Functions"
+            page_number: 371
+            children: []
+          - title: "Differentiability"
+            page_number: 372
+            children: []
+      - title: "3 Analytic Functions"
+        page_number: 376
+        children:
+          - title: "Differentiability of Power Series"
+            page_number: 376
+            children: []
+          - title: "Analyticity"
+            page_number: 377
+            children: []
+          - title: "Antiderivatives of Analytic Functions"
+            page_number: 379
+            children: []
+          - title: "The Power Series Expansion of the Logarithm"
+            page_number: 380
+            children: []
+          - title: "The Binomial Series"
+            page_number: 381
+            children: []
+          - title: "The Identity Theorem for Analytic Functions"
+            page_number: 385
+            children: []
+      - title: "4 Polynomial Approximation"
+        page_number: 389
+        children:
+          - title: "Banach Algebras"
+            page_number: 389
+            children: []
+          - title: "Density and Separability"
+            page_number: 390
+            children: []
+          - title: "The Stone-Weierstrass Theorem"
+            page_number: 392
+            children: []
+          - title: "Trigonometric Polynomials"
+            page_number: 395
+            children: []
+          - title: "Periodic Functions"
+            page_number: 397
+            children: []
+          - title: "The Trigonometric Approximation Theorem"
+            page_number: 400
+            children: []
+
+  - title: "Appendix"
+    page_number: 403
+    children: []
+
+  - title: "Bibliography"
+    page_number: 408
+    children: []
+
+  - title: "Index"
+    page_number: 409
+    children: []

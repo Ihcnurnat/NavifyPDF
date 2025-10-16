@@ -1,0 +1,381 @@
+offset: 17
+contents:
+
+  - title: "Foreword"
+    page_number: -9
+    children: []
+
+  - title: "Preface"
+    page_number: -5
+    children: []
+
+  - title: "Contents"
+    page_number: -3
+    children: []
+
+  - title: "Chapter 1. The Genesis of Fourier Analysis"
+    page_number: 1
+    children:
+      - title: "1 The vibrating string"
+        page_number: 2
+        children:
+          - title: "1.1 Derivation of the wave equation"
+            page_number: 6
+            children: []
+          - title: "1.2 Solution to the wave equation"
+            page_number: 8
+            children: []
+          - title: "1.3 Example: the plucked string"
+            page_number: 16
+            children: []
+      - title: "2 The heat equation"
+        page_number: 18
+        children:
+          - title: "2.1 Derivation of the heat equation"
+            page_number: 18
+            children: []
+          - title: "2.2 Steady-state heat equation in the disc"
+            page_number: 19
+            children: []
+      - title: "3 Exercises"
+        page_number: 22
+        children: []
+      - title: "4 Problem"
+        page_number: 27
+        children: []
+
+  - title: "Chapter 2. Basic Properties of Fourier Series"
+    page_number: 29
+    children:
+      - title: "1 Examples and formulation of the problem"
+        page_number: 30
+        children:
+          - title: "1.1 Main definitions and some examples"
+            page_number: 30
+            children: []
+      - title: "2 Uniqueness of Fourier series"
+        page_number: 34
+        children: []
+      - title: "3 Convolutions"
+        page_number: 39
+        children: []
+      - title: "4 Good kernels"
+        page_number: 44
+        children: []
+      - title: "5 Cesàro and Abel summability: applications to Fourier series"
+        page_number: 48
+        children:
+          - title: "5.1 Cesàro means and summation"
+            page_number: 51
+            children: []
+          - title: "5.2 Fejér's theorem"
+            page_number: 52
+            children: []
+          - title: "5.3 Abel means and summation"
+            page_number: 54
+            children: []
+          - title: "5.4 The Poisson kernel and Dirichlet's problem in the unit disc"
+            page_number: 55
+            children: []
+      - title: "6 Exercises"
+        page_number: 58
+        children: []
+      - title: "7 Problems"
+        page_number: 65
+        children: []
+
+  - title: "Chapter 3. Convergence of Fourier Series"
+    page_number: 69
+    children:
+      - title: "1 Mean-square convergence of Fourier series"
+        page_number: 70
+        children:
+          - title: "1.1 Vector spaces and inner products"
+            page_number: 70
+            children: []
+          - title: "1.2 Proof of mean-square convergence"
+            page_number: 76
+            children: []
+      - title: "2 Return to pointwise convergence"
+        page_number: 81
+        children:
+          - title: "2.1 A local result"
+            page_number: 81
+            children: []
+          - title: "2.2 A continuous function with diverging Fourier series"
+            page_number: 83
+            children: []
+      - title: "3 Exercises"
+        page_number: 87
+        children: []
+      - title: "4 Problems"
+        page_number: 95
+        children: []
+
+  - title: "Chapter 4. Some Applications of Fourier Series"
+    page_number: 100
+    children:
+      - title: "1 The isoperimetric inequality"
+        page_number: 101
+        children: []
+      - title: "2 Weyl's equidistribution theorem"
+        page_number: 105
+        children: []
+      - title: "3 A continuous but nowhere differentiable function"
+        page_number: 113
+        children: []
+      - title: "4 The heat equation on the circle"
+        page_number: 118
+        children: []
+      - title: "5 Exercises"
+        page_number: 120
+        children: []
+      - title: "6 Problems"
+        page_number: 125
+        children: []
+
+  - title: "Chapter 5. The Fourier Transform on R"
+    page_number: 129
+    children:
+      - title: "1 Elementary theory of the Fourier transform"
+        page_number: 131
+        children:
+          - title: "1.1 Integration of functions on the real line"
+            page_number: 131
+            children: []
+          - title: "1.2 Definition of the Fourier transform"
+            page_number: 134
+            children: []
+          - title: "1.3 The Schwartz space"
+            page_number: 134
+            children: []
+          - title: "1.4 The Fourier transform on S"
+            page_number: 136
+            children: []
+          - title: "1.5 The Fourier inversion"
+            page_number: 140
+            children: []
+          - title: "1.6 The Plancherel formula"
+            page_number: 142
+            children: []
+          - title: "1.7 Extension to functions of moderate decrease"
+            page_number: 144
+            children: []
+          - title: "1.8 The Weierstrass approximation theorem"
+            page_number: 144
+            children: []
+      - title: "2 Applications to some partial differential equations"
+        page_number: 145
+        children:
+          - title: "2.1 The time-dependent heat equation on the real line"
+            page_number: 145
+            children: []
+          - title: "2.2 The steady-state heat equation in the upper half-plane"
+            page_number: 149
+            children: []
+      - title: "3 The Poisson summation formula"
+        page_number: 153
+        children:
+          - title: "3.1 Theta and zeta functions"
+            page_number: 155
+            children: []
+          - title: "3.2 Heat kernels"
+            page_number: 156
+            children: []
+          - title: "3.3 Poisson kernels"
+            page_number: 157
+            children: []
+      - title: "4 The Heisenberg uncertainty principle"
+        page_number: 158
+        children: []
+      - title: "5 Exercises"
+        page_number: 161
+        children: []
+      - title: "6 Problems"
+        page_number: 169
+        children: []
+
+  - title: "Chapter 6. The Fourier Transform on Rd"
+    page_number: 175
+    children:
+      - title: "1 Preliminaries"
+        page_number: 176
+        children:
+          - title: "1.1 Symmetries"
+            page_number: 176
+            children: []
+          - title: "1.2 Integration on Rd"
+            page_number: 178
+            children: []
+      - title: "2 Elementary theory of the Fourier transform"
+        page_number: 180
+        children: []
+      - title: "3 The wave equation in Rd × R"
+        page_number: 184
+        children:
+          - title: "3.1 Solution in terms of Fourier transforms"
+            page_number: 184
+            children: []
+          - title: "3.2 The wave equation in R3 × R"
+            page_number: 189
+            children: []
+          - title: "3.3 The wave equation in R2 × R: descent"
+            page_number: 194
+            children: []
+      - title: "4 Radial symmetry and Bessel functions"
+        page_number: 196
+        children: []
+      - title: "5 The Radon transform and some of its applications"
+        page_number: 198
+        children:
+          - title: "5.1 The X-ray transform in R2"
+            page_number: 199
+            children: []
+          - title: "5.2 The Radon transform in R3"
+            page_number: 201
+            children: []
+          - title: "5.3 A note about plane waves"
+            page_number: 207
+            children: []
+      - title: "6 Exercises"
+        page_number: 207
+        children: []
+      - title: "7 Problems"
+        page_number: 212
+        children: []
+
+  - title: "Chapter 7. Finite Fourier Analysis"
+    page_number: 218
+    children:
+      - title: "1 Fourier analysis on Z(N)"
+        page_number: 219
+        children:
+          - title: "1.1 The group Z(N)"
+            page_number: 219
+            children: []
+          - title: "1.2 Fourier inversion theorem and Plancherel identity on Z(N)"
+            page_number: 221
+            children: []
+          - title: "1.3 The fast Fourier transform"
+            page_number: 224
+            children: []
+      - title: "2 Fourier analysis on finite abelian groups"
+        page_number: 226
+        children:
+          - title: "2.1 Abelian groups"
+            page_number: 226
+            children: []
+          - title: "2.2 Characters"
+            page_number: 230
+            children: []
+          - title: "2.3 The orthogonality relations"
+            page_number: 232
+            children: []
+          - title: "2.4 Characters as a total family"
+            page_number: 233
+            children: []
+          - title: "2.5 Fourier inversion and Plancherel formula"
+            page_number: 235
+            children: []
+      - title: "3 Exercises"
+        page_number: 236
+        children: []
+      - title: "4 Problems"
+        page_number: 239
+        children: []
+
+  - title: "Chapter 8. Dirichlet's Theorem"
+    page_number: 241
+    children:
+      - title: "1 A little elementary number theory"
+        page_number: 241
+        children:
+          - title: "1.1 The fundamental theorem of arithmetic"
+            page_number: 241
+            children: []
+          - title: "1.2 The infinitude of primes"
+            page_number: 244
+            children: []
+      - title: "2 Dirichlet's theorem"
+        page_number: 252
+        children:
+          - title: "2.1 Fourier analysis, Dirichlet characters, and reduction of the theorem"
+            page_number: 254
+            children: []
+          - title: "2.2 Dirichlet L-functions"
+            page_number: 255
+            children: []
+      - title: "3 Proof of the theorem"
+        page_number: 258
+        children:
+          - title: "3.1 Logarithms"
+            page_number: 258
+            children: []
+          - title: "3.2 L-functions"
+            page_number: 261
+            children: []
+          - title: "3.3 Non-vanishing of the L-function"
+            page_number: 265
+            children: []
+      - title: "4 Exercises"
+        page_number: 275
+        children: []
+      - title: "5 Problems"
+        page_number: 279
+        children: []
+
+  - title: "Appendix: Integration"
+    page_number: 281
+    children:
+      - title: "1 Definition of the Riemann integral"
+        page_number: 281
+        children:
+          - title: "1.1 Basic properties"
+            page_number: 282
+            children: []
+          - title: "1.2 Sets of measure zero and discontinuities of integrable functions"
+            page_number: 286
+            children: []
+      - title: "2 Multiple integrals"
+        page_number: 289
+        children:
+          - title: "2.1 The Riemann integral in Rd"
+            page_number: 289
+            children: []
+          - title: "2.2 Repeated integrals"
+            page_number: 291
+            children: []
+          - title: "2.3 The change of variables formula"
+            page_number: 292
+            children: []
+          - title: "2.4 Spherical coordinates"
+            page_number: 293
+            children: []
+      - title: "3 Improper integrals. Integration over Rd"
+        page_number: 294
+        children:
+          - title: "3.1 Integration of functions of moderate decrease"
+            page_number: 294
+            children: []
+          - title: "3.2 Repeated integrals"
+            page_number: 295
+            children: []
+          - title: "3.3 Spherical coordinates"
+            page_number: 297
+            children: []
+
+  - title: "Notes and References"
+    page_number: 298
+    children: []
+
+  - title: "Bibliography"
+    page_number: 300
+    children: []
+
+  - title: "Symbol Glossary"
+    page_number: 303
+    children: []
+
+  - title: "Index"
+    page_number: 305
+    children: []

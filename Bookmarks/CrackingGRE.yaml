@@ -1,0 +1,693 @@
+offset: 10
+contents:
+  - title: "Cracking the GRE"
+    page_number: -9
+    children: []
+
+  - title: "CONTENTS"
+    page_number: -3
+    children: []
+
+  - title: "Preface"
+    page_number: 1
+    children: []
+
+  - title: "1 PRECALCULUS"
+    page_number: 5
+    children:
+      - title: "Functions"
+        page_number: 5
+        children: []
+      - title: "Composition of Functions"
+        page_number: 6
+        children: []
+      - title: "Inverse Functions"
+        page_number: 7
+        children: []
+      - title: "Graphs in the xy-Plane"
+        page_number: 9
+        children: []
+      - title: "Analytic Geometry"
+        page_number: 11
+        children:
+          - title: "Lines"
+            page_number: 11
+            children: []
+          - title: "Parabolas"
+            page_number: 11
+            children: []
+          - title: "Circles"
+            page_number: 13
+            children: []
+          - title: "Ellipses"
+            page_number: 14
+            children: []
+          - title: "Hyperbolas"
+            page_number: 15
+            children: []
+      - title: "Polynomial Equations"
+        page_number: 17
+        children:
+          - title: "The Division Algorithm, Remainder Theorem, and Factor Theorem"
+            page_number: 17
+            children: []
+          - title: "The Fundamental Theorem of Algebra and Roots of Polynomial Equations"
+            page_number: 18
+            children: []
+          - title: "The Root Location Theorem"
+            page_number: 18
+            children: []
+          - title: "The Rational Roots Theorem"
+            page_number: 18
+            children: []
+          - title: "The Conjugate Radical Roots Theorem"
+            page_number: 18
+            children: []
+          - title: "The Complex Conjugate Roots Theorem"
+            page_number: 18
+            children: []
+          - title: "Sum and Product of the Roots"
+            page_number: 19
+            children: []
+      - title: "Logarithms"
+        page_number: 20
+        children: []
+      - title: "Trigonometry"
+        page_number: 22
+        children:
+          - title: "Trig Functions of Acute Angles"
+            page_number: 22
+            children: []
+          - title: "Trig Functions of Arbitrary Angles"
+            page_number: 23
+            children: []
+          - title: "Trig Functions of Real Numbers"
+            page_number: 24
+            children: []
+          - title: "Trig Identities and Formulas"
+            page_number: 24
+            children:
+              - title: "Fundamental Identities"
+                page_number: 25
+                children: []
+              - title: "Opposite-Angle Identities"
+                page_number: 25
+                children: []
+              - title: "Pythagorean Identities"
+                page_number: 25
+                children: []
+              - title: "Addition and Subtraction Formulas"
+                page_number: 25
+                children: []
+              - title: "Double-Angle Formulas"
+                page_number: 25
+                children: []
+              - title: "Complementary-Angle (Reduction) Formulas"
+                page_number: 25
+                children: []
+              - title: "Half-Angle Formulas"
+                page_number: 25
+                children: []
+          - title: "Periodicity of the Trig Functions"
+            page_number: 27
+            children: []
+          - title: "Graphs of the Trig Functions"
+            page_number: 27
+            children: []
+          - title: "The Inverse Trig Functions"
+            page_number: 28
+            children: []
+      - title: "Chapter 1 Review Questions"
+        page_number: 30
+        children: []
+
+  - title: "2 CALCULUS I"
+    page_number: 35
+    children:
+      - title: "Limits of Sequences"
+        page_number: 35
+        children: []
+      - title: "Limits of Functions"
+        page_number: 38
+        children: []
+      - title: "Limits of Functions as x → ±∞"
+        page_number: 40
+        children: []
+      - title: "Continuous Functions"
+        page_number: 41
+        children: []
+      - title: "Theorems Concerning Continuous Functions"
+        page_number: 44
+        children: []
+      - title: "The Derivative"
+        page_number: 45
+        children: []
+      - title: "Linear Approximations Using Differentials"
+        page_number: 50
+        children: []
+      - title: "Implicit Differentiation"
+        page_number: 51
+        children: []
+      - title: "Higher-Order Derivatives"
+        page_number: 51
+        children: []
+      - title: "Curve Sketching"
+        page_number: 52
+        children:
+          - title: "Properties of the First Derivative"
+            page_number: 52
+            children: []
+          - title: "Properties of the Second Derivative"
+            page_number: 52
+            children: []
+      - title: "Theorems Concerning Differentiable Functions"
+        page_number: 54
+        children: []
+      - title: "Max/Min Problems"
+        page_number: 55
+        children: []
+      - title: "Related Rates"
+        page_number: 57
+        children: []
+      - title: "Indefinite Integration (Antidifferentiation)"
+        page_number: 59
+        children: []
+      - title: "Techniques of Integration"
+        page_number: 59
+        children:
+          - title: "Integration by Substitution"
+            page_number: 59
+            children: []
+          - title: "Integration by Parts"
+            page_number: 61
+            children: []
+          - title: "Trig Substitutions"
+            page_number: 62
+            children: []
+          - title: "The Method of Partial Fractions"
+            page_number: 63
+            children: []
+      - title: "Definite Integration"
+        page_number: 64
+        children: []
+      - title: "The Fundamental Theorem of Calculus"
+        page_number: 66
+        children: []
+      - title: "The Average Value of a Function"
+        page_number: 68
+        children: []
+      - title: "Finding the Area Between Two Curves"
+        page_number: 69
+        children: []
+      - title: "Polar Coordinates"
+        page_number: 71
+        children: []
+      - title: "Volumes of Solids of Revolution"
+        page_number: 73
+        children: []
+      - title: "Arc Length"
+        page_number: 75
+        children: []
+      - title: "The Natural Exponential and Logarithm Functions"
+        page_number: 76
+        children: []
+      - title: "L'Hopital's Rule"
+        page_number: 79
+        children: []
+      - title: "Improper Integrals"
+        page_number: 81
+        children: []
+      - title: "Infinite Series"
+        page_number: 84
+        children: []
+      - title: "Alternating Series"
+        page_number: 88
+        children: []
+      - title: "Power Series"
+        page_number: 89
+        children: []
+      - title: "Functions Defined by Power Series"
+        page_number: 90
+        children: []
+      - title: "Taylor Series"
+        page_number: 92
+        children: []
+      - title: "Taylor Polynomials"
+        page_number: 93
+        children: []
+      - title: "Chapter 2 Review Questions"
+        page_number: 95
+        children: []
+
+  - title: "3 CALCULUS II"
+    page_number: 105
+    children:
+      - title: "Analytic Geometry of R³"
+        page_number: 105
+        children: []
+      - title: "The Dot Product"
+        page_number: 107
+        children: []
+      - title: "The Cross Product"
+        page_number: 109
+        children: []
+      - title: "The Triple Scalar Product"
+        page_number: 110
+        children: []
+      - title: "Lines in 3-Space"
+        page_number: 112
+        children: []
+      - title: "Planes in 3-Space"
+        page_number: 113
+        children: []
+      - title: "Cylinders"
+        page_number: 115
+        children: []
+      - title: "Surfaces of Revolution"
+        page_number: 117
+        children: []
+      - title: "Level Curves and Level Surfaces"
+        page_number: 119
+        children: []
+      - title: "Cylindrical Coordinates"
+        page_number: 121
+        children: []
+      - title: "Spherical Coordinates"
+        page_number: 121
+        children: []
+      - title: "Partial Derivatives"
+        page_number: 122
+        children: []
+      - title: "Geometric Interpretation of ∂/∂x and ∂/∂y"
+        page_number: 123
+        children: []
+      - title: "Higher-Order Partial Derivatives"
+        page_number: 124
+        children: []
+      - title: "The Tangent Plane to a Surface"
+        page_number: 126
+        children: []
+      - title: "Linear Approximations"
+        page_number: 127
+        children: []
+      - title: "The Chain Rule for Partial Derivatives"
+        page_number: 128
+        children: []
+      - title: "Directional Derivatives and the Gradient"
+        page_number: 132
+        children: []
+      - title: "Max/Min Problems"
+        page_number: 135
+        children: []
+      - title: "Max/Min Problems with a Constraint"
+        page_number: 137
+        children: []
+      - title: "The Lagrange Multiplier Method"
+        page_number: 138
+        children: []
+      - title: "Line Integrals"
+        page_number: 139
+        children: []
+      - title: "Line Integrals with Respect to Arc Length"
+        page_number: 140
+        children: []
+      - title: "The Line Integral of a Vector Field"
+        page_number: 143
+        children: []
+      - title: "The Fundamental Theorem of Calculus for Line Integrals"
+        page_number: 147
+        children: []
+      - title: "Double Integrals"
+        page_number: 150
+        children: []
+      - title: "Double Integrals in Polar Coordinates"
+        page_number: 154
+        children: []
+      - title: "Green's Theorem"
+        page_number: 156
+        children: []
+      - title: "Path Independence and Gradient Fields"
+        page_number: 158
+        children: []
+      - title: "Chapter 3 Review Questions"
+        page_number: 160
+        children: []
+
+  - title: "4 DIFFERENTIAL EQUATIONS"
+    page_number: 167
+    children:
+      - title: "Separable Equations"
+        page_number: 169
+        children: []
+      - title: "Homogeneous Equations"
+        page_number: 170
+        children: []
+      - title: "Exact Equations"
+        page_number: 170
+        children: []
+      - title: "Nonexact Equations and Integrating Factors"
+        page_number: 172
+        children: []
+      - title: "First-Order Linear Equations"
+        page_number: 174
+        children: []
+      - title: "Higher-Order Linear Equations with Constant Coefficients"
+        page_number: 175
+        children: []
+      - title: "Chapter 4 Review Questions"
+        page_number: 178
+        children: []
+
+  - title: "5 LINEAR ALGEBRA"
+    page_number: 181
+    children:
+      - title: "Solutions of Linear Systems"
+        page_number: 181
+        children: []
+      - title: "Matrices and Matrix Algebra"
+        page_number: 183
+        children:
+          - title: "Matrix Operations"
+            page_number: 183
+            children: []
+          - title: "Identity Matrices and Inverses"
+            page_number: 186
+            children: []
+      - title: "Gaussian Elimination"
+        page_number: 188
+        children: []
+      - title: "Solving Matrix Equations Using A⁻¹"
+        page_number: 193
+        children: []
+      - title: "Vector Spaces"
+        page_number: 195
+        children:
+          - title: "The Nullspace"
+            page_number: 196
+            children: []
+          - title: "Linear Combinations"
+            page_number: 196
+            children: []
+          - title: "The Rank, Column Space, and Row Space of a Matrix"
+            page_number: 198
+            children: []
+          - title: "Other Vector Spaces"
+            page_number: 200
+            children: []
+      - title: "Determinants"
+        page_number: 200
+        children: []
+      - title: "Laplace Expansions"
+        page_number: 204
+        children: []
+      - title: "The Adjugate Matrix"
+        page_number: 205
+        children: []
+      - title: "Cramer's Rule"
+        page_number: 206
+        children: []
+      - title: "Linear Transformations"
+        page_number: 207
+        children:
+          - title: "Standard Matrix Representative"
+            page_number: 208
+            children: []
+          - title: "The Rank Plus Nullity Theorem"
+            page_number: 208
+            children: []
+          - title: "A Note on Inverses and Compositions"
+            page_number: 209
+            children: []
+      - title: "Eigenvalues and Eigenvectors"
+        page_number: 209
+        children:
+          - title: "Eigenspaces"
+            page_number: 212
+            children: []
+      - title: "The Cayley-Hamilton Theorem"
+        page_number: 213
+        children: []
+      - title: "Chapter 5 Review Questions"
+        page_number: 214
+        children: []
+
+  - title: "6 NUMBER THEORY AND ABSTRACT ALGEBRA"
+    page_number: 219
+    children:
+      - title: "Part A: Number Theory"
+        page_number: 220
+        children:
+          - title: "Divisibility"
+            page_number: 220
+            children:
+              - title: "The Division Algorithm"
+                page_number: 221
+                children: []
+              - title: "Primes"
+                page_number: 221
+                children: []
+              - title: "The Greatest Common Divisor and the Least Common Multiple"
+                page_number: 221
+                children: []
+              - title: "The Euclidean Algorithm"
+                page_number: 222
+                children: []
+              - title: "The Diophantine Equation ax + by = c"
+                page_number: 223
+                children: []
+          - title: "Congruences"
+            page_number: 225
+            children: []
+          - title: "The Congruence Equation ax ≡ b (mod n)"
+            page_number: 226
+            children: []
+      - title: "Part B: Abstract Algebra"
+        page_number: 227
+        children:
+          - title: "Binary Structures and the Definition of a Group"
+            page_number: 227
+            children:
+              - title: "Examples of Groups"
+                page_number: 228
+                children: []
+              - title: "Cyclic Groups"
+                page_number: 231
+                children: []
+          - title: "Subgroups"
+            page_number: 232
+            children:
+              - title: "Cyclic Subgroups"
+                page_number: 233
+                children: []
+              - title: "Generators and Relations"
+                page_number: 233
+                children: []
+              - title: "Some Theorems Concerning Subgroups"
+                page_number: 234
+                children: []
+          - title: "The Concept of Isomorphism"
+            page_number: 235
+            children: []
+          - title: "The Classification of Finite Abelian Groups"
+            page_number: 237
+            children: []
+          - title: "Group Homomorphisms"
+            page_number: 240
+            children: []
+          - title: "Rings"
+            page_number: 244
+            children: []
+          - title: "Ring Homomorphisms"
+            page_number: 247
+            children: []
+          - title: "Integral Domains"
+            page_number: 250
+            children: []
+          - title: "Fields"
+            page_number: 251
+            children: []
+      - title: "Chapter 6 Review Questions"
+        page_number: 254
+        children: []
+
+  - title: "7 ADDITIONAL TOPICS"
+    page_number: 257
+    children:
+      - title: "Logic"
+        page_number: 257
+        children: []
+      - title: "Set Theory"
+        page_number: 259
+        children:
+          - title: "Subsets and Complements"
+            page_number: 259
+            children: []
+          - title: "Union and Intersection"
+            page_number: 260
+            children: []
+          - title: "Cartesian Products"
+            page_number: 260
+            children: []
+          - title: "Intervals of the Real Line"
+            page_number: 261
+            children: []
+          - title: "Venn Diagrams"
+            page_number: 263
+            children: []
+          - title: "Cardinality"
+            page_number: 263
+            children: []
+      - title: "Graph Theory"
+        page_number: 265
+        children: []
+      - title: "Algorithms"
+        page_number: 267
+        children: []
+      - title: "Combinatorics"
+        page_number: 267
+        children:
+          - title: "Permutations and Combinations"
+            page_number: 268
+            children: []
+          - title: "With Repetitions Allowed"
+            page_number: 270
+            children: []
+          - title: "The Pigeonhole Principle"
+            page_number: 271
+            children: []
+      - title: "Probability and Statistics"
+        page_number: 271
+        children:
+          - title: "Probability Spaces"
+            page_number: 273
+            children: []
+          - title: "Bernoulli Trials"
+            page_number: 276
+            children: []
+          - title: "Random Variables"
+            page_number: 277
+            children: []
+          - title: "Expectation, Variance, and Standard Deviation"
+            page_number: 279
+            children: []
+          - title: "The Normal Distribution"
+            page_number: 280
+            children: []
+          - title: "The Normal Approximation to the Binomial Distribution"
+            page_number: 282
+            children: []
+      - title: "Point-Set Topology"
+        page_number: 283
+        children:
+          - title: "The Subspace Topology"
+            page_number: 284
+            children: []
+          - title: "The Interior, Exterior, Boundary, Limit Points, and Closure of a Set"
+            page_number: 284
+            children: []
+          - title: "Basis for a Topology"
+            page_number: 286
+            children: []
+          - title: "The Product Topology"
+            page_number: 287
+            children: []
+          - title: "Connectedness"
+            page_number: 288
+            children: []
+          - title: "Compactness"
+            page_number: 288
+            children: []
+          - title: "Metric Spaces"
+            page_number: 289
+            children: []
+          - title: "Continuous Functions"
+            page_number: 290
+            children: []
+          - title: "Open Maps and Homeomorphisms"
+            page_number: 292
+            children: []
+      - title: "Real Analysis"
+        page_number: 293
+        children:
+          - title: "The Completeness of the Real Numbers"
+            page_number: 293
+            children: []
+          - title: "Lebesgue Measure"
+            page_number: 294
+            children: []
+          - title: "Lebesgue Measurable Functions"
+            page_number: 295
+            children: []
+          - title: "Lebesgue Integrable Functions"
+            page_number: 296
+            children: []
+      - title: "Complex Variables"
+        page_number: 298
+        children:
+          - title: "The Polar Form"
+            page_number: 299
+            children: []
+          - title: "The Exponential Form"
+            page_number: 300
+            children: []
+          - title: "Complex Roots"
+            page_number: 300
+            children: []
+          - title: "Complex Logarithms"
+            page_number: 302
+            children: []
+          - title: "Complex Powers"
+            page_number: 302
+            children: []
+          - title: "The Trigonometric Functions"
+            page_number: 303
+            children: []
+          - title: "The Hyperbolic Functions"
+            page_number: 304
+            children: []
+          - title: "The Derivative of a Function of a Complex Variable"
+            page_number: 305
+            children: []
+          - title: "The Cauchy-Riemann Equations"
+            page_number: 306
+            children: []
+          - title: "Analytic Functions"
+            page_number: 308
+            children: []
+          - title: "Complex Line Integrals"
+            page_number: 309
+            children: []
+          - title: "Theorems Concerning Analytic Functions"
+            page_number: 310
+            children: []
+          - title: "Taylor Series for Functions of a Complex Variable"
+            page_number: 311
+            children: []
+          - title: "Singularities, Poles, and Laurent Series"
+            page_number: 311
+            children: []
+          - title: "The Residue Theorem"
+            page_number: 314
+            children: []
+          - title: "Numerical Analysis"
+            page_number: 317
+            children: []
+      - title: "Chapter 7 Review Questions"
+        page_number: 319
+        children: []
+
+  - title: "8 SOLUTIONS TO THE CHAPTER REVIEW QUESTIONS"
+    page_number: 331
+    children: []
+
+  - title: "9 PRACTICE TEST"
+    page_number: 405
+    children: []
+
+  - title: "10 PRACTICE TEST ANSWERS AND EXPLANATIONS"
+    page_number: 421
+    children: []
+
+  - title: "About the Author"
+    page_number: 445
+    children: []
