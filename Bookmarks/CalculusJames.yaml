@@ -1,0 +1,699 @@
+offset: 37
+contents:
+  - title: "Frontcover"
+    page_number: -36
+    children: []
+  - title: "Contents"
+    page_number: -27
+    children: []
+
+  - title: "Preface"
+    page_number: -20
+    children: 
+      - title: "A Tribute to James Stewart"
+        page_number: -8
+        children: []
+      - title: "About the Authors"
+        page_number: -7
+        children: []
+      - title: "Technology in the Ninth Edition"
+        page_number: -6
+        children: []
+      - title: "To the Student"
+        page_number: -5
+        children: []
+      - title: "Diagnostic Tests"
+        page_number: -4
+        children: []
+      - title: "A Preview of Calculus"
+        page_number: 1
+        children: []
+
+  - title: "1 Functions and Limits"
+    page_number: 7
+    children:
+      - title: "1.1 Four Ways to Represent a Function"
+        page_number: 8
+        children: []
+      - title: "1.2 Mathematical Models: A Catalog of Essential Functions"
+        page_number: 21
+        children: []
+      - title: "1.3 New Functions from Old Functions"
+        page_number: 36
+        children: []
+      - title: "1.4 The Tangent and Velocity Problems"
+        page_number: 45
+        children: []
+      - title: "1.5 The Limit of a Function"
+        page_number: 51
+        children: []
+      - title: "1.6 Calculating Limits Using the Limit Laws"
+        page_number: 62
+        children: []
+      - title: "1.7 The Precise Definition of a Limit"
+        page_number: 73
+        children: []
+      - title: "1.8 Continuity"
+        page_number: 83
+        children: []
+      - title: "Review"
+        page_number: 95
+        children: []
+      - title: "Principles of Problem Solving"
+        page_number: 99
+        children: []
+
+  - title: "2 Derivatives"
+    page_number: 107
+    children:
+      - title: "2.1 Derivatives and Rates of Change"
+        page_number: 108
+        children: []
+      - title: "Writing Project: Early Methods for Finding Tangents"
+        page_number: 119
+        children: []
+      - title: "2.2 The Derivative as a Function"
+        page_number: 120
+        children: []
+      - title: "2.3 Differentiation Formulas"
+        page_number: 133
+        children: []
+      - title: "Applied Project: Building a Better Roller Coaster"
+        page_number: 147
+        children: []
+      - title: "2.4 Derivatives of Trigonometric Functions"
+        page_number: 148
+        children: []
+      - title: "2.5 The Chain Rule"
+        page_number: 156
+        children: []
+      - title: "Applied Project: Where Should a Pilot Start Descent?"
+        page_number: 163
+        children: []
+      - title: "2.6 Implicit Differentiation"
+        page_number: 164
+        children: []
+      - title: "Discovery Project: Families of Implicit Curves"
+        page_number: 172
+        children: []
+      - title: "2.7 Rates of Change in the Natural and Social Sciences"
+        page_number: 172
+        children: []
+      - title: "2.8 Related Rates"
+        page_number: 185
+        children: []
+      - title: "2.9 Linear Approximations and Differentials"
+        page_number: 192
+        children: []
+      - title: "Discovery Project: Polynomial Approximations"
+        page_number: 198
+        children: []
+      - title: "Review"
+        page_number: 199
+        children: []
+      - title: "Problems Plus"
+        page_number: 204
+        children: []
+
+  - title: "3 Applications of Differentiation"
+    page_number: 209
+    children:
+      - title: "3.1 Maximum and Minimum Values"
+        page_number: 210
+        children: []
+      - title: "Applied Project: The Calculus of Rainbows"
+        page_number: 219
+        children: []
+      - title: "3.2 The Mean Value Theorem"
+        page_number: 220
+        children: []
+      - title: "3.3 What Derivatives Tell Us about the Shape of a Graph"
+        page_number: 226
+        children: []
+      - title: "3.4 Limits at Infinity; Horizontal Asymptotes"
+        page_number: 237
+        children: []
+      - title: "3.5 Summary of Curve Sketching"
+        page_number: 250
+        children: []
+      - title: "3.6 Graphing with Calculus and Technology"
+        page_number: 258
+        children: []
+      - title: "3.7 Optimization Problems"
+        page_number: 265
+        children: []
+      - title: "Applied Project: The Shape of a Can"
+        page_number: 278
+        children: []
+      - title: "Applied Project: Planes and Birds: Minimizing Energy"
+        page_number: 279
+        children: []
+      - title: "3.8 Newton's Method"
+        page_number: 280
+        children: []
+      - title: "3.9 Antiderivatives"
+        page_number: 285
+        children: []
+      - title: "Review"
+        page_number: 292
+        children: []
+      - title: "Problems Plus"
+        page_number: 297
+        children: []
+
+  - title: "4 Integrals"
+    page_number: 301
+    children:
+      - title: "4.1 The Area and Distance Problems"
+        page_number: 302
+        children: []
+      - title: "4.2 The Definite Integral"
+        page_number: 314
+        children: []
+      - title: "Discovery Project: Area Functions"
+        page_number: 328
+        children: []
+      - title: "4.3 The Fundamental Theorem of Calculus"
+        page_number: 329
+        children: []
+      - title: "4.4 Indefinite Integrals and the Net Change Theorem"
+        page_number: 339
+        children: []
+      - title: "Writing Project: Newton, Leibniz, and the Invention of Calculus"
+        page_number: 348
+        children: []
+      - title: "4.5 The Substitution Rule"
+        page_number: 349
+        children: []
+      - title: "Review"
+        page_number: 357
+        children: []
+      - title: "Problems Plus"
+        page_number: 361
+        children: []
+
+  - title: "5 Applications of Integration"
+    page_number: 363
+    children:
+      - title: "5.1 Areas Between Curves"
+        page_number: 364
+        children: []
+      - title: "Applied Project: The Gini Index"
+        page_number: 373
+        children: []
+      - title: "5.2 Volumes"
+        page_number: 374
+        children: []
+      - title: "5.3 Volumes by Cylindrical Shells"
+        page_number: 388
+        children: []
+      - title: "5.4 Work"
+        page_number: 395
+        children: []
+      - title: "5.5 Average Value of a Function"
+        page_number: 401
+        children: []
+      - title: "Applied Project: Calculus and Baseball"
+        page_number: 404
+        children: []
+      - title: "Review"
+        page_number: 405
+        children: []
+      - title: "Problems Plus"
+        page_number: 408
+        children: []
+
+  - title: "6 Inverse Functions: Exponential, Logarithmic, and Inverse Trigonometric Functions"
+    page_number: 411
+    children:
+      - title: "6.1 Inverse Functions and Their Derivatives"
+        page_number: 412
+        children: []
+      - title: "6.2 Exponential Functions and Their Derivatives"
+        page_number: 420
+        children: []
+      - title: "6.2* The Natural Logarithmic Function"
+        page_number: 451
+        children: []
+      - title: "6.3 Logarithmic Functions"
+        page_number: 433
+        children: []
+      - title: "6.3* The Natural Exponential Function"
+        page_number: 460
+        children: []
+      - title: "6.4 Derivatives of Logarithmic Functions"
+        page_number: 440
+        children: []
+      - title: "6.4* General Logarithmic and Exponential Functions"
+        page_number: 468
+        children: []
+      - title: "6.5 Exponential Growth and Decay"
+        page_number: 478
+        children: []
+      - title: "Applied Project: Controlling Red Blood Cell Loss During Surgery"
+        page_number: 486
+        children: []
+      - title: "6.6 Inverse Trigonometric Functions"
+        page_number: 486
+        children: []
+      - title: "Applied Project: Where to Sit at the Movies"
+        page_number: 495
+        children: []
+      - title: "6.7 Hyperbolic Functions"
+        page_number: 495
+        children: []
+      - title: "6.8 Indeterminate Forms and l'Hospital's Rule"
+        page_number: 503
+        children: []
+      - title: "Writing Project: The Origins of l'Hospital's Rule"
+        page_number: 515
+        children: []
+      - title: "Review"
+        page_number: 516
+        children: []
+      - title: "Problems Plus"
+        page_number: 520
+        children: []
+
+  - title: "7 Techniques of Integration"
+    page_number: 523
+    children:
+      - title: "7.1 Integration by Parts"
+        page_number: 524
+        children: []
+      - title: "7.2 Trigonometric Integrals"
+        page_number: 531
+        children: []
+      - title: "7.3 Trigonometric Substitution"
+        page_number: 538
+        children: []
+      - title: "7.4 Integration of Rational Functions by Partial Fractions"
+        page_number: 545
+        children: []
+      - title: "7.5 Strategy for Integration"
+        page_number: 555
+        children: []
+      - title: "7.6 Integration Using Tables and Technology"
+        page_number: 561
+        children: []
+      - title: "Discovery Project: Patterns in Integrals"
+        page_number: 566
+        children: []
+      - title: "7.7 Approximate Integration"
+        page_number: 567
+        children: []
+      - title: "7.8 Improper Integrals"
+        page_number: 580
+        children: []
+      - title: "Review"
+        page_number: 590
+        children: []
+      - title: "Problems Plus"
+        page_number: 594
+        children: []
+
+  - title: "8 Further Applications of Integration"
+    page_number: 597
+    children:
+      - title: "8.1 Arc Length"
+        page_number: 598
+        children: []
+      - title: "Discovery Project: Arc Length Contest"
+        page_number: 605
+        children: []
+      - title: "8.2 Area of a Surface of Revolution"
+        page_number: 605
+        children: []
+      - title: "Discovery Project: Rotating on a Slant"
+        page_number: 613
+        children: []
+      - title: "8.3 Applications to Physics and Engineering"
+        page_number: 614
+        children: []
+      - title: "Discovery Project: Complementary Coffee Cups"
+        page_number: 625
+        children: []
+      - title: "8.4 Applications to Economics and Biology"
+        page_number: 625
+        children: []
+      - title: "8.5 Probability"
+        page_number: 630
+        children: []
+      - title: "Review"
+        page_number: 638
+        children: []
+      - title: "Problems Plus"
+        page_number: 640
+        children: []
+
+  - title: "9 Differential Equations"
+    page_number: 643
+    children:
+      - title: "9.1 Modeling with Differential Equations"
+        page_number: 644
+        children: []
+      - title: "9.2 Direction Fields and Euler's Method"
+        page_number: 650
+        children: []
+      - title: "9.3 Separable Equations"
+        page_number: 659
+        children: []
+      - title: "Applied Project: How Fast Does a Tank Drain?"
+        page_number: 668
+        children: []
+      - title: "9.4 Models for Population Growth"
+        page_number: 669
+        children: []
+      - title: "9.5 Linear Equations"
+        page_number: 679
+        children: []
+      - title: "Applied Project: Which Is Faster, Going Up or Coming Down?"
+        page_number: 686
+        children: []
+      - title: "9.6 Predator-Prey Systems"
+        page_number: 687
+        children: []
+      - title: "Review"
+        page_number: 694
+        children: []
+      - title: "Problems Plus"
+        page_number: 697
+        children: []
+
+  - title: "10 Parametric Equations and Polar Coordinates"
+    page_number: 699
+    children:
+      - title: "10.1 Curves Defined by Parametric Equations"
+        page_number: 700
+        children: []
+      - title: "Discovery Project: Running Circles Around Circles"
+        page_number: 710
+        children: []
+      - title: "10.2 Calculus with Parametric Curves"
+        page_number: 711
+        children: []
+      - title: "Discovery Project: Bézier Curves"
+        page_number: 722
+        children: []
+      - title: "10.3 Polar Coordinates"
+        page_number: 722
+        children: []
+      - title: "Discovery Project: Families of Polar Curves"
+        page_number: 732
+        children: []
+      - title: "10.4 Calculus in Polar Coordinates"
+        page_number: 732
+        children: []
+      - title: "10.5 Conic Sections"
+        page_number: 740
+        children: []
+      - title: "10.6 Conic Sections in Polar Coordinates"
+        page_number: 749
+        children: []
+      - title: "Review"
+        page_number: 757
+        children: []
+      - title: "Problems Plus"
+        page_number: 760
+        children: []
+
+  - title: "11 Sequences, Series, and Power Series"
+    page_number: 761
+    children:
+      - title: "11.1 Sequences"
+        page_number: 762
+        children: []
+      - title: "Discovery Project: Logistic Sequences"
+        page_number: 776
+        children: []
+      - title: "11.2 Series"
+        page_number: 776
+        children: []
+      - title: "11.3 The Integral Test and Estimates of Sums"
+        page_number: 789
+        children: []
+      - title: "11.4 The Comparison Tests"
+        page_number: 798
+        children: []
+      - title: "11.5 Alternating Series and Absolute Convergence"
+        page_number: 803
+        children: []
+      - title: "11.6 The Ratio and Root Tests"
+        page_number: 812
+        children: []
+      - title: "11.7 Strategy for Testing Series"
+        page_number: 817
+        children: []
+      - title: "11.8 Power Series"
+        page_number: 819
+        children: []
+      - title: "11.9 Representations of Functions as Power Series"
+        page_number: 825
+        children: []
+      - title: "11.10 Taylor and Maclaurin Series"
+        page_number: 833
+        children: []
+      - title: "Discovery Project: An Elusive Limit"
+        page_number: 848
+        children: []
+      - title: "Writing Project: How Newton Discovered the Binomial Series"
+        page_number: 849
+        children: []
+      - title: "11.11 Applications of Taylor Polynomials"
+        page_number: 849
+        children: []
+      - title: "Applied Project: Radiation from the Stars"
+        page_number: 858
+        children: []
+      - title: "Review"
+        page_number: 859
+        children: []
+      - title: "Problems Plus"
+        page_number: 863
+        children: []
+
+  - title: "12 Vectors and the Geometry of Space"
+    page_number: 867
+    children:
+      - title: "12.1 Three-Dimensional Coordinate Systems"
+        page_number: 868
+        children: []
+      - title: "12.2 Vectors"
+        page_number: 874
+        children: []
+      - title: "Discovery Project: The Shape of a Hanging Chain"
+        page_number: 884
+        children: []
+      - title: "12.3 The Dot Product"
+        page_number: 885
+        children: []
+      - title: "12.4 The Cross Product"
+        page_number: 893
+        children: []
+      - title: "Discovery Project: The Geometry of a Tetrahedron"
+        page_number: 902
+        children: []
+      - title: "12.5 Equations of Lines and Planes"
+        page_number: 902
+        children: []
+      - title: "Discovery Project: Putting 3D in Perspective"
+        page_number: 912
+        children: []
+      - title: "12.6 Cylinders and Quadric Surfaces"
+        page_number: 913
+        children: []
+      - title: "Review"
+        page_number: 921
+        children: []
+      - title: "Problems Plus"
+        page_number: 925
+        children: []
+
+  - title: "13 Vector Functions"
+    page_number: 927
+    children:
+      - title: "13.1 Vector Functions and Space Curves"
+        page_number: 928
+        children: []
+      - title: "13.2 Derivatives and Integrals of Vector Functions"
+        page_number: 936
+        children: []
+      - title: "13.3 Arc Length and Curvature"
+        page_number: 942
+        children: []
+      - title: "13.4 Motion in Space: Velocity and Acceleration"
+        page_number: 954
+        children: []
+      - title: "Applied Project: Kepler's Laws"
+        page_number: 963
+        children: []
+      - title: "Review"
+        page_number: 965
+        children: []
+      - title: "Problems Plus"
+        page_number: 968
+        children: []
+
+  - title: "14 Partial Derivatives"
+    page_number: 971
+    children:
+      - title: "14.1 Functions of Several Variables"
+        page_number: 972
+        children: []
+      - title: "14.2 Limits and Continuity"
+        page_number: 989
+        children: []
+      - title: "14.3 Partial Derivatives"
+        page_number: 999
+        children: []
+      - title: "Discovery Project: Deriving the Cobb-Douglas Production Function"
+        page_number: 1011
+        children: []
+      - title: "14.4 Tangent Planes and Linear Approximations"
+        page_number: 1012
+        children: []
+      - title: "Applied Project: The Speedo LZR Racer"
+        page_number: 1022
+        children: []
+      - title: "14.5 The Chain Rule"
+        page_number: 1023
+        children: []
+      - title: "14.6 Directional Derivatives and the Gradient Vector"
+        page_number: 1032
+        children: []
+      - title: "14.7 Maximum and Minimum Values"
+        page_number: 1046
+        children: []
+      - title: "Discovery Project: Quadratic Approximations and Critical Points"
+        page_number: 1057
+        children: []
+      - title: "14.8 Lagrange Multipliers"
+        page_number: 1058
+        children: []
+      - title: "Applied Project: Rocket Science"
+        page_number: 1066
+        children: []
+      - title: "Applied Project: Hydro-Turbine Optimization"
+        page_number: 1068
+        children: []
+      - title: "Review"
+        page_number: 1069
+        children: []
+      - title: "Problems Plus"
+        page_number: 1073
+        children: []
+
+  - title: "15 Multiple Integrals"
+    page_number: 1075
+    children:
+      - title: "15.1 Double Integrals over Rectangles"
+        page_number: 1076
+        children: []
+      - title: "15.2 Double Integrals over General Regions"
+        page_number: 1089
+        children: []
+      - title: "15.3 Double Integrals in Polar Coordinates"
+        page_number: 1100
+        children: []
+      - title: "15.4 Applications of Double Integrals"
+        page_number: 1107
+        children: []
+      - title: "15.5 Surface Area"
+        page_number: 1117
+        children: []
+      - title: "15.6 Triple Integrals"
+        page_number: 1120
+        children: []
+      - title: "Discovery Project: Volumes of Hyperspheres"
+        page_number: 1133
+        children: []
+      - title: "15.7 Triple Integrals in Cylindrical Coordinates"
+        page_number: 1133
+        children: []
+      - title: "Discovery Project: The Intersection of Three Cylinders"
+        page_number: 1139
+        children: []
+      - title: "15.8 Triple Integrals in Spherical Coordinates"
+        page_number: 1140
+        children: []
+      - title: "Applied Project: Roller Derby"
+        page_number: 1146
+        children: []
+      - title: "15.9 Change of Variables in Multiple Integrals"
+        page_number: 1147
+        children: []
+      - title: "Review"
+        page_number: 1155
+        children: []
+      - title: "Problems Plus"
+        page_number: 1159
+        children: []
+
+  - title: "16 Vector Calculus"
+    page_number: 1161
+    children:
+      - title: "16.1 Vector Fields"
+        page_number: 1162
+        children: []
+      - title: "16.2 Line Integrals"
+        page_number: 1169
+        children: []
+      - title: "16.3 The Fundamental Theorem for Line Integrals"
+        page_number: 1182
+        children: []
+      - title: "16.4 Green's Theorem"
+        page_number: 1192
+        children: []
+      - title: "16.5 Curl and Divergence"
+        page_number: 1199
+        children: []
+      - title: "16.6 Parametric Surfaces and Their Areas"
+        page_number: 1208
+        children: []
+      - title: "16.7 Surface Integrals"
+        page_number: 1220
+        children: []
+      - title: "16.8 Stokes' Theorem"
+        page_number: 1233
+        children: []
+      - title: "16.9 The Divergence Theorem"
+        page_number: 1239
+        children: []
+      - title: "16.10 Summary"
+        page_number: 1246
+        children: []
+      - title: "Review"
+        page_number: 1247
+        children: []
+      - title: "Problems Plus"
+        page_number: 1251
+        children: []
+
+  - title: "Appendixes"
+    page_number: 1253
+    children:
+      - title: "A Numbers, Inequalities, and Absolute Values"
+        page_number: 1254
+        children: []
+      - title: "B Coordinate Geometry and Lines"
+        page_number: 1262
+        children: []
+      - title: "C Graphs of Second-Degree Equations"
+        page_number: 1268
+        children: []
+      - title: "D Trigonometry"
+        page_number: 1276
+        children: []
+      - title: "E Sigma Notation"
+        page_number: 1288
+        children: []
+      - title: "F Proofs of Theorems"
+        page_number: 1293
+        children: []
+      - title: "G Answers to Odd-Numbered Exercises"
+        page_number: 1303
+        children: []
+
+  - title: "References Tables"
+    page_number: 1387
+    children: []
