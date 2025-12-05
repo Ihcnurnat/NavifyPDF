@@ -1,0 +1,819 @@
+offset: 0
+contents:
+  - title: "Title Page"
+    page_number: 1
+    children: []
+
+  - title: "Preface"
+    page_number: 8
+    children: 
+      - title: "Preface to the Second Edition"
+        page_number: 8
+        children: []
+      - title: "Preface to the First Edition"
+        page_number: 10
+        children: []
+
+  - title: "Contents"
+    page_number: 12
+    children: []
+
+  - title: "A Brief Introduction"
+    page_number: 20
+    children: []
+
+  - title: "Chapter 1 Euclidean Spaces"
+    page_number: 22
+    children:
+      - title: "§1 Smooth Functions on a Euclidean Space"
+        page_number: 22
+        children:
+          - title: "1.1 C∞ Versus Analytic Functions"
+            page_number: 23
+            children: []
+          - title: "1.2 Taylor's Theorem with Remainder"
+            page_number: 24
+            children: []
+          - title: "Problems"
+            page_number: 27
+            children: []
+      - title: "§2 Tangent Vectors in Rn as Derivations"
+        page_number: 29
+        children:
+          - title: "2.1 The Directional Derivative"
+            page_number: 29
+            children: []
+          - title: "2.2 Germs of Functions"
+            page_number: 30
+            children: []
+          - title: "2.3 Derivations at a Point"
+            page_number: 32
+            children: []
+          - title: "2.4 Vector Fields"
+            page_number: 33
+            children: []
+          - title: "2.5 Vector Fields as Derivations"
+            page_number: 35
+            children: []
+          - title: "Problems"
+            page_number: 36
+            children: []
+      - title: "§3 The Exterior Algebra of Multicovectors"
+        page_number: 37
+        children:
+          - title: "3.1 Dual Space"
+            page_number: 38
+            children: []
+          - title: "3.2 Permutations"
+            page_number: 39
+            children: []
+          - title: "3.3 Multilinear Functions"
+            page_number: 41
+            children: []
+          - title: "3.4 The Permutation Action on Multilinear Functions"
+            page_number: 42
+            children: []
+          - title: "3.5 The Symmetrizing and Alternating Operators"
+            page_number: 43
+            children: []
+          - title: "3.6 The Tensor Product"
+            page_number: 44
+            children: []
+          - title: "3.7 The Wedge Product"
+            page_number: 45
+            children: []
+          - title: "3.8 Anticommutativity of the Wedge Product"
+            page_number: 46
+            children: []
+          - title: "3.9 Associativity of the Wedge Product"
+            page_number: 47
+            children: []
+          - title: "3.10 A Basis for k-Covectors"
+            page_number: 50
+            children: []
+          - title: "Problems"
+            page_number: 51
+            children: []
+      - title: "§4 Differential Forms on Rn"
+        page_number: 53
+        children:
+          - title: "4.1 Differential 1-Forms and the Differential of a Function"
+            page_number: 53
+            children: []
+          - title: "4.2 Differential k-Forms"
+            page_number: 55
+            children: []
+          - title: "4.3 Differential Forms as Multilinear Functions on Vector Fields"
+            page_number: 56
+            children: []
+          - title: "4.4 The Exterior Derivative"
+            page_number: 57
+            children: []
+          - title: "4.5 Closed Forms and Exact Forms"
+            page_number: 59
+            children: []
+          - title: "4.6 Applications to Vector Calculus"
+            page_number: 60
+            children: []
+          - title: "4.7 Convention on Subscripts and Superscripts"
+            page_number: 63
+            children: []
+          - title: "Problems"
+            page_number: 63
+            children: []
+
+  - title: "Chapter 2 Manifolds"
+    page_number: 65
+    children:
+      - title: "§5 Manifolds"
+        page_number: 66
+        children:
+          - title: "5.1 Topological Manifolds"
+            page_number: 66
+            children: []
+          - title: "5.2 Compatible Charts"
+            page_number: 67
+            children: []
+          - title: "5.3 Smooth Manifolds"
+            page_number: 70
+            children: []
+          - title: "5.4 Examples of Smooth Manifolds"
+            page_number: 71
+            children: []
+          - title: "Problems"
+            page_number: 75
+            children: []
+      - title: "§6 Smooth Maps on a Manifold"
+        page_number: 77
+        children:
+          - title: "6.1 Smooth Functions on a Manifold"
+            page_number: 77
+            children: []
+          - title: "6.2 Smooth Maps Between Manifolds"
+            page_number: 79
+            children: []
+          - title: "6.3 Diffeomorphisms"
+            page_number: 81
+            children: []
+          - title: "6.4 Smoothness in Terms of Components"
+            page_number: 81
+            children: []
+          - title: "6.5 Examples of Smooth Maps"
+            page_number: 83
+            children: []
+          - title: "6.6 Partial Derivatives"
+            page_number: 85
+            children: []
+          - title: "6.7 The Inverse Function Theorem"
+            page_number: 86
+            children: []
+          - title: "Problems"
+            page_number: 88
+            children: []
+      - title: "§7 Quotients"
+        page_number: 89
+        children:
+          - title: "7.1 The Quotient Topology"
+            page_number: 89
+            children: []
+          - title: "7.2 Continuity of a Map on a Quotient"
+            page_number: 90
+            children: []
+          - title: "7.3 Identification of a Subset to a Point"
+            page_number: 91
+            children: []
+          - title: "7.4 A Necessary Condition for a Hausdorff Quotient"
+            page_number: 91
+            children: []
+          - title: "7.5 Open Equivalence Relations"
+            page_number: 92
+            children: []
+          - title: "7.6 Real Projective Space"
+            page_number: 94
+            children: []
+          - title: "7.7 The Standard C∞ Atlas on a Real Projective Space"
+            page_number: 97
+            children: []
+          - title: "Problems"
+            page_number: 99
+            children: []
+
+  - title: "Chapter 3 The Tangent Space"
+    page_number: 102
+    children:
+      - title: "§8 The Tangent Space"
+        page_number: 103
+        children:
+          - title: "8.1 The Tangent Space at a Point"
+            page_number: 103
+            children: []
+          - title: "8.2 The Differential of a Map"
+            page_number: 104
+            children: []
+          - title: "8.3 The Chain Rule"
+            page_number: 105
+            children: []
+          - title: "8.4 Bases for the Tangent Space at a Point"
+            page_number: 106
+            children: []
+          - title: "8.5 A Local Expression for the Differential"
+            page_number: 108
+            children: []
+          - title: "8.6 Curves in a Manifold"
+            page_number: 109
+            children: []
+          - title: "8.7 Computing the Differential Using Curves"
+            page_number: 112
+            children: []
+          - title: "8.8 Immersions and Submersions"
+            page_number: 113
+            children: []
+          - title: "8.9 Rank, and Critical and Regular Points"
+            page_number: 113
+            children: []
+          - title: "Problems"
+            page_number: 115
+            children: []
+      - title: "§9 Submanifolds"
+        page_number: 117
+        children:
+          - title: "9.1 Submanifolds"
+            page_number: 117
+            children: []
+          - title: "9.2 Level Sets of a Function"
+            page_number: 120
+            children: []
+          - title: "9.3 The Regular Level Set Theorem"
+            page_number: 122
+            children: []
+          - title: "9.4 Examples of Regular Submanifolds"
+            page_number: 123
+            children: []
+          - title: "Problems"
+            page_number: 125
+            children: []
+      - title: "§10 Categories and Functors"
+        page_number: 127
+        children:
+          - title: "10.1 Categories"
+            page_number: 127
+            children: []
+          - title: "10.2 Functors"
+            page_number: 128
+            children: []
+          - title: "10.3 The Dual Functor and the Multicovector Functor"
+            page_number: 130
+            children: []
+          - title: "Problems"
+            page_number: 131
+            children: []
+      - title: "§11 The Rank of a Smooth Map"
+        page_number: 132
+        children:
+          - title: "11.1 Constant Rank Theorem"
+            page_number: 132
+            children: []
+          - title: "11.2 The Immersion and Submersion Theorems"
+            page_number: 135
+            children: []
+          - title: "11.3 Images of Smooth Maps"
+            page_number: 137
+            children: []
+          - title: "11.4 Smooth Maps into a Submanifold"
+            page_number: 141
+            children: []
+          - title: "11.5 The Tangent Plane to a Surface in R3"
+            page_number: 142
+            children: []
+          - title: "Problems"
+            page_number: 144
+            children: []
+      - title: "§12 The Tangent Bundle"
+        page_number: 146
+        children:
+          - title: "12.1 The Topology of the Tangent Bundle"
+            page_number: 146
+            children: []
+          - title: "12.2 The Manifold Structure on the Tangent Bundle"
+            page_number: 149
+            children: []
+          - title: "12.3 Vector Bundles"
+            page_number: 150
+            children: []
+          - title: "12.4 Smooth Sections"
+            page_number: 153
+            children: []
+          - title: "12.5 Smooth Frames"
+            page_number: 154
+            children: []
+          - title: "Problems"
+            page_number: 156
+            children: []
+      - title: "§13 Bump Functions and Partitions of Unity"
+        page_number: 157
+        children:
+          - title: "13.1 C∞ Bump Functions"
+            page_number: 157
+            children: []
+          - title: "13.2 Partitions of Unity"
+            page_number: 162
+            children: []
+          - title: "13.3 Existence of a Partition of Unity"
+            page_number: 163
+            children: []
+          - title: "Problems"
+            page_number: 164
+            children: []
+      - title: "§14 Vector Fields"
+        page_number: 166
+        children:
+          - title: "14.1 Smoothness of a Vector Field"
+            page_number: 166
+            children: []
+          - title: "14.2 Integral Curves"
+            page_number: 169
+            children: []
+          - title: "14.3 Local Flows"
+            page_number: 171
+            children: []
+          - title: "14.4 The Lie Bracket"
+            page_number: 174
+            children: []
+          - title: "14.5 The Pushforward of Vector Fields"
+            page_number: 176
+            children: []
+          - title: "14.6 Related Vector Fields"
+            page_number: 176
+            children: []
+          - title: "Problems"
+            page_number: 178
+            children: []
+
+  - title: "Chapter 4 Lie Groups and Lie Algebras"
+    page_number: 180
+    children:
+      - title: "§15 Lie Groups"
+        page_number: 181
+        children:
+          - title: "15.1 Examples of Lie Groups"
+            page_number: 181
+            children: []
+          - title: "15.2 Lie Subgroups"
+            page_number: 184
+            children: []
+          - title: "15.3 The Matrix Exponential"
+            page_number: 186
+            children: []
+          - title: "15.4 The Trace of a Matrix"
+            page_number: 188
+            children: []
+          - title: "15.5 The Differential of det at the Identity"
+            page_number: 191
+            children: []
+          - title: "Problems"
+            page_number: 191
+            children: []
+      - title: "§16 Lie Algebras"
+        page_number: 195
+        children:
+          - title: "16.1 Tangent Space at the Identity of a Lie Group"
+            page_number: 195
+            children: []
+          - title: "16.2 Left-Invariant Vector Fields on a Lie Group"
+            page_number: 197
+            children: []
+          - title: "16.3 The Lie Algebra of a Lie Group"
+            page_number: 199
+            children: []
+          - title: "16.4 The Lie Bracket on gl(n, R)"
+            page_number: 200
+            children: []
+          - title: "16.5 The Pushforward of Left-Invariant Vector Fields"
+            page_number: 201
+            children: []
+          - title: "16.6 The Differential as a Lie Algebra Homomorphism"
+            page_number: 202
+            children: []
+          - title: "Problems"
+            page_number: 204
+            children: []
+
+  - title: "Chapter 5 Differential Forms"
+    page_number: 206
+    children:
+      - title: "§17 Differential 1-Forms"
+        page_number: 207
+        children:
+          - title: "17.1 The Differential of a Function"
+            page_number: 208
+            children: []
+          - title: "17.2 Local Expression for a Differential 1-Form"
+            page_number: 208
+            children: []
+          - title: "17.3 The Cotangent Bundle"
+            page_number: 209
+            children: []
+          - title: "17.4 Characterization of C∞ 1-Forms"
+            page_number: 210
+            children: []
+          - title: "17.5 Pullback of 1-Forms"
+            page_number: 212
+            children: []
+          - title: "17.6 Restriction of 1-Forms to an Immersed Submanifold"
+            page_number: 214
+            children: []
+          - title: "Problems"
+            page_number: 216
+            children: []
+      - title: "§18 Differential k-Forms"
+        page_number: 217
+        children:
+          - title: "18.1 Differential Forms"
+            page_number: 217
+            children: []
+          - title: "18.2 Local Expression for a k-Form"
+            page_number: 219
+            children: []
+          - title: "18.3 The Bundle Point of View"
+            page_number: 220
+            children: []
+          - title: "18.4 Smooth k-Forms"
+            page_number: 220
+            children: []
+          - title: "18.5 Pullback of k-Forms"
+            page_number: 221
+            children: []
+          - title: "18.6 The Wedge Product"
+            page_number: 222
+            children: []
+          - title: "18.7 Differential Forms on a Circle"
+            page_number: 223
+            children: []
+          - title: "18.8 Invariant Forms on a Lie Group"
+            page_number: 224
+            children: []
+          - title: "Problems"
+            page_number: 225
+            children: []
+      - title: "§19 The Exterior Derivative"
+        page_number: 227
+        children:
+          - title: "19.1 Exterior Derivative on a Coordinate Chart"
+            page_number: 228
+            children: []
+          - title: "19.2 Local Operators"
+            page_number: 228
+            children: []
+          - title: "19.3 Existence of an Exterior Derivative on a Manifold"
+            page_number: 229
+            children: []
+          - title: "19.4 Uniqueness of the Exterior Derivative"
+            page_number: 230
+            children: []
+          - title: "19.5 Exterior Differentiation Under a Pullback"
+            page_number: 231
+            children: []
+          - title: "19.6 Restriction of k-Forms to a Submanifold"
+            page_number: 233
+            children: []
+          - title: "19.7 A Nowhere-Vanishing 1-Form on the Circle"
+            page_number: 233
+            children: []
+          - title: "Problems"
+            page_number: 235
+            children: []
+      - title: "§20 The Lie Derivative and Interior Multiplication"
+        page_number: 238
+        children:
+          - title: "20.1 Families of Vector Fields and Differential Forms"
+            page_number: 238
+            children: []
+          - title: "20.2 The Lie Derivative of a Vector Field"
+            page_number: 240
+            children: []
+          - title: "20.3 The Lie Derivative of a Differential Form"
+            page_number: 243
+            children: []
+          - title: "20.4 Interior Multiplication"
+            page_number: 244
+            children: []
+          - title: "20.5 Properties of the Lie Derivative"
+            page_number: 246
+            children: []
+          - title: "20.6 Global Formulas for the Lie and Exterior Derivatives"
+            page_number: 249
+            children: []
+          - title: "Problems"
+            page_number: 250
+            children: []
+
+  - title: "Chapter 6 Integration"
+    page_number: 252
+    children:
+      - title: "§21 Orientations"
+        page_number: 253
+        children:
+          - title: "21.1 Orientations of a Vector Space"
+            page_number: 253
+            children: []
+          - title: "21.2 Orientations and n-Covectors"
+            page_number: 255
+            children: []
+          - title: "21.3 Orientations on a Manifold"
+            page_number: 257
+            children: []
+          - title: "21.4 Orientations and Differential Forms"
+            page_number: 259
+            children: []
+          - title: "21.5 Orientations and Atlases"
+            page_number: 262
+            children: []
+          - title: "Problems"
+            page_number: 263
+            children: []
+      - title: "§22 Manifolds with Boundary"
+        page_number: 265
+        children:
+          - title: "22.1 Smooth Invariance of Domain in Rn"
+            page_number: 265
+            children: []
+          - title: "22.2 Manifolds with Boundary"
+            page_number: 267
+            children: []
+          - title: "22.3 The Boundary of a Manifold with Boundary"
+            page_number: 270
+            children: []
+          - title: "22.4 Tangent Vectors, Differential Forms, and Orientations"
+            page_number: 270
+            children: []
+          - title: "22.5 Outward-Pointing Vector Fields"
+            page_number: 271
+            children: []
+          - title: "22.6 Boundary Orientation"
+            page_number: 272
+            children: []
+          - title: "Problems"
+            page_number: 273
+            children: []
+      - title: "§23 Integration on Manifolds"
+        page_number: 277
+        children:
+          - title: "23.1 The Riemann Integral of a Function on Rn"
+            page_number: 277
+            children: []
+          - title: "23.2 Integrability Conditions"
+            page_number: 279
+            children: []
+          - title: "23.3 The Integral of an n-Form on Rn"
+            page_number: 280
+            children: []
+          - title: "23.4 Integral of a Differential Form over a Manifold"
+            page_number: 282
+            children: []
+          - title: "23.5 Stokes's Theorem"
+            page_number: 286
+            children: []
+          - title: "23.6 Line Integrals and Green's Theorem"
+            page_number: 288
+            children: []
+          - title: "Problems"
+            page_number: 289
+            children: []
+
+  - title: "Chapter 7 De Rham Theory"
+    page_number: 290
+    children:
+      - title: "§24 De Rham Cohomology"
+        page_number: 291
+        children:
+          - title: "24.1 De Rham Cohomology"
+            page_number: 291
+            children: []
+          - title: "24.2 Examples of de Rham Cohomology"
+            page_number: 293
+            children: []
+          - title: "24.3 Diffeomorphism Invariance"
+            page_number: 295
+            children: []
+          - title: "24.4 The Ring Structure on de Rham Cohomology"
+            page_number: 296
+            children: []
+          - title: "Problems"
+            page_number: 297
+            children: []
+      - title: "§25 The Long Exact Sequence in Cohomology"
+        page_number: 298
+        children:
+          - title: "25.1 Exact Sequences"
+            page_number: 298
+            children: []
+          - title: "25.2 Cohomology of Cochain Complexes"
+            page_number: 300
+            children: []
+          - title: "25.3 The Connecting Homomorphism"
+            page_number: 301
+            children: []
+          - title: "25.4 The Zig-Zag Lemma"
+            page_number: 302
+            children: []
+          - title: "Problems"
+            page_number: 304
+            children: []
+      - title: "§26 The Mayer-Vietoris Sequence"
+        page_number: 305
+        children:
+          - title: "26.1 The Mayer-Vietoris Sequence"
+            page_number: 305
+            children: []
+          - title: "26.2 The Cohomology of the Circle"
+            page_number: 309
+            children: []
+          - title: "26.3 The Euler Characteristic"
+            page_number: 312
+            children: []
+          - title: "Problems"
+            page_number: 312
+            children: []
+      - title: "§27 Homotopy Invariance"
+        page_number: 313
+        children:
+          - title: "27.1 Smooth Homotopy"
+            page_number: 313
+            children: []
+          - title: "27.2 Homotopy Type"
+            page_number: 314
+            children: []
+          - title: "27.3 Deformation Retractions"
+            page_number: 316
+            children: []
+          - title: "27.4 The Homotopy Axiom for de Rham Cohomology"
+            page_number: 317
+            children: []
+          - title: "Problems"
+            page_number: 318
+            children: []
+      - title: "§28 Computation of de Rham Cohomology"
+        page_number: 319
+        children:
+          - title: "28.1 Cohomology Vector Space of a Torus"
+            page_number: 319
+            children: []
+          - title: "28.2 The Cohomology Ring of a Torus"
+            page_number: 320
+            children: []
+          - title: "28.3 The Cohomology of a Surface of Genus g"
+            page_number: 323
+            children: []
+          - title: "Problems"
+            page_number: 327
+            children: []
+      - title: "§29 Proof of Homotopy Invariance"
+        page_number: 328
+        children:
+          - title: "29.1 Reduction to Two Sections"
+            page_number: 328
+            children: []
+          - title: "29.2 Cochain Homotopies"
+            page_number: 329
+            children: []
+          - title: "29.3 Differential Forms on M × R"
+            page_number: 329
+            children: []
+          - title: "29.4 A Cochain Homotopy Between i∗0 and i∗1"
+            page_number: 331
+            children: []
+          - title: "29.5 Verification of Cochain Homotopy"
+            page_number: 332
+            children: []
+          - title: "Problems"
+            page_number: 333
+            children: []
+
+  - title: "Appendices"
+    page_number: 334
+    children:
+      - title: "§A Point-Set Topology"
+        page_number: 334
+        children:
+          - title: "A.1 Topological Spaces"
+            page_number: 334
+            children: []
+          - title: "A.2 Subspace Topology"
+            page_number: 337
+            children: []
+          - title: "A.3 Bases"
+            page_number: 338
+            children: []
+          - title: "A.4 First and Second Countability"
+            page_number: 340
+            children: []
+          - title: "A.5 Separation Axioms"
+            page_number: 341
+            children: []
+          - title: "A.6 Product Topology"
+            page_number: 343
+            children: []
+          - title: "A.7 Continuity"
+            page_number: 344
+            children: []
+          - title: "A.8 Compactness"
+            page_number: 346
+            children: []
+          - title: "A.9 Boundedness in Rn"
+            page_number: 349
+            children: []
+          - title: "A.10 Connectedness"
+            page_number: 349
+            children: []
+          - title: "A.11 Connected Components"
+            page_number: 350
+            children: []
+          - title: "A.12 Closure"
+            page_number: 351
+            children: []
+          - title: "A.13 Convergence"
+            page_number: 353
+            children: []
+          - title: "Problems"
+            page_number: 354
+            children: []
+      - title: "§B The Inverse Function Theorem on Rn and Related Results"
+        page_number: 356
+        children:
+          - title: "B.1 The Inverse Function Theorem"
+            page_number: 356
+            children: []
+          - title: "B.2 The Implicit Function Theorem"
+            page_number: 356
+            children: []
+          - title: "B.3 Constant Rank Theorem"
+            page_number: 360
+            children: []
+          - title: "Problems"
+            page_number: 361
+            children: []
+      - title: "§C Existence of a Partition of Unity in General"
+        page_number: 363
+        children: []
+      - title: "§D Linear Algebra"
+        page_number: 366
+        children:
+          - title: "D.1 Quotient Vector Spaces"
+            page_number: 366
+            children: []
+          - title: "D.2 Linear Transformations"
+            page_number: 367
+            children: []
+          - title: "D.3 Direct Product and Direct Sum"
+            page_number: 368
+            children: []
+          - title: "Problems"
+            page_number: 369
+            children: []
+      - title: "§E Quaternions and the Symplectic Group"
+        page_number: 370
+        children:
+          - title: "E.1 Representation of Linear Maps by Matrices"
+            page_number: 371
+            children: []
+          - title: "E.2 Quaternionic Conjugation"
+            page_number: 372
+            children: []
+          - title: "E.3 Quaternionic Inner Product"
+            page_number: 373
+            children: []
+          - title: "E.4 Representations of Quaternions by Complex Numbers"
+            page_number: 373
+            children: []
+          - title: "E.5 Quaternionic Inner Product in Terms of Complex Components"
+            page_number: 374
+            children: []
+          - title: "E.6 H-Linearity in Terms of Complex Numbers"
+            page_number: 374
+            children: []
+          - title: "E.7 Symplectic Group"
+            page_number: 375
+            children: []
+          - title: "Problems"
+            page_number: 376
+            children: []
+
+  - title: "Solutions to Selected Exercises Within the Text"
+    page_number: 378
+    children: []
+
+  - title: "Hints and Solutions to Selected End-of-Section Problems"
+    page_number: 383
+    children: []
+
+  - title: "List of Notations"
+    page_number: 403
+    children: []
+
+  - title: "References"
+    page_number: 411
+    children: []
+
+  - title: "Index"
+    page_number: 413
+    children: []
