@@ -1,0 +1,162 @@
+offset: 14
+contents:
+
+  - title: "Compact Riemann Surfaces"
+    page_number: -13
+    children: []
+  - title: "Preface"
+    page_number: -8
+    children: []
+  - title: "Contents"
+    page_number: -1
+    children: []
+
+  - title: "1 Topological Foundations"
+    page_number: 1
+    children:
+      - title: "1.1 Manifolds and Differentiable Manifolds"
+        page_number: 1
+        children: []
+      - title: "1.2 Homotopy of Maps. The Fundamental Group"
+        page_number: 3
+        children: []
+      - title: "1.3 Coverings"
+        page_number: 6
+        children: []
+      - title: "1.4 Global Continuation of Functions on Simply-Connected Manifolds"
+        page_number: 15
+        children: []
+
+  - title: "2 Differential Geometry of Riemann Surfaces"
+    page_number: 17
+    children:
+      - title: "2.1 The Concept of a Riemann Surface"
+        page_number: 17
+        children: []
+      - title: "2.2 Some Simple Properties of Riemann Surfaces"
+        page_number: 19
+        children: []
+      - title: "2.3 Metrics on Riemann Surfaces"
+        page_number: 20
+        children: []
+      - title: "2.3.A Triangulations of Compact Riemann Surfaces"
+        page_number: 31
+        children: []
+      - title: "2.4 Discrete Groups of Hyperbolic Isometries. Fundamental Polygons. Some Basic Concepts of Surface Topology and Geometry"
+        page_number: 39
+        children: []
+      - title: "2.4.A The Topological Classification of Compact Riemann Surfaces"
+        page_number: 54
+        children: []
+      - title: "2.5 The Theorems of Gauss-Bonnet and Riemann-Hurwitz"
+        page_number: 57
+        children: []
+      - title: "2.6 A General Schwarz Lemma"
+        page_number: 64
+        children: []
+      - title: "2.7 Conformal Structures on Tori"
+        page_number: 72
+        children: []
+
+  - title: "3 Harmonic Maps"
+    page_number: 79
+    children:
+      - title: "3.1 Review: Banach and Hilbert Spaces. The Hilbert Space L2"
+        page_number: 79
+        children: []
+      - title: "3.2 The Sobolev Space W1,2 = H1,2"
+        page_number: 91
+        children: []
+      - title: "3.3 The Dirichlet Principle. Weak Solutions of the Poisson Equation"
+        page_number: 99
+        children: []
+      - title: "3.4 Harmonic and Subharmonic Functions"
+        page_number: 103
+        children: []
+      - title: "3.5 The Cα Regularity Theory"
+        page_number: 110
+        children: []
+      - title: "3.6 Maps Between Surfaces. The Energy Integral. Definition and Simple Properties of Harmonic Maps"
+        page_number: 119
+        children: []
+      - title: "3.7 Existence of Harmonic Maps"
+        page_number: 125
+        children: []
+      - title: "3.8 Regularity of Harmonic Maps"
+        page_number: 134
+        children: []
+      - title: "3.9 Uniqueness of Harmonic Maps"
+        page_number: 138
+        children: []
+      - title: "3.10 Harmonic Diffeomorphisms"
+        page_number: 144
+        children: []
+      - title: "3.11 Metrics and Conformal Structures"
+        page_number: 152
+        children: []
+
+  - title: "4 Teichmüller Spaces"
+    page_number: 160
+    children:
+      - title: "4.1 The Basic Definitions"
+        page_number: 160
+        children: []
+      - title: "4.2 Harmonic Maps, Conformal Structures and Holomorphic Quadratic Differentials. Teichmüller's Theorem"
+        page_number: 162
+        children: []
+      - title: "4.3 Fenchel-Nielsen Coordinates. An Alternative Approach to the Topology of Teichmüller Space"
+        page_number: 172
+        children: []
+      - title: "4.4 Uniformization of Compact Riemann Surfaces"
+        page_number: 182
+        children: []
+
+  - title: "5 Geometric Structures on Riemann Surfaces"
+    page_number: 186
+    children:
+      - title: "5.1 Preliminaries: Cohomology and Homology Groups"
+        page_number: 186
+        children: []
+      - title: "5.2 Harmonic and Holomorphic Differential Forms on Riemann Surfaces"
+        page_number: 194
+        children: []
+      - title: "5.3 The Periods of Holomorphic and Meromorphic Differential Forms"
+        page_number: 202
+        children: []
+      - title: "5.4 Divisors. The Riemann-Roch Theorem"
+        page_number: 207
+        children: []
+      - title: "5.5 Holomorphic 1-Forms and Metrics on Compact Riemann Surfaces"
+        page_number: 219
+        children: []
+      - title: "5.6 Divisors and Line Bundles"
+        page_number: 221
+        children: []
+      - title: "5.7 Projective Embeddings"
+        page_number: 232
+        children: []
+      - title: "5.8 Algebraic Curves"
+        page_number: 239
+        children: []
+      - title: "5.9 Abel's Theorem and the Jacobi Inversion Theorem"
+        page_number: 252
+        children: []
+      - title: "5.10 Elliptic Curves"
+        page_number: 259
+        children: []
+
+  - title: "Sources and References"
+    page_number: 265
+    children: []
+
+  - title: "Bibliography"
+    page_number: 267
+    children: []
+
+  - title: "Index of Notation"
+    page_number: 269
+    children: []
+
+  - title: "Index"
+    page_number: 271
+    children: []

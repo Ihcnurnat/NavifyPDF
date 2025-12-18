@@ -2,10 +2,17 @@ offset: 0
 contents:
   - title: "Front Matter"
     page_number: 1
-    children: []
-  - title: "Contents"
-    page_number: 12
-    children: []
+    children: 
+      - title: "FOREWORD"
+        page_number: 6
+        children: []
+      - title: "Logical Prerequisites"
+        page_number: 10
+        children: []
+      - title: "Contents"
+        page_number: 12
+        children: []
+
   - title: "Part One The Basic Objects of Algebra"
     page_number: 17
     children:
@@ -13,124 +20,136 @@ contents:
         page_number: 18
         children:
           - title: "1. Monoids"
-            page_number: 3
+            page_number: 18
             children: []
           - title: "2. Groups"
-            page_number: 7
+            page_number: 22
             children: []
           - title: "3. Normal subgroups"
-            page_number: 13
+            page_number: 28
             children: []
           - title: "4. Cyclic groups"
-            page_number: 23
+            page_number: 38
             children: []
           - title: "5. Operations of a group on a set"
-            page_number: 25
+            page_number: 40
             children: []
           - title: "6. Sylow subgroups"
-            page_number: 33
+            page_number: 48
             children: []
           - title: "7. Direct sums and free abelian groups"
-            page_number: 36
+            page_number: 51
             children: []
           - title: "8. Finitely generated abelian groups"
-            page_number: 42
+            page_number: 57
             children: []
           - title: "9. The dual group"
-            page_number: 46
+            page_number: 61
             children: []
           - title: "10. Inverse limit and completion"
-            page_number: 49
+            page_number: 64
             children: []
           - title: "11. Categories and functors"
-            page_number: 53
+            page_number: 68
             children: []
           - title: "12. Free groups"
-            page_number: 66
+            page_number: 81
+            children: []
+          - title: "Exercises"
+            page_number: 90
             children: []
 
       - title: "Chapter II Rings"
         page_number: 98
         children:
           - title: "1. Rings and homomorphisms"
-            page_number: 83
+            page_number: 98
             children: []
           - title: "2. Commutative rings"
-            page_number: 92
-            children: []
-          - title: "3. Polynomials and group rings"
-            page_number: 97
-            children: []
-          - title: "4. Localization"
             page_number: 107
             children: []
+          - title: "3. Polynomials and group rings"
+            page_number: 112
+            children: []
+          - title: "4. Localization"
+            page_number: 122
+            children: []
           - title: "5. Principal and factorial rings"
-            page_number: 111
+            page_number: 126
+            children: []
+          - title: "Exercises"
+            page_number: 129
             children: []
 
       - title: "Chapter III Modules"
         page_number: 132
         children:
           - title: "1. Basic definitions"
-            page_number: 117
+            page_number: 132
             children: []
           - title: "2. The group of homomorphisms"
-            page_number: 122
+            page_number: 137
             children: []
           - title: "3. Direct products and sums of modules"
-            page_number: 127
-            children: []
-          - title: "4. Free modules"
-            page_number: 135
-            children: []
-          - title: "5. Vector spaces"
-            page_number: 139
-            children: []
-          - title: "6. The dual space and dual module"
             page_number: 142
             children: []
-          - title: "7. Modules over principal rings"
-            page_number: 146
+          - title: "4. Free modules"
+            page_number: 150
             children: []
-          - title: "8. Euler-Poincare maps"
-            page_number: 155
+          - title: "5. Vector spaces"
+            page_number: 154
             children: []
-          - title: "9. The snake lemma"
+          - title: "6. The dual space and dual module"
             page_number: 157
             children: []
+          - title: "7. Modules over principal rings"
+            page_number: 161
+            children: []
+          - title: "8. Euler-Poincare maps"
+            page_number: 170
+            children: []
+          - title: "9. The snake lemma"
+            page_number: 172
+            children: []
           - title: "10. Direct and inverse limits"
-            page_number: 159
+            page_number: 174
+            children: []
+          - title: "Exercises"
+            page_number: 180
             children: []
 
       - title: "Chapter IV Polynomials"
         page_number: 188
         children:
           - title: "1. Basic properties for polynomials in one variable"
-            page_number: 173
+            page_number: 188
             children: []
           - title: "2. Polynomials over a factorial ring"
-            page_number: 180
+            page_number: 195
             children: []
           - title: "3. Criteria for irreducibility"
-            page_number: 183
+            page_number: 198
             children: []
           - title: "4. Hilbert's theorem"
-            page_number: 186
+            page_number: 201
             children: []
           - title: "5. Partial fractions"
-            page_number: 187
+            page_number: 202
             children: []
           - title: "6. Symmetric polynomials"
-            page_number: 190
+            page_number: 205
             children: []
           - title: "7. Mason-Stothers theorem and the abc conjecture"
-            page_number: 194
+            page_number: 209
             children: []
           - title: "8. The resultant"
-            page_number: 199
+            page_number: 215
             children: []
           - title: "9. Power series"
-            page_number: 205
+            page_number: 220
+            children: []
+          - title: "Exercises"
+            page_number: 228
             children: []
 
   - title: "Part Two Algebraic Equations"
@@ -140,185 +159,209 @@ contents:
         page_number: 238
         children:
           - title: "1. Finite and algebraic extensions"
-            page_number: 225
+            page_number: 238
             children: []
           - title: "2. Algebraic closure"
-            page_number: 229
-            children: []
-          - title: "3. Splitting fields and normal extensions"
-            page_number: 236
-            children: []
-          - title: "4. Separable extensions"
-            page_number: 239
-            children: []
-          - title: "5. Finite fields"
             page_number: 244
             children: []
+          - title: "3. Splitting fields and normal extensions"
+            page_number: 250
+            children: []
+          - title: "4. Separable extensions"
+            page_number: 254
+            children: []
+          - title: "5. Finite fields"
+            page_number: 259
+            children: []
           - title: "6. Inseparable extensions"
-            page_number: 247
+            page_number: 262
+            children: []
+          - title: "Exercises"
+            page_number: 268
             children: []
 
       - title: "Chapter VI Galois Theory"
         page_number: 275
         children:
           - title: "1. Galois extensions"
-            page_number: 261
+            page_number: 275
             children: []
           - title: "2. Examples and applications"
-            page_number: 269
+            page_number: 283
             children: []
           - title: "3. Roots of unity"
-            page_number: 276
+            page_number: 290
             children: []
           - title: "4. Linear independence of characters"
-            page_number: 282
+            page_number: 296
             children: []
           - title: "5. The norm and trace"
-            page_number: 284
+            page_number: 298
             children: []
           - title: "6. Cyclic extensions"
-            page_number: 288
-            children: []
-          - title: "7. Solvable and radical extensions"
-            page_number: 291
-            children: []
-          - title: "8. Abelian Kummer theory"
-            page_number: 293
-            children: []
-          - title: "9. The equation X^n - a = 0"
-            page_number: 297
-            children: []
-          - title: "10. Galois cohomology"
             page_number: 302
             children: []
+          - title: "7. Solvable and radical extensions"
+            page_number: 305
+            children: []
+          - title: "8. Abelian Kummer theory"
+            page_number: 307
+            children: []
+          - title: "9. The equation X^n - a = 0"
+            page_number: 311
+            children: []
+          - title: "10. Galois cohomology"
+            page_number: 316
+            children: []
           - title: "11. Non-abelian Kummer extensions"
-            page_number: 304
+            page_number: 318
             children: []
           - title: "12. Algebraic independence of homomorphisms"
-            page_number: 308
+            page_number: 322
             children: []
           - title: "13. The normal basis theorem"
-            page_number: 312
+            page_number: 326
             children: []
           - title: "14. Infinite Galois extensions"
-            page_number: 313
+            page_number: 327
             children: []
           - title: "15. The modular connection"
-            page_number: 315
+            page_number: 329
+            children: []
+          - title: "Exercises"
+            page_number: 334
             children: []
 
       - title: "Chapter VII Extensions of Rings"
         page_number: 347
         children:
           - title: "1. Integral ring extensions"
-            page_number: 333
+            page_number: 347
             children: []
           - title: "2. Integral Galois extensions"
-            page_number: 340
+            page_number: 354
             children: []
           - title: "3. Extension of homomorphisms"
-            page_number: 346
+            page_number: 360
+            children: []
+          - title: "Exercises"
+            page_number: 366
             children: []
 
       - title: "Chapter VIII Transcendental Extensions"
         page_number: 369
         children:
           - title: "1. Transcendence bases"
-            page_number: 355
+            page_number: 369
             children: []
           - title: "2. Noether normalization theorem"
-            page_number: 357
+            page_number: 371
             children: []
           - title: "3. Linearly disjoint extensions"
-            page_number: 360
+            page_number: 374
             children: []
           - title: "4. Separable and regular extensions"
-            page_number: 363
+            page_number: 377
             children: []
           - title: "5. Derivations"
-            page_number: 368
+            page_number: 383
+            children: []
+          - title: "Exercises"
+            page_number: 388
             children: []
 
       - title: "Chapter IX Algebraic Spaces"
         page_number: 390
         children:
           - title: "1. Hilbert's Nullstellensatz"
-            page_number: 378
+            page_number: 391
             children: []
           - title: "2. Algebraic sets, spaces and varieties"
-            page_number: 381
+            page_number: 394
             children: []
           - title: "3. Projections and elimination"
-            page_number: 388
-            children: []
-          - title: "4. Resultant systems"
             page_number: 401
             children: []
+          - title: "4. Resultant systems"
+            page_number: 415
+            children: []
           - title: "5. Spec of a ring"
-            page_number: 405
+            page_number: 419
+            children: []
+          - title: "Exercises"
+            page_number: 423
             children: []
 
       - title: "Chapter X Noetherian Rings and Modules"
         page_number: 426
         children:
           - title: "1. Basic criteria"
-            page_number: 413
-            children: []
-          - title: "2. Associated primes"
-            page_number: 416
-            children: []
-          - title: "3. Primary decomposition"
-            page_number: 421
-            children: []
-          - title: "4. Nakayama's lemma"
-            page_number: 424
-            children: []
-          - title: "5. Filtered and graded modules"
             page_number: 426
             children: []
+          - title: "2. Associated primes"
+            page_number: 429
+            children: []
+          - title: "3. Primary decomposition"
+            page_number: 434
+            children: []
+          - title: "4. Nakayama's lemma"
+            page_number: 437
+            children: []
+          - title: "5. Filtered and graded modules"
+            page_number: 439
+            children: []
           - title: "6. The Hilbert polynomial"
-            page_number: 431
+            page_number: 444
             children: []
           - title: "7. Indecomposable modules"
-            page_number: 439
+            page_number: 452
+            children: []
+          - title: "Exercises"
+            page_number: 456
             children: []
 
       - title: "Chapter XI Real Fields"
         page_number: 461
         children:
           - title: "1. Ordered fields"
-            page_number: 449
+            page_number: 461
             children: []
           - title: "2. Real fields"
-            page_number: 451
+            page_number: 463
             children: []
           - title: "3. Real zeros and homomorphisms"
-            page_number: 457
+            page_number: 469
+            children: []
+          - title: "Exercises"
+            page_number: 473
             children: []
 
       - title: "Chapter XII Absolute Values"
         page_number: 476
         children:
           - title: "1. Definitions, dependence, and independence"
-            page_number: 465
-            children: []
-          - title: "2. Completions"
-            page_number: 468
-            children: []
-          - title: "3. Finite extensions"
             page_number: 476
             children: []
-          - title: "4. Valuations"
-            page_number: 480
+          - title: "2. Completions"
+            page_number: 479
             children: []
-          - title: "5. Completions and valuations"
-            page_number: 486
-            children: []
-          - title: "6. Discrete valuations"
+          - title: "3. Finite extensions"
             page_number: 487
             children: []
-          - title: "7. Zeros of polynomials in complete fields"
+          - title: "4. Valuations"
             page_number: 491
+            children: []
+          - title: "5. Completions and valuations"
+            page_number: 497
+            children: []
+          - title: "6. Discrete valuations"
+            page_number: 498
+            children: []
+          - title: "7. Zeros of polynomials in complete fields"
+            page_number: 502
+            children: []
+          - title: "Exercises"
+            page_number: 506
             children: []
 
   - title: "Part Three Linear Algebra and Representations"
@@ -328,44 +371,50 @@ contents:
         page_number: 512
         children:
           - title: "1. Matrices"
-            page_number: 503
+            page_number: 512
             children: []
           - title: "2. The rank of a matrix"
-            page_number: 506
+            page_number: 515
             children: []
           - title: "3. Matrices and linear maps"
-            page_number: 507
+            page_number: 516
             children: []
           - title: "4. Determinants"
-            page_number: 511
+            page_number: 520
             children: []
           - title: "5. Duality"
-            page_number: 522
-            children: []
-          - title: "6. Matrices and bilinear forms"
-            page_number: 527
-            children: []
-          - title: "7. Sesquilinear duality"
             page_number: 531
             children: []
-          - title: "8. The simplicity of SL2(F)/±I"
+          - title: "6. Matrices and bilinear forms"
             page_number: 536
             children: []
-          - title: "9. The group SLn(F), n ≥ 3"
+          - title: "7. Sesquilinear duality"
             page_number: 540
+            children: []
+          - title: "8. The simplicity of SL2(F)/±I"
+            page_number: 545
+            children: []
+          - title: "9. The group SLn(F), n ≥ 3"
+            page_number: 549
+            children: []
+          - title: "Exercises"
+            page_number: 554
             children: []
 
       - title: "Chapter XIV Representation of One Endomorphism"
         page_number: 562
         children:
           - title: "1. Representations"
-            page_number: 553
+            page_number: 562
             children: []
           - title: "2. Decomposition over one endomorphism"
-            page_number: 556
+            page_number: 565
             children: []
           - title: "3. The characteristic polynomial"
-            page_number: 561
+            page_number: 570
+            children: []
+          - title: "Exercises"
+            page_number: 576
             children: []
 
       - title: "Chapter XV Structure of Bilinear Forms"
@@ -404,114 +453,129 @@ contents:
           - title: "11. The Witt group"
             page_number: 603
             children: []
+          - title: "Exercises"
+            page_number: 604
+            children: []
 
       - title: "Chapter XVI The Tensor Product"
         page_number: 610
         children:
           - title: "1. Tensor product"
-            page_number: 601
+            page_number: 610
             children: []
           - title: "2. Basic properties"
-            page_number: 607
+            page_number: 616
             children: []
           - title: "3. Flat modules"
-            page_number: 612
+            page_number: 621
             children: []
           - title: "4. Extension of the base"
-            page_number: 623
-            children: []
-          - title: "5. Some functorial isomorphisms"
-            page_number: 625
-            children: []
-          - title: "6. Tensor product of algebras"
-            page_number: 629
-            children: []
-          - title: "7. The tensor algebra of a module"
             page_number: 632
             children: []
+          - title: "5. Some functorial isomorphisms"
+            page_number: 634
+            children: []
+          - title: "6. Tensor product of algebras"
+            page_number: 638
+            children: []
+          - title: "7. The tensor algebra of a module"
+            page_number: 641
+            children: []
           - title: "8. Symmetric products"
-            page_number: 635
+            page_number: 644
+            children: []
+          - title: "Exercises"  
+            page_number: 646
             children: []
 
       - title: "Chapter XVII Semisimplicity"
         page_number: 650
         children:
           - title: "1. Matrices and linear maps over non-commutative rings"
-            page_number: 641
+            page_number: 650
             children: []
           - title: "2. Conditions defining semisimplicity"
-            page_number: 645
-            children: []
-          - title: "3. The density theorem"
-            page_number: 646
-            children: []
-          - title: "4. Semisimple rings"
-            page_number: 651
-            children: []
-          - title: "5. Simple rings"
             page_number: 654
             children: []
+          - title: "3. The density theorem"
+            page_number: 655
+            children: []
+          - title: "4. Semisimple rings"
+            page_number: 660
+            children: []
+          - title: "5. Simple rings"
+            page_number: 663
+            children: []
           - title: "6. The Jacobson radical, base change, and tensor products"
-            page_number: 657
+            page_number: 666
             children: []
           - title: "7. Balanced modules"
-            page_number: 660
+            page_number: 669
+            children: []
+          - title: "Exercises"
+            page_number: 670
             children: []
 
       - title: "Chapter XVIII Representations of Finite Groups"
         page_number: 672
         children:
           - title: "1. Representations and semisimplicity"
-            page_number: 663
-            children: []
-          - title: "2. Characters"
-            page_number: 667
-            children: []
-          - title: "3. 1-dimensional representations"
-            page_number: 671
-            children: []
-          - title: "4. The space of class functions"
             page_number: 673
             children: []
-          - title: "5. Orthogonality relations"
-            page_number: 677
+          - title: "2. Characters"
+            page_number: 676
             children: []
-          - title: "6. Induced characters"
+          - title: "3. 1-dimensional representations"
+            page_number: 680
+            children: []
+          - title: "4. The space of class functions"
+            page_number: 682
+            children: []
+          - title: "5. Orthogonality relations"
             page_number: 686
             children: []
+          - title: "6. Induced characters"
+            page_number: 695
+            children: []
           - title: "7. Induced representations"
-            page_number: 688
+            page_number: 697
             children: []
           - title: "8. Positive decomposition of the regular character"
-            page_number: 699
+            page_number: 708
             children: []
           - title: "9. Supersolvable groups"
-            page_number: 702
+            page_number: 711
             children: []
           - title: "10. Brauer's theorem"
-            page_number: 704
+            page_number: 713
             children: []
           - title: "11. Field of definition of a representation"
-            page_number: 710
+            page_number: 719
             children: []
           - title: "12. Example: GL2 over a finite field"
-            page_number: 712
+            page_number: 721
+            children: []
+          - title: "Exercises"
+            page_number: 731
             children: []
 
       - title: "Chapter XIX The Alternating Product"
         page_number: 739
         children:
           - title: "1. Definition and basic properties"
-            page_number: 731
+            page_number: 739
             children: []
           - title: "2. Fitting ideals"
-            page_number: 738
-            children: []
-          - title: "3. Universal derivations and the de Rham complex"
             page_number: 746
             children: []
+          - title: "3. Universal derivations and the de Rham complex"
+            page_number: 754
+            children: []
           - title: "4. The Clifford algebra"
-            page_number: 749
+            page_number: 757
+            children: []
+          - title: "Exercises"
+            page_number: 761
             children: []
 
   - title: "Part Four Homological Algebra"
@@ -521,47 +585,53 @@ contents:
         page_number: 769
         children:
           - title: "1. Complexes"
-            page_number: 761
+            page_number: 769
             children: []
           - title: "2. Homology sequence"
-            page_number: 767
+            page_number: 775
             children: []
           - title: "3. Euler characteristic and the Grothendieck group"
-            page_number: 782
+            page_number: 777
             children: []
           - title: "4. Injective modules"
-            page_number: 787
-            children: []
-          - title: "5. Homotopies of morphisms of complexes"
             page_number: 790
             children: []
+          - title: "5. Homotopies of morphisms of complexes"
+            page_number: 795
+            children: []
           - title: "6. Derived functors"
-            page_number: 799
+            page_number: 798
             children: []
           - title: "7. Delta-functors"
-            page_number: 806
+            page_number: 807
             children: []
           - title: "8. Bifunctors"
             page_number: 814
             children: []
           - title: "9. Spectral sequences"
-            page_number: 835
+            page_number: 822
+            children: []
+          - title: "Exercises"
+            page_number: 834
             children: []
 
       - title: "Chapter XXI Finite Free Resolutions"
         page_number: 843
         children:
           - title: "1. Special complexes"
-            page_number: 835
+            page_number: 843
             children: []
           - title: "2. Finite free resolutions"
-            page_number: 839
+            page_number: 847
             children: []
           - title: "3. Unimodular polynomial vectors"
-            page_number: 846
+            page_number: 854
             children: []
           - title: "4. The Koszul complex"
-            page_number: 850
+            page_number: 858
+            children: []
+          - title: "Exercises"    
+            page_number: 872
             children: []
 
   - title: "Appendix 1 The Transcendence of e and π"
